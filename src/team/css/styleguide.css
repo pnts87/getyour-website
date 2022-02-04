@@ -1,0 +1,174 @@
+:root { 
+  --black: #000000;
+  --blue-jeans: #6db2f2;
+  --blue-jeans-2: #6db2f2e6;
+  --danube: #64a2dc;
+  --danube-2: #63a1db;
+  --eerie-black: #1f1f1f;
+  --endeavour: #075baa;
+  --gallery: #ededed;
+  --licorice: #141414;
+  --red: #ff0000;
+  --supernova: #ffcc00;
+  --thunderbird: #ba1919;
+  --white: #ffffff;
+ 
+  --font-size-l: 17px;
+  --font-size-m: 14px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 22px;
+  --font-size-xxxl: 25px;
+  --font-size-xxxxl: 27px;
+  --font-size-xxxxxl: 35px;
+ 
+  --font-family-forma_djr_micro: "Forma DJR Micro", Helvetica;
+  --font-family-formadjr_micro-bold: "FormaDJR Micro-Bold", Helvetica;
+  --font-family-formadjr_micro-light: "FormaDJR Micro-Light", Helvetica;
+  --font-family-formadjr_micro-medium: "FormaDJR Micro-Medium", Helvetica;
+  --font-family-formadjr_micro-regular: "FormaDJR Micro-Regular", Helvetica;
+  --font-family-magistral-book: "Magistral-Book", Helvetica;
+  --font-family-magistral-light: "Magistral-Light", Helvetica;
+}
+.formadjrmicro-regular-normal-gallery-14px {
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.magistral-book-normal-gallery-27px {
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-regular-normal-gallery-18px {
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.magistral-book-normal-gallery-32px {
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-regular-normal-licorice-22px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-regular-normal-licorice-11px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-regular-normal-licorice-15px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-regular-normal-licorice-17px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-medium-licorice-34px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.formadjrmicro-bold-gallery-22px {
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.magistral-light-gallery-21px {
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-light);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.magistral-book-normal-gallery-21px {
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-medium-licorice-10px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.formadjrmicro-medium-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.formadjrmicro-bold-gallery-27px {
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.formadjrmicro-medium-licorice-18px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.formadjrmicro-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.formadjrmicro-medium-licorice-24px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}

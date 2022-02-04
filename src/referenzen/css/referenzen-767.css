@@ -1,0 +1,2102 @@
+/* screen - referenzen-1200 */
+
+.referenzen-1200 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1329px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.referenzen-1200 .gruppe-901-uOQxru {
+  background-color: transparent;
+  display: block;
+  height: 945px;
+  left: calc(50.00% - 695px);
+  opacity: 0;
+  position: absolute;
+  top: calc(35.48% - 335px);
+  width: 1391px;
+}
+
+.referenzen-1200 .gruppe-901-uOQxru.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-1200 .macbook-6txp5O {
+  background-color: transparent;
+  height: calc(100.00% - 164px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 176px;
+  width: calc(100.00% + 18px);
+}
+
+.referenzen-1200 .rechteck-1127-6txp5O {
+  background-color: var(--gallery);
+  bottom: 100px;
+  height: 609px;
+  left: 206px;
+  opacity: 0.17;
+  position: absolute;
+  width: calc(100.00% - 414px);
+}
+
+.referenzen-1200 .alien2-6txp5O {
+  background-color: transparent;
+  height: calc(100.00% - 100px);
+  left: 206px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 414px);
+}
+
+.referenzen-1200 .gruppe-1031-uOQxru {
+  background-color: transparent;
+  display: block;
+  height: 110px;
+  left: calc(50.00% - 221px);
+  opacity: 0;
+  position: absolute;
+  top: calc(27.73% - 31px);
+  width: 442px;
+}
+
+.referenzen-1200 .gruppe-1031-uOQxru.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-1200 .diese-seite-wird-ger-UPPBtb {
+  -webkit-text-stroke: 2.799999952316284px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 112px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 13px;
+  white-space: nowrap;
+  width: 444px;
+}
+
+.referenzen-1200 .rechteck-1227-uOQxru {
+  background-color: transparent;
+  bottom: calc(49.91% - 102px);
+  display: block;
+  height: 205px;
+  left: calc(50.00% - 126px);
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  width: 252px;
+}
+
+.referenzen-1200 .rechteck-1227-uOQxru video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.referenzen-1200 .rechteck-1227-uOQxru img {
+  object-fit: cover;
+}
+
+.referenzen-1200 .rechteck-1227-uOQxru.bp2-animate-enter2 {
+  animation: bp2-animate-enter2-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-1200 .logo-final-uOQxru {
+  background-color: transparent;
+  display: block;
+  height: 58px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 58px;
+  top: 73px;
+  width: 56px;
+}
+
+.referenzen-1200 .logo-final-uOQxru.bp2-animate-enter3 {
+  animation: bp2-animate-enter3-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-1200 .rechteck-623-uOQxru {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.referenzen-1200 .x104501_twitter_bird_icon-uOQxru {
+  background-color: transparent;
+  bottom: 111px;
+  cursor: pointer;
+  height: 28px;
+  object-fit: cover;
+  position: absolute;
+  right: 212px;
+  width: 35px;
+}
+
+.referenzen-1200 .gruppe-1024-uOQxru {
+  background-color: transparent;
+  bottom: 9px;
+  height: 216px;
+  left: 152px;
+  position: absolute;
+  width: 802px;
+}
+
+.referenzen-1200 .gruppe-1012-gZUB2I {
+  background-color: transparent;
+  bottom: 13px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.referenzen-1200 .beratung-Ex7Twb {
+  background-color: transparent;
+  bottom: 6px;
+  height: 83.78%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.referenzen-1200 .ssl-Ex7Twb {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.referenzen-1200 .jetzt-digitalisieren-gZUB2I {
+  background-color: transparent;
+  bottom: 171px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 259px;
+}
+
+.referenzen-1200 .zusammen-abheben-gZUB2I {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 139px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.referenzen-1200 .vereinbare-ein-strategiegesprch-gZUB2I {
+  background-color: transparent;
+  bottom: 104px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 256px;
+}
+
+.referenzen-1200 .gruppe-1013-gZUB2I {
+  background-color: transparent;
+  bottom: 0px;
+  height: 216px;
+  position: absolute;
+  right: calc(43.89% - 72px);
+  width: 164px;
+}
+
+.referenzen-1200 .rechtliches-ScEgT5 {
+  background-color: transparent;
+  bottom: 171px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 166px;
+}
+
+.referenzen-1200 .agb-ScEgT5 {
+  background-color: transparent;
+  bottom: 104px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.referenzen-1200 .impressum-ScEgT5 {
+  background-color: transparent;
+  bottom: 51px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.referenzen-1200 .datenschutz-ScEgT5 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.referenzen-1200 .gruppe-1014-gZUB2I {
+  background-color: transparent;
+  bottom: 53px;
+  height: 163px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.referenzen-1200 .get-your-gVxCy2 {
+  background-color: transparent;
+  bottom: 118px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.referenzen-1200 .referenzen-gVxCy2 {
+  background-color: transparent;
+  bottom: 51px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  width: 134px;
+}
+
+.referenzen-1200 .netzwerk-gVxCy2 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.referenzen-1200 .gruppe-1015-uOQxru {
+  background-color: transparent;
+  bottom: 75px;
+  height: 27px;
+  position: absolute;
+  right: 11px;
+  width: 241px;
+}
+
+.referenzen-1200 .gruppe-909-tOMtcY {
+  background-color: transparent;
+  bottom: 13px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 232px;
+  width: 9px;
+}
+
+.referenzen-1200 .x2018-all-rights-reserved-tOMtcY {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 13px);
+}
+
+.referenzen-1200 .gruppe-910-uOQxru {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: calc(100.00% + 13px);
+}
+
+.referenzen-1200 .gruppe-910-uOQxru.bp2-animate-enter4 {
+  animation: bp2-animate-enter4-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-1200 .gruppe-164-xpKqa8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-1200 .rechteck-305-trxsKo {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-1200 .gruppe-226-xpKqa8 {
+  background-color: transparent;
+  bottom: calc(46.15% - 11px);
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  width: 33px;
+}
+
+.referenzen-1200 .rechteck-315-mb6lVG {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-1200 .rechteck-316-mb6lVG {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 4px);
+  width: 100%;
+}
+
+.referenzen-1200 .rechteck-317-mb6lVG {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - referenzen-1900 */
+
+.referenzen-1900 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1479px;
+  min-width: 1900px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.referenzen-1900 .logo-final-AiNEgy {
+  background-color: transparent;
+  display: block;
+  height: 68px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 39px;
+  top: 69px;
+  width: 66px;
+}
+
+.referenzen-1900 .logo-final-AiNEgy.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-1900 .gruppe-901-AiNEgy {
+  background-color: transparent;
+  display: block;
+  height: 945px;
+  opacity: 0;
+  position: absolute;
+  right: calc(50.00% - 695px);
+  top: calc(25.52% - 241px);
+  width: 1391px;
+}
+
+.referenzen-1900 .gruppe-901-AiNEgy.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-1900 .macbook-2QhnXf {
+  background-color: transparent;
+  height: calc(100.00% - 164px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 176px;
+  width: calc(100.00% + 18px);
+}
+
+.referenzen-1900 .rechteck-1127-2QhnXf {
+  background-color: var(--gallery);
+  bottom: 100px;
+  height: 609px;
+  left: 206px;
+  opacity: 0.17;
+  position: absolute;
+  width: calc(100.00% - 414px);
+}
+
+.referenzen-1900 .alien2-2QhnXf {
+  background-color: transparent;
+  height: calc(100.00% - 100px);
+  left: 206px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 414px);
+}
+
+.referenzen-1900 .gruppe-1031-AiNEgy {
+  background-color: transparent;
+  display: block;
+  height: 198px;
+  left: calc(50.00% - 395px);
+  opacity: 0;
+  position: absolute;
+  top: calc(23.73% - 47px);
+  width: 790px;
+}
+
+.referenzen-1900 .gruppe-1031-AiNEgy.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-1900 .diese-seite-wird-ger-xASnNP {
+  -webkit-text-stroke: 2.799999952316284px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 200px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 75px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 24px;
+  white-space: nowrap;
+  width: 792px;
+}
+
+.referenzen-1900 .rechteck-1227-AiNEgy {
+  background-color: transparent;
+  display: block;
+  height: 342px;
+  left: calc(50.00% - 210px);
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  top: calc(49.52% - 169px);
+  width: 420px;
+}
+
+.referenzen-1900 .rechteck-1227-AiNEgy video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.referenzen-1900 .rechteck-1227-AiNEgy img {
+  object-fit: cover;
+}
+
+.referenzen-1900 .rechteck-1227-AiNEgy.bp1-animate-enter3 {
+  animation: bp1-animate-enter3-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-1900 .gruppe-1239-AiNEgy {
+  background-color: transparent;
+  bottom: -1px;
+  height: 399px;
+  left: -10px;
+  position: absolute;
+  width: calc(100.00% + 20px);
+}
+
+.referenzen-1900 .rechteck-623-MBxNzo {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 399px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.referenzen-1900 .x104501_twitter_bird_icon-MBxNzo {
+  background-color: transparent;
+  bottom: 186px;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: absolute;
+  right: 339px;
+  width: 40px;
+}
+
+.referenzen-1900 .gruppe-1011-MBxNzo {
+  background-color: transparent;
+  bottom: 136px;
+  height: 29px;
+  position: absolute;
+  right: 160px;
+  width: 241px;
+}
+
+.referenzen-1900 .gruppe-909-lHgv2P {
+  background-color: transparent;
+  bottom: 10px;
+  height: 19px;
+  opacity: 0.85;
+  position: absolute;
+  right: 227px;
+  width: 14px;
+}
+
+.referenzen-1900 .ellipse-59445-ysNMAc {
+  background-color: transparent;
+  border: 1px solid var(--licorice);
+  border-radius: 7px;
+  bottom: 2px;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.referenzen-1900 .c-ysNMAc {
+  -webkit-text-stroke: 0.30000001192092896px var(--licorice);
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-light);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 300;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(25.00% - 2px);
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 10px;
+}
+
+.referenzen-1900 .x2018-all-rights-reserved-lHgv2P {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 224px;
+}
+
+.referenzen-1900 .gruppe-1025-MBxNzo {
+  background-color: transparent;
+  bottom: 25px;
+  height: 297px;
+  left: 152px;
+  position: absolute;
+  width: 1131px;
+}
+
+.referenzen-1900 .gruppe-1008-TV8kxu {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  width: 203px;
+}
+
+.referenzen-1900 .beratung-p4HDVp {
+  background-color: transparent;
+  bottom: 7px;
+  height: 76px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 77px;
+}
+
+.referenzen-1900 .ssl-p4HDVp {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 90px;
+}
+
+.referenzen-1900 .jetzt-digitalisieren-TV8kxu {
+  background-color: transparent;
+  bottom: 252px;
+  height: 45px;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.referenzen-1900 .vereinbare-ein-strategiegesprch-TV8kxu {
+  background-color: transparent;
+  bottom: 100px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 353px;
+}
+
+.referenzen-1900 .zusammen-abheben-TV8kxu {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 139px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 45px;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.referenzen-1900 .gruppe-1009-TV8kxu {
+  background-color: transparent;
+  bottom: 37px;
+  height: 260px;
+  position: absolute;
+  right: calc(42.57% - 97px);
+  width: 229px;
+}
+
+.referenzen-1900 .agb-Kd8LEC {
+  background-color: transparent;
+  bottom: 128px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.referenzen-1900 .impressum-Kd8LEC {
+  background-color: transparent;
+  bottom: 63px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.referenzen-1900 .datenschutz-Kd8LEC {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 171px;
+}
+
+.referenzen-1900 .rechtliches-Kd8LEC {
+  background-color: transparent;
+  bottom: 215px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.referenzen-1900 .gruppe-1010-TV8kxu {
+  background-color: transparent;
+  bottom: 102px;
+  height: 195px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.referenzen-1900 .referenzen-hDJgFF {
+  background-color: transparent;
+  bottom: 63px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  width: 134px;
+}
+
+.referenzen-1900 .netzwerk-hDJgFF {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.referenzen-1900 .get-your-hDJgFF {
+  background-color: transparent;
+  bottom: 150px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.referenzen-1900 .gruppe-910-AiNEgy {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: calc(100.00% + 20px);
+}
+
+.referenzen-1900 .gruppe-910-AiNEgy.bp1-animate-enter4 {
+  animation: bp1-animate-enter4-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-1900 .gruppe-164-rIqC1h {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-1900 .rechteck-305-b5vd75 {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-1900 .gruppe-226-rIqC1h {
+  background-color: transparent;
+  bottom: calc(46.15% - 11px);
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  width: 33px;
+}
+
+.referenzen-1900 .rechteck-315-gOqSLx {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-1900 .rechteck-316-gOqSLx {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 4px);
+  width: 100%;
+}
+
+.referenzen-1900 .rechteck-317-gOqSLx {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - referenzen-375 */
+
+.referenzen-375 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 828px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.referenzen-375 .gruppe-901-0ZHkvS {
+  background-color: transparent;
+  bottom: 150px;
+  display: block;
+  height: 38.61%;
+  left: 1.47%;
+  opacity: 0;
+  position: absolute;
+  width: 97.07%;
+}
+
+.referenzen-375 .gruppe-901-0ZHkvS.bp4-animate-enter {
+  animation: bp4-animate-enter-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-375 .alien2-BiksAa {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-375 .gruppe-1031-0ZHkvS {
+  background-color: transparent;
+  display: block;
+  height: 70px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.45% - 140px);
+  top: calc(25.33% - 18px);
+  width: 284px;
+}
+
+.referenzen-375 .gruppe-1031-0ZHkvS.bp4-animate-enter1 {
+  animation: bp4-animate-enter1-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-375 .diese-seite-wird-ger-YUyLB9 {
+  -webkit-text-stroke: 1.7000000476837158px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 400;
+  height: 72px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 8px;
+  white-space: nowrap;
+  width: 286px;
+}
+
+.referenzen-375 .rechteck-1227-0ZHkvS {
+  background-color: transparent;
+  bottom: calc(35.29% - 51px);
+  display: block;
+  height: 145px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  right: calc(49.75% - 89px);
+  width: 178px;
+}
+
+.referenzen-375 .rechteck-1227-0ZHkvS video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.referenzen-375 .rechteck-1227-0ZHkvS img {
+  object-fit: cover;
+}
+
+.referenzen-375 .rechteck-1227-0ZHkvS.bp4-animate-enter2 {
+  animation: bp4-animate-enter2-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-375 .logo-final-0ZHkvS {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 25px;
+  top: 45px;
+  width: 36px;
+}
+
+.referenzen-375 .logo-final-0ZHkvS.bp4-animate-enter3 {
+  animation: bp4-animate-enter3-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-375 .rechteck-623-0ZHkvS {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 151px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.referenzen-375 .x104501_twitter_bird_icon-0ZHkvS {
+  background-color: transparent;
+  bottom: 20px;
+  cursor: pointer;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 66px;
+  width: 18px;
+}
+
+.referenzen-375 .gruppe-1023-0ZHkvS {
+  background-color: transparent;
+  bottom: 7px;
+  height: 9px;
+  position: absolute;
+  right: 10px;
+  width: 73px;
+}
+
+.referenzen-375 .gruppe-909-8Q6K1P {
+  background-color: transparent;
+  bottom: 3px;
+  height: 6px;
+  opacity: 0.85;
+  position: absolute;
+  right: 69px;
+  width: 5px;
+}
+
+.referenzen-375 .ellipse-59445-A8RuaZ {
+  background-color: transparent;
+  border-radius: 2.3px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.referenzen-375 .c-A8RuaZ {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.64% - 1px);
+  top: 0px;
+  width: 3px;
+}
+
+.referenzen-375 .x2018-all-rights-reserved-8Q6K1P {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 5px;
+  font-style: normal;
+  font-weight: 400;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 5px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 69px;
+}
+
+.referenzen-375 .gruppe-1029-0ZHkvS {
+  background-color: transparent;
+  bottom: calc(1.56% - 2px);
+  height: 122px;
+  left: 25px;
+  position: absolute;
+  width: calc(100.00% - 60px);
+}
+
+.referenzen-375 .gruppe-1027-PAaSkA {
+  background-color: transparent;
+  height: 63.93%;
+  left: 246px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 246px);
+}
+
+.referenzen-375 .gruppe-1022-Xo1zia {
+  background-color: transparent;
+  bottom: 0px;
+  height: 78px;
+  left: calc(50.00% - 34px);
+  position: absolute;
+  width: 69px;
+}
+
+.referenzen-375 .get-your-06yHP2 {
+  background-color: transparent;
+  bottom: 64px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.referenzen-375 .referenzen-06yHP2 {
+  background-color: transparent;
+  bottom: 26px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  width: 60px;
+}
+
+.referenzen-375 .netzwerk-06yHP2 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.referenzen-375 .gruppe-1021-PAaSkA {
+  background-color: transparent;
+  height: 87.70%;
+  left: 135px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 227px);
+}
+
+.referenzen-375 .rechtliches-wyJCWr {
+  background-color: transparent;
+  bottom: 93px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.referenzen-375 .agb-wyJCWr {
+  background-color: transparent;
+  bottom: 54px;
+  height: 17px;
+  left: calc(3.12% - 2px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.referenzen-375 .impressum-wyJCWr {
+  background-color: transparent;
+  bottom: 26px;
+  height: 17px;
+  left: calc(3.12% - 2px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.referenzen-375 .datenschutz-wyJCWr {
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 1.14%;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 89px;
+}
+
+.referenzen-375 .gruppe-1028-PAaSkA {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 194px);
+}
+
+.referenzen-375 .gruppe-1030-wp8ajE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-375 .gruppe-1020-8OHfRD {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  width: 82px;
+}
+
+.referenzen-375 .beratung-UxTr4I {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 31px;
+}
+
+.referenzen-375 .ssl-UxTr4I {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 36px;
+}
+
+.referenzen-375 .digitalisieren-8OHfRD {
+  background-color: transparent;
+  bottom: 92px;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 123px;
+}
+
+.referenzen-375 .strategiegesprch-8OHfRD {
+  background-color: transparent;
+  bottom: 41px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 96px;
+}
+
+.referenzen-375 .gruppe-910-0ZHkvS {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: calc(100.00% + 4px);
+}
+
+.referenzen-375 .gruppe-910-0ZHkvS.bp4-animate-enter4 {
+  animation: bp4-animate-enter4-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-375 .gruppe-164-oBxlqu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-375 .rechteck-305-Sx3tYR {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-375 .gruppe-226-oBxlqu {
+  background-color: transparent;
+  bottom: calc(46.15% - 11px);
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  width: 33px;
+}
+
+.referenzen-375 .rechteck-315-INcO9k {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-375 .rechteck-316-INcO9k {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 4px);
+  width: 100%;
+}
+
+.referenzen-375 .rechteck-317-INcO9k {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - referenzen-767 */
+
+.referenzen-767 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1329px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.referenzen-767 .gruppe-901-yRuFSO {
+  background-color: transparent;
+  bottom: 249px;
+  display: block;
+  height: 49.91%;
+  left: calc(50.00% - 383px);
+  opacity: 0;
+  position: absolute;
+  width: 767px;
+}
+
+.referenzen-767 .gruppe-901-yRuFSO.bp3-animate-enter {
+  animation: bp3-animate-enter-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-767 .alien2-rn7iIs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-767 .gruppe-1031-yRuFSO {
+  background-color: transparent;
+  display: block;
+  height: 110px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.85% - 220px);
+  top: calc(25.18% - 28px);
+  width: 442px;
+}
+
+.referenzen-767 .gruppe-1031-yRuFSO.bp3-animate-enter1 {
+  animation: bp3-animate-enter1-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-767 .diese-seite-wird-ger-KeZSEK {
+  -webkit-text-stroke: 2.799999952316284px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 112px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 13px;
+  white-space: nowrap;
+  width: 444px;
+}
+
+.referenzen-767 .rechteck-1227-yRuFSO {
+  background-color: transparent;
+  bottom: calc(33.36% - 68px);
+  display: block;
+  height: 205px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  right: calc(49.90% - 126px);
+  width: 252px;
+}
+
+.referenzen-767 .rechteck-1227-yRuFSO video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.referenzen-767 .rechteck-1227-yRuFSO img {
+  object-fit: cover;
+}
+
+.referenzen-767 .rechteck-1227-yRuFSO.bp3-animate-enter2 {
+  animation: bp3-animate-enter2-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-767 .logo-final-yRuFSO {
+  background-color: transparent;
+  display: block;
+  height: 58px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 35px;
+  top: 61px;
+  width: 56px;
+}
+
+.referenzen-767 .logo-final-yRuFSO.bp3-animate-enter3 {
+  animation: bp3-animate-enter3-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-767 .rechteck-623-yRuFSO {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.referenzen-767 .x104501_twitter_bird_icon-yRuFSO {
+  background-color: transparent;
+  bottom: 39px;
+  cursor: pointer;
+  height: 27px;
+  object-fit: cover;
+  position: absolute;
+  right: 136px;
+  width: 34px;
+}
+
+.referenzen-767 .gruppe-1019-yRuFSO {
+  background-color: transparent;
+  bottom: 12px;
+  height: 18px;
+  position: absolute;
+  right: 2px;
+  width: 168px;
+}
+
+.referenzen-767 .gruppe-909-C9nD28 {
+  background-color: transparent;
+  bottom: 9px;
+  height: 9px;
+  opacity: 0.85;
+  position: absolute;
+  right: 159px;
+  width: 9px;
+}
+
+.referenzen-767 .ellipse-59445-hVulgY {
+  background-color: transparent;
+  border-radius: 4.38px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-767 .c-hVulgY {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.referenzen-767 .x2018-all-rights-reserved-C9nD28 {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  width: calc(100.00% - 13px);
+}
+
+.referenzen-767 .gruppe-1026-yRuFSO {
+  background-color: transparent;
+  bottom: 22px;
+  height: 203px;
+  left: 52px;
+  position: absolute;
+  width: 72.10%;
+}
+
+.referenzen-767 .gruppe-1016-npKi4n {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.referenzen-767 .beratung-JCK4Ux {
+  background-color: transparent;
+  bottom: 6px;
+  height: 62px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.referenzen-767 .ssl-JCK4Ux {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.referenzen-767 .jetzt-digitalisieren-npKi4n {
+  background-color: transparent;
+  bottom: 178px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 195px;
+}
+
+.referenzen-767 .vereinbare-ein-strategiegesprch-npKi4n {
+  background-color: transparent;
+  bottom: 100px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 228px;
+}
+
+.referenzen-767 .gruppe-1017-npKi4n {
+  background-color: transparent;
+  bottom: 14px;
+  height: 189px;
+  position: absolute;
+  right: calc(36.78% - 43px);
+  width: 118px;
+}
+
+.referenzen-767 .rechtliches-TrpMxc {
+  background-color: transparent;
+  bottom: 164px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.referenzen-767 .agb-TrpMxc {
+  background-color: transparent;
+  bottom: 86px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.referenzen-767 .impressum-TrpMxc {
+  background-color: transparent;
+  bottom: 42px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 78px;
+}
+
+.referenzen-767 .datenschutz-TrpMxc {
+  background-color: transparent;
+  bottom: -2px;
+  height: 22px;
+  left: calc(50.00% - 60px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 120px;
+}
+
+.referenzen-767 .gruppe-1018-npKi4n {
+  background-color: transparent;
+  bottom: 58px;
+  height: 145px;
+  position: absolute;
+  right: 0px;
+  width: 118px;
+}
+
+.referenzen-767 .get-your-iaOs54 {
+  background-color: transparent;
+  bottom: 120px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.referenzen-767 .referenzen-iaOs54 {
+  background-color: transparent;
+  bottom: 42px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 80px;
+}
+
+.referenzen-767 .netzwerk-iaOs54 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 78px;
+}
+
+.referenzen-767 .zusammen-abheben-npKi4n {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 124px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: 182px;
+}
+
+.referenzen-767 .gruppe-910-yRuFSO {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: calc(100.00% + 8px);
+}
+
+.referenzen-767 .gruppe-910-yRuFSO.bp3-animate-enter4 {
+  animation: bp3-animate-enter4-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.referenzen-767 .gruppe-164-qTxwuU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-767 .rechteck-305-yMJxKT {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-767 .gruppe-226-qTxwuU {
+  background-color: transparent;
+  bottom: calc(46.15% - 11px);
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  width: 33px;
+}
+
+.referenzen-767 .rechteck-315-PgM1v2 {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.referenzen-767 .rechteck-316-PgM1v2 {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 4px);
+  width: 100%;
+}
+
+.referenzen-767 .rechteck-317-PgM1v2 {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+@media screen and (max-width: 766px) {
+  .screen.referenzen-1900 { 
+    display: none;
+   }
+  .screen.referenzen-1200 { 
+    display: none;
+   }
+  .screen.referenzen-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.referenzen-1900 { 
+    display: none;
+   }
+  .screen.referenzen-1200 { 
+    display: none;
+   }
+  .screen.referenzen-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1899px) {
+  .screen.referenzen-1900 { 
+    display: none;
+   }
+  .screen.referenzen-767 { 
+    display: none;
+   }
+  .screen.referenzen-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1900px) {
+  .screen.referenzen-1200 { 
+    display: none;
+   }
+  .screen.referenzen-767 { 
+    display: none;
+   }
+  .screen.referenzen-375 { 
+    display: none;
+   }
+}

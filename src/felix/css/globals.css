@@ -1,0 +1,68 @@
+@font-face {
+  font-family: "FormaDJR Micro-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/FormaDJRMicro-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Magistral-Book";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/.7316.otf") format("opentype");
+}
+@font-face {
+  font-family: "FormaDJR Micro-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Forma DJR Micro Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "FormaDJR Micro-Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/.30360.otf") format("opentype");
+}
+@font-face {
+  font-family: "FormaDJR Micro-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/Forma DJR Micro Medium.otf") format("opentype");
+}
+
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/61aa0c1637bc8119fc5ecef2.61aa0c181a3b9f9d45993252.JH1sQ2O.hcp.png");
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.smart-layers-pointers,
+.smart-layers-pointers * {
+  pointer-events: auto;
+  visibility: visible;
+}
+
+* {
+  box-sizing: border-box;
+}

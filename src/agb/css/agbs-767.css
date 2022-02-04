@@ -1,0 +1,1920 @@
+/* screen - agbs-1200 */
+
+.agbs-1200 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 18056px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.agbs-1200 .gruppe-1175-vRRuG8 {
+  background-color: transparent;
+  display: block;
+  height: 55px;
+  left: 139px;
+  opacity: 0;
+  position: absolute;
+  top: 162px;
+  width: 54.50%;
+}
+
+.agbs-1200 .gruppe-1175-vRRuG8.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1200 .allgemeine-geschftsbedingungen-9RKdXe {
+  -webkit-text-stroke: 3.299999952316284px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-1200 .gruppe-1177-vRRuG8 {
+  background-color: transparent;
+  display: block;
+  height: 17113px;
+  opacity: 0;
+  position: absolute;
+  right: 155px;
+  top: 323px;
+  width: 75.54%;
+}
+
+.agbs-1200 .gruppe-1177-vRRuG8.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1200 .x1-vertragsgegenstand-9qQMQF {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 17115px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  width: 100.22%;
+}
+
+.agbs-1200 .rechteck-623-vRRuG8 {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.agbs-1200 .x104501_twitter_bird_icon-vRRuG8 {
+  background-color: transparent;
+  bottom: 111px;
+  cursor: pointer;
+  height: 28px;
+  object-fit: cover;
+  position: absolute;
+  right: 212px;
+  width: 35px;
+}
+
+.agbs-1200 .gruppe-1024-vRRuG8 {
+  background-color: transparent;
+  bottom: 9px;
+  height: 216px;
+  left: 152px;
+  position: absolute;
+  width: 802px;
+}
+
+.agbs-1200 .gruppe-1012-exHIrC {
+  background-color: transparent;
+  bottom: 13px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.agbs-1200 .beratung-3Xm7T5 {
+  background-color: transparent;
+  bottom: 6px;
+  height: 83.78%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.agbs-1200 .ssl-3Xm7T5 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.agbs-1200 .jetzt-digitalisieren-exHIrC {
+  background-color: transparent;
+  bottom: 171px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 259px;
+}
+
+.agbs-1200 .zusammen-abheben-exHIrC {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 139px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.agbs-1200 .vereinbare-ein-strategiegesprch-exHIrC {
+  background-color: transparent;
+  bottom: 104px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 256px;
+}
+
+.agbs-1200 .gruppe-1013-exHIrC {
+  background-color: transparent;
+  bottom: 0px;
+  height: 216px;
+  position: absolute;
+  right: calc(43.89% - 72px);
+  width: 164px;
+}
+
+.agbs-1200 .rechtliches-t7FZZr {
+  background-color: transparent;
+  bottom: 171px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 166px;
+}
+
+.agbs-1200 .agb-t7FZZr {
+  background-color: transparent;
+  bottom: 104px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  width: 56px;
+}
+
+.agbs-1200 .impressum-t7FZZr {
+  background-color: transparent;
+  bottom: 51px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.agbs-1200 .datenschutz-t7FZZr {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.agbs-1200 .gruppe-1014-exHIrC {
+  background-color: transparent;
+  bottom: 53px;
+  height: 163px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.agbs-1200 .get-your-pYbDa1 {
+  background-color: transparent;
+  bottom: 118px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.agbs-1200 .referenzen-pYbDa1 {
+  background-color: transparent;
+  bottom: 51px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 134px;
+}
+
+.agbs-1200 .netzwerk-pYbDa1 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.agbs-1200 .gruppe-1015-vRRuG8 {
+  background-color: transparent;
+  bottom: 75px;
+  height: 27px;
+  position: absolute;
+  right: 26px;
+  width: 226px;
+}
+
+.agbs-1200 .gruppe-909-26iL8h {
+  background-color: transparent;
+  bottom: 13px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 217px;
+  width: 9px;
+}
+
+.agbs-1200 .x2018-all-rights-reserved-26iL8h {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-light);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 300;
+  height: 29px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 13px);
+}
+
+.agbs-1200 .logo-final-vRRuG8 {
+  background-color: transparent;
+  height: 58px;
+  object-fit: cover;
+  position: absolute;
+  right: 58px;
+  top: 59px;
+  width: 56px;
+}
+
+.agbs-1200 .gruppe-910-vRRuG8 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: calc(100.00% + 700px);
+}
+
+.agbs-1200 .gruppe-164-8vBGxQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-1200 .rechteck-305-3GkVHY {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-1200 .gruppe-226-8vBGxQ {
+  background-color: transparent;
+  bottom: calc(46.15% - 11px);
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  width: 33px;
+}
+
+.agbs-1200 .rechteck-315-u3i5zi {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-1200 .rechteck-316-u3i5zi {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 4px);
+  width: 100%;
+}
+
+.agbs-1200 .rechteck-317-u3i5zi {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - agbs-1900 */
+
+.agbs-1900 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 13261px;
+  min-width: 1900px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.agbs-1900 .logo-final-Txh0l7 {
+  background-color: transparent;
+  display: block;
+  height: 68px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 39px;
+  top: 69px;
+  width: 66px;
+}
+
+.agbs-1900 .logo-final-Txh0l7.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1900 .gruppe-1175-Txh0l7 {
+  background-color: transparent;
+  display: block;
+  height: 99px;
+  left: 193px;
+  opacity: 0;
+  position: absolute;
+  top: 128px;
+  width: 1168px;
+}
+
+.agbs-1900 .gruppe-1175-Txh0l7.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1900 .allgemeine-geschftsbedingungen-4mOUoj {
+  -webkit-text-stroke: 3.299999952316284px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 75px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-1900 .gruppe-1177-Txh0l7 {
+  background-color: transparent;
+  display: block;
+  height: 12505px;
+  opacity: 0;
+  position: absolute;
+  right: 289px;
+  top: 323px;
+  width: 75.53%;
+}
+
+.agbs-1900 .gruppe-1177-Txh0l7.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1900 .x1-vertragsgegenstand-HZs3hv {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 12507px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  width: 100.14%;
+}
+
+.agbs-1900 .gruppe-1239-Txh0l7 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 399px;
+  left: -30px;
+  position: absolute;
+  width: calc(100.00% + 30px);
+}
+
+.agbs-1900 .rechteck-623-FxxFfX {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 399px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.agbs-1900 .x104501_twitter_bird_icon-FxxFfX {
+  background-color: transparent;
+  bottom: 186px;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: absolute;
+  right: 339px;
+  width: 40px;
+}
+
+.agbs-1900 .gruppe-1011-FxxFfX {
+  background-color: transparent;
+  bottom: 136px;
+  height: 29px;
+  position: absolute;
+  right: 140px;
+  width: 261px;
+}
+
+.agbs-1900 .gruppe-909-y43BSd {
+  background-color: transparent;
+  bottom: 10px;
+  height: 19px;
+  opacity: 0.85;
+  position: absolute;
+  right: 247px;
+  width: 14px;
+}
+
+.agbs-1900 .ellipse-59445-inMaJG {
+  background-color: transparent;
+  border: 1px solid var(--licorice);
+  border-radius: 7px;
+  bottom: 2px;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.agbs-1900 .c-inMaJG {
+  -webkit-text-stroke: 0.30000001192092896px var(--licorice);
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-light);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 300;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(25.00% - 2px);
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 10px;
+}
+
+.agbs-1900 .x2018-all-rights-reserved-y43BSd {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 244px;
+}
+
+.agbs-1900 .gruppe-1025-FxxFfX {
+  background-color: transparent;
+  bottom: 25px;
+  height: 297px;
+  left: 152px;
+  position: absolute;
+  width: 1131px;
+}
+
+.agbs-1900 .gruppe-1008-4CFuCS {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  width: 203px;
+}
+
+.agbs-1900 .beratung-9qkj6B {
+  background-color: transparent;
+  bottom: 7px;
+  height: 76px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 77px;
+}
+
+.agbs-1900 .ssl-9qkj6B {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 90px;
+}
+
+.agbs-1900 .jetzt-digitalisieren-4CFuCS {
+  background-color: transparent;
+  bottom: 252px;
+  height: 45px;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.agbs-1900 .vereinbare-ein-strategiegesprch-4CFuCS {
+  background-color: transparent;
+  bottom: 100px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 353px;
+}
+
+.agbs-1900 .zusammen-abheben-4CFuCS {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 139px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 45px;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.agbs-1900 .gruppe-1009-4CFuCS {
+  background-color: transparent;
+  bottom: 37px;
+  height: 260px;
+  position: absolute;
+  right: calc(42.57% - 97px);
+  width: 229px;
+}
+
+.agbs-1900 .agb-gFl3Ft {
+  background-color: transparent;
+  bottom: 128px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  width: 56px;
+}
+
+.agbs-1900 .impressum-gFl3Ft {
+  background-color: transparent;
+  bottom: 63px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.agbs-1900 .datenschutz-gFl3Ft {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 158px;
+}
+
+.agbs-1900 .rechtliches-gFl3Ft {
+  background-color: transparent;
+  bottom: 215px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.agbs-1900 .gruppe-1010-4CFuCS {
+  background-color: transparent;
+  bottom: 102px;
+  height: 195px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.agbs-1900 .referenzen-zZekuK {
+  background-color: transparent;
+  bottom: 63px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 134px;
+}
+
+.agbs-1900 .netzwerk-zZekuK {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.agbs-1900 .get-your-zZekuK {
+  background-color: transparent;
+  bottom: 150px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.agbs-1900 .gruppe-910-Txh0l7 {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: calc(100.00% + 20px);
+}
+
+.agbs-1900 .gruppe-910-Txh0l7.bp1-animate-enter3 {
+  animation: bp1-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1900 .gruppe-164-d0OUbU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-1900 .rechteck-305-JKHXxs {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-1900 .gruppe-226-d0OUbU {
+  background-color: transparent;
+  bottom: calc(46.15% - 11px);
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  width: 33px;
+}
+
+.agbs-1900 .rechteck-315-3r406Z {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-1900 .rechteck-316-3r406Z {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 4px);
+  width: 100%;
+}
+
+.agbs-1900 .rechteck-317-3r406Z {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - agbs-375 */
+
+.agbs-375 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 5080px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.agbs-375 .gruppe-1175-HUYGal {
+  background-color: transparent;
+  display: block;
+  height: 102px;
+  left: 32px;
+  opacity: 0;
+  position: absolute;
+  top: 150px;
+  width: 74.40%;
+}
+
+.agbs-375 .gruppe-1175-HUYGal.bp4-animate-enter {
+  animation: bp4-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-375 .allgemeinegeschftsbedingungen-0Bx0yb {
+  -webkit-text-stroke: 1px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-375 .gruppe-1177-HUYGal {
+  background-color: transparent;
+  display: block;
+  height: 90.12%;
+  left: 8.53%;
+  opacity: 0;
+  position: absolute;
+  top: 5.47%;
+  width: 74.93%;
+}
+
+.agbs-375 .gruppe-1177-HUYGal.bp4-animate-enter1 {
+  animation: bp4-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-375 .x1-vertragsgegenstand-smxxzt {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxxxxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 4580px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 283px;
+}
+
+.agbs-375 .rechteck-623-HUYGal {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 151px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.agbs-375 .x104501_twitter_bird_icon-HUYGal {
+  background-color: transparent;
+  bottom: 20px;
+  cursor: pointer;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 66px;
+  width: 18px;
+}
+
+.agbs-375 .gruppe-1023-HUYGal {
+  background-color: transparent;
+  bottom: 7px;
+  height: 9px;
+  position: absolute;
+  right: 4px;
+  width: 79px;
+}
+
+.agbs-375 .gruppe-909-xAvuKI {
+  background-color: transparent;
+  bottom: 3px;
+  height: 6px;
+  opacity: 0.85;
+  position: absolute;
+  right: 75px;
+  width: 5px;
+}
+
+.agbs-375 .ellipse-59445-WSaCg5 {
+  background-color: transparent;
+  border-radius: 2.3px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.agbs-375 .c-WSaCg5 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.64% - 1px);
+  top: 0px;
+  width: 3px;
+}
+
+.agbs-375 .x2018-all-rights-reserved-xAvuKI {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 5px;
+  font-style: normal;
+  font-weight: 400;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 5px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 75px;
+}
+
+.agbs-375 .gruppe-1029-HUYGal {
+  background-color: transparent;
+  bottom: 0.22%;
+  height: 122px;
+  left: 25px;
+  position: absolute;
+  width: calc(100.00% - 60px);
+}
+
+.agbs-375 .gruppe-1027-Zro3Xc {
+  background-color: transparent;
+  height: 63.93%;
+  left: 246px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 246px);
+}
+
+.agbs-375 .gruppe-1022-nNuVjS {
+  background-color: transparent;
+  bottom: 0px;
+  height: 78px;
+  left: calc(50.00% - 34px);
+  position: absolute;
+  width: 69px;
+}
+
+.agbs-375 .get-your-xZfXhh {
+  background-color: transparent;
+  bottom: 64px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.agbs-375 .referenzen-xZfXhh {
+  background-color: transparent;
+  bottom: 26px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 60px;
+}
+
+.agbs-375 .netzwerk-xZfXhh {
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.agbs-375 .gruppe-1021-Zro3Xc {
+  background-color: transparent;
+  height: 87.70%;
+  left: 135px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 222px);
+}
+
+.agbs-375 .rechtliches-xT1L5j {
+  background-color: transparent;
+  bottom: 93px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.agbs-375 .agb-xT1L5j {
+  background-color: transparent;
+  bottom: 54px;
+  height: 17px;
+  left: calc(2.70% - 2px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  width: 56px;
+}
+
+.agbs-375 .impressum-xT1L5j {
+  background-color: transparent;
+  bottom: 26px;
+  height: 17px;
+  left: calc(2.70% - 2px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.agbs-375 .datenschutz-xT1L5j {
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 1.08%;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 94px;
+}
+
+.agbs-375 .gruppe-1028-Zro3Xc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 194px);
+}
+
+.agbs-375 .gruppe-1030-BOCS9x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-375 .gruppe-1020-g3dx99 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  width: 82px;
+}
+
+.agbs-375 .beratung-mkFAtf {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 31px;
+}
+
+.agbs-375 .ssl-mkFAtf {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 36px;
+}
+
+.agbs-375 .digitalisieren-g3dx99 {
+  background-color: transparent;
+  bottom: 92px;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 123px;
+}
+
+.agbs-375 .strategiegesprch-g3dx99 {
+  background-color: transparent;
+  bottom: 41px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 96px;
+}
+
+.agbs-375 .logo-final-HUYGal {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 25px;
+  top: 45px;
+  width: 36px;
+}
+
+.agbs-375 .logo-final-HUYGal.bp4-animate-enter2 {
+  animation: bp4-animate-enter2-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-375 .gruppe-910-HUYGal {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: calc(100.00% + 4px);
+}
+
+.agbs-375 .gruppe-910-HUYGal.bp4-animate-enter3 {
+  animation: bp4-animate-enter3-frames 0.60s ease-in 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-375 .gruppe-164-71TI63 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-375 .rechteck-305-Lv6IQY {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-375 .gruppe-226-71TI63 {
+  background-color: transparent;
+  bottom: calc(46.15% - 11px);
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  width: 33px;
+}
+
+.agbs-375 .rechteck-315-dZCwOA {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-375 .rechteck-316-dZCwOA {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 4px);
+  width: 100%;
+}
+
+.agbs-375 .rechteck-317-dZCwOA {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - agbs-767 */
+
+.agbs-767 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 11158px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.agbs-767 .gruppe-1175-H9sdos {
+  background-color: transparent;
+  display: block;
+  height: 52px;
+  left: 72px;
+  opacity: 0;
+  position: absolute;
+  top: 194px;
+  width: 81.23%;
+}
+
+.agbs-767 .gruppe-1175-H9sdos.bp3-animate-enter {
+  animation: bp3-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-767 .allgemeine-geschftsbedingungen-6zJJEY {
+  -webkit-text-stroke: 2px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-767 .gruppe-1177-H9sdos {
+  background-color: transparent;
+  display: block;
+  height: 10492px;
+  opacity: 0;
+  position: absolute;
+  right: 116px;
+  top: 304px;
+  width: 75.54%;
+}
+
+.agbs-767 .gruppe-1177-H9sdos.bp3-animate-enter1 {
+  animation: bp3-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-767 .x1-vertragsgegenstand-taQtCJ {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 10494px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  width: 100.35%;
+}
+
+.agbs-767 .rechteck-623-H9sdos {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.agbs-767 .x104501_twitter_bird_icon-H9sdos {
+  background-color: transparent;
+  bottom: 39px;
+  cursor: pointer;
+  height: 27px;
+  object-fit: cover;
+  position: absolute;
+  right: 136px;
+  width: 34px;
+}
+
+.agbs-767 .gruppe-1019-H9sdos {
+  background-color: transparent;
+  bottom: 12px;
+  height: 18px;
+  position: absolute;
+  right: 16px;
+  width: 154px;
+}
+
+.agbs-767 .gruppe-909-N0Ey0S {
+  background-color: transparent;
+  bottom: 9px;
+  height: 9px;
+  opacity: 0.85;
+  position: absolute;
+  right: 145px;
+  width: 9px;
+}
+
+.agbs-767 .ellipse-59445-ukUM6g {
+  background-color: transparent;
+  border-radius: 4.38px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-767 .c-ukUM6g {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.agbs-767 .x2018-all-rights-reserved-N0Ey0S {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  width: calc(100.00% - 13px);
+}
+
+.agbs-767 .gruppe-1026-H9sdos {
+  background-color: transparent;
+  bottom: 22px;
+  height: 203px;
+  left: 52px;
+  position: absolute;
+  width: 72.10%;
+}
+
+.agbs-767 .gruppe-1016-XPECBy {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.agbs-767 .beratung-iDJvA5 {
+  background-color: transparent;
+  bottom: 6px;
+  height: 62px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.agbs-767 .ssl-iDJvA5 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.agbs-767 .jetzt-digitalisieren-XPECBy {
+  background-color: transparent;
+  bottom: 178px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 195px;
+}
+
+.agbs-767 .vereinbare-ein-strategiegesprch-XPECBy {
+  background-color: transparent;
+  bottom: 100px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 228px;
+}
+
+.agbs-767 .gruppe-1017-XPECBy {
+  background-color: transparent;
+  bottom: 14px;
+  height: 189px;
+  position: absolute;
+  right: calc(36.78% - 43px);
+  width: 118px;
+}
+
+.agbs-767 .rechtliches-HudiVR {
+  background-color: transparent;
+  bottom: 164px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.agbs-767 .agb-HudiVR {
+  background-color: transparent;
+  bottom: 86px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 56px;
+}
+
+.agbs-767 .impressum-HudiVR {
+  background-color: transparent;
+  bottom: 42px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 78px;
+}
+
+.agbs-767 .datenschutz-HudiVR {
+  background-color: transparent;
+  bottom: -2px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 102px;
+}
+
+.agbs-767 .gruppe-1018-XPECBy {
+  background-color: transparent;
+  bottom: 58px;
+  height: 145px;
+  position: absolute;
+  right: 0px;
+  width: 118px;
+}
+
+.agbs-767 .get-your-oyabqZ {
+  background-color: transparent;
+  bottom: 120px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.agbs-767 .referenzen-oyabqZ {
+  background-color: transparent;
+  bottom: 42px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 80px;
+}
+
+.agbs-767 .netzwerk-oyabqZ {
+  background-color: transparent;
+  bottom: -2px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 78px;
+}
+
+.agbs-767 .zusammen-abheben-XPECBy {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 124px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: 182px;
+}
+
+.agbs-767 .logo-final-H9sdos {
+  background-color: transparent;
+  display: block;
+  height: 58px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 35px;
+  top: 48px;
+  width: 56px;
+}
+
+.agbs-767 .logo-final-H9sdos.bp3-animate-enter2 {
+  animation: bp3-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-767 .gruppe-910-H9sdos {
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-767 .gruppe-910-H9sdos.bp3-animate-enter3 {
+  animation: bp3-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-767 .gruppe-164-pHtxsx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-767 .rechteck-305-ST2bae {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-767 .gruppe-226-pHtxsx {
+  background-color: transparent;
+  height: 13px;
+  left: 19px;
+  position: absolute;
+  top: calc(42.87% - 6px);
+  width: 18px;
+}
+
+.agbs-767 .rechteck-315-f2U8Ed {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-767 .rechteck-316-f2U8Ed {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 100%;
+}
+
+.agbs-767 .rechteck-317-f2U8Ed {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+@media screen and (max-width: 766px) {
+  .screen.agbs-1900 { 
+    display: none;
+   }
+  .screen.agbs-1200 { 
+    display: none;
+   }
+  .screen.agbs-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.agbs-1900 { 
+    display: none;
+   }
+  .screen.agbs-1200 { 
+    display: none;
+   }
+  .screen.agbs-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1899px) {
+  .screen.agbs-1900 { 
+    display: none;
+   }
+  .screen.agbs-767 { 
+    display: none;
+   }
+  .screen.agbs-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1900px) {
+  .screen.agbs-1200 { 
+    display: none;
+   }
+  .screen.agbs-767 { 
+    display: none;
+   }
+  .screen.agbs-375 { 
+    display: none;
+   }
+}

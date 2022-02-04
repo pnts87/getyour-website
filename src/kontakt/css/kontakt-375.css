@@ -1,0 +1,2532 @@
+/* screen - kontakt-1200 */
+
+.kontakt-1200 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1328px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.kontakt-1200 .logo-final-hKEqi9 {
+  background-color: transparent;
+  display: block;
+  height: 58px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 58px;
+  top: 73px;
+  width: 56px;
+}
+
+.kontakt-1200 .logo-final-hKEqi9.bp3-animate-enter {
+  animation: bp3-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-1200 .gruppe-1036-hKEqi9 {
+  background-color: transparent;
+  display: block;
+  height: 55px;
+  left: 165px;
+  opacity: 0;
+  position: absolute;
+  top: 144px;
+  width: 220px;
+}
+
+.kontakt-1200 .gruppe-1036-hKEqi9.bp3-animate-enter1 {
+  animation: bp3-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-1200 .get-kPq5JA {
+  -webkit-text-stroke: 2.5px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 400;
+  height: 57px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.kontakt-1200 .started-kPq5JA {
+  -webkit-text-stroke: 2.5px var(--blue-jeans);
+  background-color: transparent;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-magistral-book);
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 400;
+  height: 57px;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.kontakt-1200 .gruppe-1039-hKEqi9 {
+  background-color: transparent;
+  display: block;
+  height: 466px;
+  left: calc(43.90% - 329px);
+  opacity: 0;
+  position: absolute;
+  top: calc(36.89% - 172px);
+  width: 749px;
+}
+
+.kontakt-1200 .gruppe-1039-hKEqi9.bp3-animate-enter2 {
+  animation: bp3-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-1200 .gruppe-1037-g73L4H {
+  background-color: transparent;
+  height: calc(100.00% - 160px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-1200 .ich-stehe-dir-gerne-fSVjT8 {
+  background-color: transparent;
+  bottom: calc(3.10% - 6px);
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 193px;
+  left: calc(200.00% - 1494px);
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  width: 747px;
+}
+
+.kontakt-1200 .du-bist-bereit-zusammen-fSVjT8 {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: 38px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  top: 1.12%;
+  white-space: nowrap;
+  width: 346px;
+}
+
+.kontakt-1200 .abzuheben-fSVjT8 {
+  background-color: transparent;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 0.86;
+  position: absolute;
+  right: calc(39.38% - 68px);
+  text-align: left;
+  top: 1.12%;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.kontakt-1200 .gruppe-1038-g73L4H {
+  background-color: transparent;
+  bottom: 0px;
+  height: 97px;
+  left: 4px;
+  position: absolute;
+  width: 186px;
+}
+
+.kontakt-1200 .felix-steck-cPebus {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: calc(6.45% - 2px);
+  white-space: nowrap;
+  width: 119px;
+}
+
+.kontakt-1200 .t-01523-799-2040-cPebus {
+  -webkit-text-stroke: 0.10000000149011612px var(--gallery);
+  background-color: transparent;
+  bottom: calc(33.09% - 10px);
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 175px;
+}
+
+.kontakt-1200 .fsteckget-yourde-cPebus {
+  -webkit-text-stroke: 0.10000000149011612px var(--gallery);
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: calc(106.62% - 31px);
+  white-space: nowrap;
+  width: 188px;
+}
+
+.kontakt-1200 .felixkontakt-min-hKEqi9 {
+  background-color: transparent;
+  display: block;
+  height: 700px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: calc(9.23% - 69px);
+  top: 379px;
+  width: 745px;
+}
+
+.kontakt-1200 .felixkontakt-min-hKEqi9.bp3-animate-enter3 {
+  animation: bp3-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-1200 .rechteck-623-hKEqi9 {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.kontakt-1200 .x104501_twitter_bird_icon-hKEqi9 {
+  background-color: transparent;
+  bottom: 111px;
+  cursor: pointer;
+  height: 28px;
+  object-fit: cover;
+  position: absolute;
+  right: 212px;
+  width: 35px;
+}
+
+.kontakt-1200 .gruppe-1024-hKEqi9 {
+  background-color: transparent;
+  bottom: 9px;
+  height: 216px;
+  left: 152px;
+  position: absolute;
+  width: 802px;
+}
+
+.kontakt-1200 .gruppe-1012-NGITJp {
+  background-color: transparent;
+  bottom: 13px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.kontakt-1200 .beratung-IZIrY2 {
+  background-color: transparent;
+  bottom: 6px;
+  height: 83.78%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.kontakt-1200 .ssl-IZIrY2 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.kontakt-1200 .jetzt-digitalisieren-NGITJp {
+  background-color: transparent;
+  bottom: 171px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 259px;
+}
+
+.kontakt-1200 .zusammen-abheben-NGITJp {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 139px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.kontakt-1200 .vereinbare-ein-strategiegesprch-NGITJp {
+  background-color: transparent;
+  bottom: 104px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 256px;
+}
+
+.kontakt-1200 .gruppe-1013-NGITJp {
+  background-color: transparent;
+  bottom: 0px;
+  height: 216px;
+  position: absolute;
+  right: calc(43.89% - 72px);
+  width: 164px;
+}
+
+.kontakt-1200 .rechtliches-QhAIAP {
+  background-color: transparent;
+  bottom: 171px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 166px;
+}
+
+.kontakt-1200 .agb-QhAIAP {
+  background-color: transparent;
+  bottom: 104px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.kontakt-1200 .impressum-QhAIAP {
+  background-color: transparent;
+  bottom: 51px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.kontakt-1200 .datenschutz-QhAIAP {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.kontakt-1200 .gruppe-1014-NGITJp {
+  background-color: transparent;
+  bottom: 53px;
+  height: 163px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.kontakt-1200 .get-your-0DXwxd {
+  background-color: transparent;
+  bottom: 118px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.kontakt-1200 .referenzen-0DXwxd {
+  background-color: transparent;
+  bottom: 51px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 134px;
+}
+
+.kontakt-1200 .netzwerk-0DXwxd {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.kontakt-1200 .gruppe-1015-hKEqi9 {
+  background-color: transparent;
+  bottom: 75px;
+  height: 27px;
+  position: absolute;
+  right: 26px;
+  width: 226px;
+}
+
+.kontakt-1200 .gruppe-909-fED09P {
+  background-color: transparent;
+  bottom: 13px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 217px;
+  width: 9px;
+}
+
+.kontakt-1200 .x2018-all-rights-reserved-fED09P {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-light);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 300;
+  height: 29px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 13px);
+}
+
+.kontakt-1200 .gruppe-910-hKEqi9 {
+  background-color: transparent;
+  display: block;
+  height: 25px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-1200 .gruppe-910-hKEqi9.bp3-animate-enter4 {
+  animation: bp3-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-1200 .gruppe-164-SAxY1n {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-1200 .rechteck-305-TvBQH7 {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-1200 .gruppe-226-SAxY1n {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 19px;
+  position: absolute;
+  top: 3px;
+  width: 25px;
+}
+
+.kontakt-1200 .rechteck-315-yMKCne {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-1200 .rechteck-316-yMKCne {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(46.15% - 3px);
+  width: 100%;
+}
+
+.kontakt-1200 .rechteck-317-yMKCne {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - kontakt-1900 */
+
+.kontakt-1900 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1608px;
+  min-width: 1900px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.kontakt-1900 .felixkontakt-min-PKXxGQ {
+  background-color: transparent;
+  bottom: 399px;
+  display: block;
+  height: 1007px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: calc(8.63% - 92px);
+  width: 1071px;
+}
+
+.kontakt-1900 .felixkontakt-min-PKXxGQ.bp4-animate-enter {
+  animation: bp4-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-1900 .logo-final-PKXxGQ {
+  background-color: transparent;
+  display: block;
+  height: 68px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 39px;
+  top: 69px;
+  width: 66px;
+}
+
+.kontakt-1900 .logo-final-PKXxGQ.bp4-animate-enter1 {
+  animation: bp4-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-1900 .gruppe-1031-PKXxGQ {
+  background-color: transparent;
+  display: block;
+  height: 99px;
+  left: 197px;
+  opacity: 0;
+  position: absolute;
+  top: 161px;
+  width: 385px;
+}
+
+.kontakt-1900 .gruppe-1031-PKXxGQ.bp4-animate-enter2 {
+  animation: bp4-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-1900 .get-refpJq {
+  -webkit-text-stroke: 3.299999952316284px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 400;
+  height: 101px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 75px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.kontakt-1900 .started-refpJq {
+  -webkit-text-stroke: 3.299999952316284px var(--blue-jeans);
+  background-color: transparent;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-magistral-book);
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 400;
+  height: 101px;
+  left: 151px;
+  letter-spacing: 0.00px;
+  line-height: 75px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 236px;
+}
+
+.kontakt-1900 .gruppe-1034-PKXxGQ {
+  background-color: transparent;
+  bottom: 783px;
+  display: block;
+  height: 458px;
+  left: calc(29.96% - 223px);
+  opacity: 0;
+  position: absolute;
+  width: 745px;
+}
+
+.kontakt-1900 .gruppe-1034-PKXxGQ.bp4-animate-enter3 {
+  animation: bp4-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-1900 .gruppe-1032-Joig2F {
+  background-color: transparent;
+  bottom: 0px;
+  height: 94px;
+  left: 0px;
+  position: absolute;
+  width: 186px;
+}
+
+.kontakt-1900 .felix-steck-49eS2N {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: calc(6.78% - 2px);
+  white-space: nowrap;
+  width: 119px;
+}
+
+.kontakt-1900 .t-01523-799-2040-49eS2N {
+  background-color: transparent;
+  bottom: calc(34.62% - 10px);
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 175px;
+}
+
+.kontakt-1900 .fsteckget-yourde-49eS2N {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: calc(106.92% - 31px);
+  white-space: nowrap;
+  width: 188px;
+}
+
+.kontakt-1900 .gruppe-1033-Joig2F {
+  background-color: transparent;
+  height: 266px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-1900 .du-bist-bereit-zusammen-pBS2Dh {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  top: calc(1.81% - 1px);
+  white-space: nowrap;
+  width: 403px;
+}
+
+.kontakt-1900 .abzuheben-pBS2Dh {
+  background-color: transparent;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: 45px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  opacity: 0.86;
+  position: absolute;
+  right: calc(24.95% - 50px);
+  text-align: left;
+  top: calc(1.81% - 1px);
+  white-space: nowrap;
+  width: 200px;
+}
+
+.kontakt-1900 .ich-stehe-dir-gerne-pBS2Dh {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 193px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  top: calc(102.74% - 198px);
+  width: 747px;
+}
+
+.kontakt-1900 .gruppe-1239-PKXxGQ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 399px;
+  left: -10px;
+  position: absolute;
+  width: calc(100.00% + 20px);
+}
+
+.kontakt-1900 .rechteck-623-W4w3x8 {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 399px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.kontakt-1900 .x104501_twitter_bird_icon-W4w3x8 {
+  background-color: transparent;
+  bottom: 186px;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: absolute;
+  right: 339px;
+  width: 40px;
+}
+
+.kontakt-1900 .gruppe-1011-W4w3x8 {
+  background-color: transparent;
+  bottom: 136px;
+  height: 29px;
+  position: absolute;
+  right: 142px;
+  width: 259px;
+}
+
+.kontakt-1900 .gruppe-909-vJy1UR {
+  background-color: transparent;
+  bottom: 10px;
+  height: 19px;
+  opacity: 0.85;
+  position: absolute;
+  right: 245px;
+  width: 14px;
+}
+
+.kontakt-1900 .ellipse-59445-Dy1tQp {
+  background-color: transparent;
+  border: 1px solid var(--licorice);
+  border-radius: 7px;
+  bottom: 2px;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.kontakt-1900 .c-Dy1tQp {
+  -webkit-text-stroke: 0.30000001192092896px var(--licorice);
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-light);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 300;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(25.00% - 2px);
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 10px;
+}
+
+.kontakt-1900 .x2018-all-rights-reserved-vJy1UR {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 242px;
+}
+
+.kontakt-1900 .gruppe-1025-W4w3x8 {
+  background-color: transparent;
+  bottom: 25px;
+  height: 297px;
+  left: 152px;
+  position: absolute;
+  width: 1131px;
+}
+
+.kontakt-1900 .gruppe-1008-NfcAJp {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  width: 203px;
+}
+
+.kontakt-1900 .beratung-xh2mjO {
+  background-color: transparent;
+  bottom: 7px;
+  height: 76px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 77px;
+}
+
+.kontakt-1900 .ssl-xh2mjO {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 90px;
+}
+
+.kontakt-1900 .jetzt-digitalisieren-NfcAJp {
+  background-color: transparent;
+  bottom: 252px;
+  height: 45px;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.kontakt-1900 .vereinbare-ein-strategiegesprch-NfcAJp {
+  background-color: transparent;
+  bottom: 100px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 353px;
+}
+
+.kontakt-1900 .zusammen-abheben-NfcAJp {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 139px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 45px;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.kontakt-1900 .gruppe-1009-NfcAJp {
+  background-color: transparent;
+  bottom: 37px;
+  height: 260px;
+  position: absolute;
+  right: calc(42.57% - 97px);
+  width: 229px;
+}
+
+.kontakt-1900 .agb-eH1fiQ {
+  background-color: transparent;
+  bottom: 128px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.kontakt-1900 .impressum-eH1fiQ {
+  background-color: transparent;
+  bottom: 63px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.kontakt-1900 .datenschutz-eH1fiQ {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 155px;
+}
+
+.kontakt-1900 .rechtliches-eH1fiQ {
+  background-color: transparent;
+  bottom: 215px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.kontakt-1900 .gruppe-1010-NfcAJp {
+  background-color: transparent;
+  bottom: 102px;
+  height: 195px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.kontakt-1900 .referenzen-0QOuGd {
+  background-color: transparent;
+  bottom: 63px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 134px;
+}
+
+.kontakt-1900 .netzwerk-0QOuGd {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.kontakt-1900 .get-your-0QOuGd {
+  background-color: transparent;
+  bottom: 150px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.kontakt-1900 .gruppe-910-PKXxGQ {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-1900 .gruppe-910-PKXxGQ.bp4-animate-enter4 {
+  animation: bp4-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-1900 .gruppe-164-ruCiLo {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-1900 .rechteck-305-NHWbxu {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-1900 .gruppe-226-ruCiLo {
+  background-color: transparent;
+  bottom: calc(46.15% - 11px);
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  width: 33px;
+}
+
+.kontakt-1900 .rechteck-315-u15Jbh {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-1900 .rechteck-316-u15Jbh {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 4px);
+  width: 100%;
+}
+
+.kontakt-1900 .rechteck-317-u15Jbh {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - kontakt-375 */
+
+.kontakt-375 {
+  background-color: #161616;
+  height: 100vh;
+  margin: 0px;
+  min-height: 885px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.kontakt-375 .logo-final-Wa9Tec {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 25px;
+  top: 38px;
+  width: 36px;
+}
+
+.kontakt-375 .logo-final-Wa9Tec.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-375 .gruppe-1044-Wa9Tec {
+  background-color: transparent;
+  display: block;
+  height: 34px;
+  left: 39px;
+  opacity: 0;
+  position: absolute;
+  top: 114px;
+  width: 136px;
+}
+
+.kontakt-375 .gruppe-1044-Wa9Tec.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-375 .get-j3kU0x {
+  -webkit-text-stroke: 1.5px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  height: 36px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.kontakt-375 .started-j3kU0x {
+  -webkit-text-stroke: 1.5px var(--blue-jeans);
+  background-color: transparent;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-magistral-book);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  height: 36px;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 83px;
+}
+
+.kontakt-375 .gruppe-1047-Wa9Tec {
+  background-color: transparent;
+  display: block;
+  height: 333px;
+  left: calc(37.86% - 103px);
+  opacity: 0;
+  position: absolute;
+  top: calc(36.96% - 123px);
+  width: 272px;
+}
+
+.kontakt-375 .gruppe-1047-Wa9Tec.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-375 .gruppe-1045-SqRutZ {
+  background-color: transparent;
+  height: calc(100.00% - 139px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-375 .du-bist-bereit-OGKPzH {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  top: 1.52%;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.kontakt-375 .abzuheben-OGKPzH {
+  background-color: transparent;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.86;
+  position: absolute;
+  right: calc(2.76% - 4px);
+  text-align: left;
+  top: 1.52%;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.kontakt-375 .ich-stehe-dir-gerne-OGKPzH {
+  background-color: transparent;
+  bottom: calc(5.56% - 7px);
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 131px;
+  left: 0.37%;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 273px;
+}
+
+.kontakt-375 .gruppe-1046-SqRutZ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 57px;
+  left: 1px;
+  position: absolute;
+  width: 110px;
+}
+
+.kontakt-375 .felix-steck-xQSlYy {
+  background-color: transparent;
+  color: var(--danube);
+  font-family: var(--font-family-magistral-book);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(7.14% - 2px);
+  white-space: nowrap;
+  width: 72px;
+}
+
+.kontakt-375 .t-01523-799-2040-xQSlYy {
+  background-color: transparent;
+  bottom: calc(34.62% - 6px);
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 104px;
+}
+
+.kontakt-375 .fsteckget-yourde-xQSlYy {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: calc(108.97% - 20px);
+  white-space: nowrap;
+  width: 112px;
+}
+
+.kontakt-375 .felixkontakt-min-Wa9Tec {
+  background-color: transparent;
+  bottom: 151px;
+  display: block;
+  height: 292px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 0px;
+  width: 310px;
+}
+
+.kontakt-375 .felixkontakt-min-Wa9Tec.bp1-animate-enter3 {
+  animation: bp1-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-375 .rechteck-623-Wa9Tec {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 151px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.kontakt-375 .x104501_twitter_bird_icon-Wa9Tec {
+  background-color: transparent;
+  bottom: 20px;
+  cursor: pointer;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 66px;
+  width: 18px;
+}
+
+.kontakt-375 .gruppe-1023-Wa9Tec {
+  background-color: transparent;
+  bottom: 7px;
+  height: 9px;
+  position: absolute;
+  right: 7px;
+  width: 76px;
+}
+
+.kontakt-375 .gruppe-909-xwMut3 {
+  background-color: transparent;
+  bottom: 3px;
+  height: 6px;
+  opacity: 0.85;
+  position: absolute;
+  right: 72px;
+  width: 5px;
+}
+
+.kontakt-375 .ellipse-59445-FDkobM {
+  background-color: transparent;
+  border-radius: 2.3px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.kontakt-375 .c-FDkobM {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.64% - 1px);
+  top: 0px;
+  width: 3px;
+}
+
+.kontakt-375 .x2018-all-rights-reserved-xwMut3 {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 5px;
+  font-style: normal;
+  font-weight: 400;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 5px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 72px;
+}
+
+.kontakt-375 .gruppe-1029-Wa9Tec {
+  background-color: transparent;
+  bottom: calc(1.44% - 2px);
+  height: 122px;
+  left: 25px;
+  position: absolute;
+  width: calc(100.00% - 60px);
+}
+
+.kontakt-375 .gruppe-1027-YCkfSE {
+  background-color: transparent;
+  height: 63.93%;
+  left: 246px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 246px);
+}
+
+.kontakt-375 .gruppe-1022-Qfxe8a {
+  background-color: transparent;
+  bottom: 0px;
+  height: 78px;
+  left: calc(50.00% - 34px);
+  position: absolute;
+  width: 69px;
+}
+
+.kontakt-375 .get-your-Z6TSLx {
+  background-color: transparent;
+  bottom: 64px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.kontakt-375 .referenzen-Z6TSLx {
+  background-color: transparent;
+  bottom: 26px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 60px;
+}
+
+.kontakt-375 .netzwerk-Z6TSLx {
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.kontakt-375 .gruppe-1021-YCkfSE {
+  background-color: transparent;
+  height: 87.70%;
+  left: 135px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 233px);
+}
+
+.kontakt-375 .rechtliches-pbUB2n {
+  background-color: transparent;
+  bottom: 93px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.kontakt-375 .agb-pbUB2n {
+  background-color: transparent;
+  bottom: 54px;
+  height: 17px;
+  left: calc(3.85% - 2px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.kontakt-375 .impressum-pbUB2n {
+  background-color: transparent;
+  bottom: 26px;
+  height: 17px;
+  left: calc(3.85% - 2px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.kontakt-375 .datenschutz-pbUB2n {
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 1.22%;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 83px;
+}
+
+.kontakt-375 .gruppe-1028-YCkfSE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 194px);
+}
+
+.kontakt-375 .gruppe-1030-ALVdc3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-375 .gruppe-1020-tZtUxj {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  width: 82px;
+}
+
+.kontakt-375 .beratung-azzkmI {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 31px;
+}
+
+.kontakt-375 .ssl-azzkmI {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 36px;
+}
+
+.kontakt-375 .digitalisieren-tZtUxj {
+  background-color: transparent;
+  bottom: 92px;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 123px;
+}
+
+.kontakt-375 .strategiegesprch-tZtUxj {
+  background-color: transparent;
+  bottom: 41px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 96px;
+}
+
+.kontakt-375 .gruppe-910-Wa9Tec {
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-375 .gruppe-910-Wa9Tec.bp1-animate-enter4 {
+  animation: bp1-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-375 .gruppe-164-nESIwt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-375 .rechteck-305-2u0vxP {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-375 .gruppe-226-nESIwt {
+  background-color: transparent;
+  height: 13px;
+  left: 9px;
+  position: absolute;
+  top: calc(42.87% - 6px);
+  width: 16px;
+}
+
+.kontakt-375 .rechteck-315-8RtN2w {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-375 .rechteck-316-8RtN2w {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 100%;
+}
+
+.kontakt-375 .rechteck-317-8RtN2w {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - kontakt-767 */
+
+.kontakt-767 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1329px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.kontakt-767 .logo-final-u3Nik0 {
+  background-color: transparent;
+  display: block;
+  height: 58px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 35px;
+  top: 48px;
+  width: 56px;
+}
+
+.kontakt-767 .logo-final-u3Nik0.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-767 .gruppe-1040-u3Nik0 {
+  background-color: transparent;
+  display: block;
+  height: 55px;
+  left: 92px;
+  opacity: 0;
+  position: absolute;
+  top: 135px;
+  width: 220px;
+}
+
+.kontakt-767 .gruppe-1040-u3Nik0.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-767 .get-8v8xNL {
+  -webkit-text-stroke: 2.5px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-magistral-book);
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 400;
+  height: 57px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.kontakt-767 .started-8v8xNL {
+  -webkit-text-stroke: 2.5px var(--blue-jeans);
+  background-color: transparent;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-magistral-book);
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 400;
+  height: 57px;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.kontakt-767 .gruppe-1043-u3Nik0 {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 900px);
+  left: 92px;
+  opacity: 0;
+  position: absolute;
+  top: 329px;
+  width: calc(100.00% - 18px);
+}
+
+.kontakt-767 .gruppe-1043-u3Nik0.bp2-animate-enter2 {
+  animation: bp2-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-767 .gruppe-1041-AxW4tf {
+  background-color: transparent;
+  height: calc(100.00% - 162px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-767 .gruppe-1351-HjK0SD {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 450px;
+}
+
+.kontakt-767 .du-bist-bereit-zusammen-unMtct {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  height: 33px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  top: 8.06%;
+  white-space: nowrap;
+  width: 300px;
+}
+
+.kontakt-767 .abzuheben-unMtct {
+  background-color: transparent;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  height: 33px;
+  left: calc(100.66% - 150px);
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  top: 8.06%;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.kontakt-767 .ich-stehe-dir-gerne-HjK0SD {
+  background-color: transparent;
+  bottom: calc(6.08% - 12px);
+  height: 193px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  width: 747px;
+}
+
+.kontakt-767 .gruppe-1042-AxW4tf {
+  background-color: transparent;
+  bottom: 0px;
+  height: 93px;
+  left: 4px;
+  position: absolute;
+  width: 186px;
+}
+
+.kontakt-767 .felix-steck-p0QJ3W {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: calc(6.90% - 2px);
+  white-space: nowrap;
+  width: 119px;
+}
+
+.kontakt-767 .t-01523-799-2040-p0QJ3W {
+  background-color: transparent;
+  bottom: calc(35.16% - 10px);
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 175px;
+}
+
+.kontakt-767 .fsteckget-yourde-p0QJ3W {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: calc(107.03% - 31px);
+  white-space: nowrap;
+  width: 188px;
+}
+
+.kontakt-767 .felixkontakt-min-u3Nik0 {
+  background-color: transparent;
+  bottom: 249px;
+  display: block;
+  height: 506px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 80px;
+  width: 539px;
+}
+
+.kontakt-767 .felixkontakt-min-u3Nik0.bp2-animate-enter3 {
+  animation: bp2-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-767 .rechteck-623-u3Nik0 {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.kontakt-767 .x104501_twitter_bird_icon-u3Nik0 {
+  background-color: transparent;
+  bottom: 39px;
+  cursor: pointer;
+  height: 27px;
+  object-fit: cover;
+  position: absolute;
+  right: 136px;
+  width: 34px;
+}
+
+.kontakt-767 .gruppe-1019-u3Nik0 {
+  background-color: transparent;
+  bottom: 12px;
+  height: 18px;
+  position: absolute;
+  right: 0px;
+  width: 170px;
+}
+
+.kontakt-767 .gruppe-909-YOEPFN {
+  background-color: transparent;
+  bottom: 9px;
+  height: 9px;
+  opacity: 0.85;
+  position: absolute;
+  right: 161px;
+  width: 9px;
+}
+
+.kontakt-767 .ellipse-59445-OmlH1T {
+  background-color: transparent;
+  border-radius: 4.38px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-767 .c-OmlH1T {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.kontakt-767 .x2018-all-rights-reserved-YOEPFN {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  width: calc(100.00% - 13px);
+}
+
+.kontakt-767 .gruppe-1026-u3Nik0 {
+  background-color: transparent;
+  bottom: 22px;
+  height: 203px;
+  left: 52px;
+  position: absolute;
+  width: 72.10%;
+}
+
+.kontakt-767 .gruppe-1016-D8cRHQ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.kontakt-767 .beratung-3q3ftA {
+  background-color: transparent;
+  bottom: 6px;
+  height: 62px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.kontakt-767 .ssl-3q3ftA {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.kontakt-767 .jetzt-digitalisieren-D8cRHQ {
+  background-color: transparent;
+  bottom: 178px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 195px;
+}
+
+.kontakt-767 .vereinbare-ein-strategiegesprch-D8cRHQ {
+  background-color: transparent;
+  bottom: 100px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 228px;
+}
+
+.kontakt-767 .gruppe-1017-D8cRHQ {
+  background-color: transparent;
+  bottom: 14px;
+  height: 189px;
+  position: absolute;
+  right: calc(36.78% - 43px);
+  width: 118px;
+}
+
+.kontakt-767 .rechtliches-nR3Wp9 {
+  background-color: transparent;
+  bottom: 164px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.kontakt-767 .agb-nR3Wp9 {
+  background-color: transparent;
+  bottom: 86px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.kontakt-767 .impressum-nR3Wp9 {
+  background-color: transparent;
+  bottom: 42px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 78px;
+}
+
+.kontakt-767 .datenschutz-nR3Wp9 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 110px;
+}
+
+.kontakt-767 .gruppe-1018-D8cRHQ {
+  background-color: transparent;
+  bottom: 58px;
+  height: 145px;
+  position: absolute;
+  right: 0px;
+  width: 118px;
+}
+
+.kontakt-767 .get-your-zuToFc {
+  background-color: transparent;
+  bottom: 120px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.kontakt-767 .referenzen-zuToFc {
+  background-color: transparent;
+  bottom: 42px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 80px;
+}
+
+.kontakt-767 .netzwerk-zuToFc {
+  background-color: transparent;
+  bottom: -2px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 78px;
+}
+
+.kontakt-767 .zusammen-abheben-D8cRHQ {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 124px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: 182px;
+}
+
+.kontakt-767 .gruppe-910-u3Nik0 {
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-767 .gruppe-910-u3Nik0.bp2-animate-enter4 {
+  animation: bp2-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.kontakt-767 .gruppe-164-vU2GGX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-767 .rechteck-305-PLsByY {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-767 .gruppe-226-vU2GGX {
+  background-color: transparent;
+  height: 13px;
+  left: 19px;
+  position: absolute;
+  top: calc(42.87% - 6px);
+  width: 18px;
+}
+
+.kontakt-767 .rechteck-315-f7cyxn {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.kontakt-767 .rechteck-316-f7cyxn {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 100%;
+}
+
+.kontakt-767 .rechteck-317-f7cyxn {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+@media screen and (max-width: 766px) {
+  .screen.kontakt-1900 { 
+    display: none;
+   }
+  .screen.kontakt-767 { 
+    display: none;
+   }
+  .screen.kontakt-1200 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.kontakt-1900 { 
+    display: none;
+   }
+  .screen.kontakt-375 { 
+    display: none;
+   }
+  .screen.kontakt-1200 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1899px) {
+  .screen.kontakt-1900 { 
+    display: none;
+   }
+  .screen.kontakt-375 { 
+    display: none;
+   }
+  .screen.kontakt-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1900px) {
+  .screen.kontakt-375 { 
+    display: none;
+   }
+  .screen.kontakt-767 { 
+    display: none;
+   }
+  .screen.kontakt-1200 { 
+    display: none;
+   }
+}

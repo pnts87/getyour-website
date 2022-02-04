@@ -1,0 +1,3319 @@
+/* screen - teammitglied-felix-1200 */
+
+.teammitglied-felix-1200 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2335px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .gruppe-1052-JYmifQ {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: calc(100.00% - 1649px);
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 998px;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 600px);
+}
+
+.teammitglied-felix-1200 .gruppe-1052-JYmifQ.bp3-animate-enter {
+  animation: bp3-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1200 .gruppe-1052-JYmifQ:hover {
+  transform: translate(0, -5px);
+}
+
+.teammitglied-felix-1200 .felixgeschichte-xXg5Hr {
+  background-color: transparent;
+  bottom: 0px;
+  height: 686px;
+  left: calc(50.00% - 300px);
+  object-fit: cover;
+  position: absolute;
+  width: 600px;
+}
+
+.teammitglied-felix-1200 .felix-team-JYmifQ {
+  background-color: transparent;
+  display: block;
+  height: 1004px;
+  left: -153px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: -133px;
+  width: calc(100.00% + 306px);
+}
+
+.teammitglied-felix-1200 .felix-team-JYmifQ.bp3-animate-enter1 {
+  animation: bp3-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1200 .logo-final-JYmifQ {
+  background-color: transparent;
+  display: block;
+  height: 58px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 58px;
+  top: 73px;
+  width: 56px;
+}
+
+.teammitglied-felix-1200 .logo-final-JYmifQ.bp3-animate-enter2 {
+  animation: bp3-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1200 .gruppe-910-JYmifQ {
+  background-color: transparent;
+  display: block;
+  height: 25px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .gruppe-910-JYmifQ.bp3-animate-enter3 {
+  animation: bp3-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1200 .gruppe-164-7xoJj9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .rechteck-305-OYj1Wy {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .gruppe-226-7xoJj9 {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 19px;
+  position: absolute;
+  top: 3px;
+  width: 25px;
+}
+
+.teammitglied-felix-1200 .rechteck-315-U7Xm9R {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .rechteck-316-U7Xm9R {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(46.15% - 3px);
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .rechteck-317-U7Xm9R {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .felix-steck-JYmifQ {
+  -webkit-text-stroke: 2.5999999046325684px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-book);
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 400;
+  height: 74px;
+  letter-spacing: 1.38px;
+  line-height: 55px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.84% - 136px);
+  text-align: left;
+  top: calc(21.21% - 16px);
+  white-space: nowrap;
+  width: 273px;
+}
+
+.teammitglied-felix-1200 .felix-steck-JYmifQ.bp3-animate-enter4 {
+  animation: bp3-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1200 .gruppe-972-JYmifQ {
+  background-color: transparent;
+  bottom: calc(20.61% - 17px);
+  display: block;
+  height: 84px;
+  left: calc(50.00% - 214px);
+  opacity: 0;
+  position: absolute;
+  width: 429px;
+}
+
+.teammitglied-felix-1200 .gruppe-972-JYmifQ.bp3-animate-enter5 {
+  animation: bp3-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1200 .willst-du-mehr-ber-unseren-zuAGTo {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.teammitglied-felix-1200 .service-zuAGTo {
+  background-color: transparent;
+  bottom: -6px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  left: calc(27.33% - 33px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 120px;
+}
+
+.teammitglied-felix-1200 .erfahren-zuAGTo {
+  background-color: transparent;
+  bottom: -6px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: 61px;
+  text-align: left;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.teammitglied-felix-1200 .gruppe-1051-JYmifQ {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 1568px);
+  left: 678px;
+  opacity: 0;
+  position: absolute;
+  top: 917px;
+  width: calc(100.00% - 770px);
+}
+
+.teammitglied-felix-1200 .gruppe-1051-JYmifQ.bp3-animate-enter6 {
+  animation: bp3-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1200 .gruppe-1049-hu1pXJ {
+  background-color: transparent;
+  height: 767px;
+  left: calc(50.00% - 215px);
+  position: relative;
+  top: calc(50.00% - 384px);
+  width: 430px;
+}
+
+.teammitglied-felix-1200 .linie-41-O7bxgg {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 13.81%;
+  width: 78px;
+}
+
+.teammitglied-felix-1200 .felix-steck-O7bxgg {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-magistral-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 38px;
+  left: 1px;
+  letter-spacing: 0.70px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0.55%;
+  white-space: nowrap;
+  width: 147px;
+}
+
+.teammitglied-felix-1200 .strategie-design-O7bxgg {
+  background-color: transparent;
+  height: 26px;
+  left: 1px;
+  letter-spacing: 0.50px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(6.88% - 2px);
+  white-space: nowrap;
+  width: 159px;
+}
+
+.teammitglied-felix-1200 .meine-geschichte-O7bxgg {
+  -webkit-text-stroke: 0.30000001192092896px var(--thunderbird);
+  background-color: transparent;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(17.41% - 4px);
+  white-space: nowrap;
+  width: 150px;
+}
+
+.teammitglied-felix-1200 .ich-hatte-schon-imme-O7bxgg {
+  background-color: transparent;
+  bottom: calc(1.66% - 10px);
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 616px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  width: 432px;
+}
+
+.teammitglied-felix-1200 .rechteck-623-JYmifQ {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .x104501_twitter_bird_icon-JYmifQ {
+  background-color: transparent;
+  bottom: 111px;
+  cursor: pointer;
+  height: 28px;
+  object-fit: cover;
+  position: absolute;
+  right: 212px;
+  width: 35px;
+}
+
+.teammitglied-felix-1200 .gruppe-1024-JYmifQ {
+  background-color: transparent;
+  bottom: 9px;
+  height: 216px;
+  left: 152px;
+  position: absolute;
+  width: 802px;
+}
+
+.teammitglied-felix-1200 .gruppe-1012-oyGHSG {
+  background-color: transparent;
+  bottom: 13px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.teammitglied-felix-1200 .beratung-2wikAZ {
+  background-color: transparent;
+  bottom: 6px;
+  height: 83.78%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.teammitglied-felix-1200 .ssl-2wikAZ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.teammitglied-felix-1200 .jetzt-digitalisieren-oyGHSG {
+  background-color: transparent;
+  bottom: 171px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 259px;
+}
+
+.teammitglied-felix-1200 .zusammen-abheben-oyGHSG {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 139px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.teammitglied-felix-1200 .vereinbare-ein-strategiegesprch-oyGHSG {
+  background-color: transparent;
+  bottom: 104px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 256px;
+}
+
+.teammitglied-felix-1200 .gruppe-1013-oyGHSG {
+  background-color: transparent;
+  bottom: 0px;
+  height: 216px;
+  position: absolute;
+  right: calc(43.89% - 72px);
+  width: 164px;
+}
+
+.teammitglied-felix-1200 .rechtliches-f23CZb {
+  background-color: transparent;
+  bottom: 171px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 166px;
+}
+
+.teammitglied-felix-1200 .agb-f23CZb {
+  background-color: transparent;
+  bottom: 104px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.teammitglied-felix-1200 .impressum-f23CZb {
+  background-color: transparent;
+  bottom: 51px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.teammitglied-felix-1200 .datenschutz-f23CZb {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.teammitglied-felix-1200 .gruppe-1014-oyGHSG {
+  background-color: transparent;
+  bottom: 53px;
+  height: 163px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.teammitglied-felix-1200 .get-your-AhwuGG {
+  background-color: transparent;
+  bottom: 118px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.teammitglied-felix-1200 .referenzen-AhwuGG {
+  background-color: transparent;
+  bottom: 51px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 134px;
+}
+
+.teammitglied-felix-1200 .netzwerk-AhwuGG {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.teammitglied-felix-1200 .gruppe-1015-JYmifQ {
+  background-color: transparent;
+  bottom: 75px;
+  height: 27px;
+  position: absolute;
+  right: 26px;
+  width: 226px;
+}
+
+.teammitglied-felix-1200 .gruppe-909-gi8eW2 {
+  background-color: transparent;
+  bottom: 13px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 217px;
+  width: 9px;
+}
+
+.teammitglied-felix-1200 .x2018-all-rights-reserved-gi8eW2 {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 13px);
+}
+
+.teammitglied-felix-1200 .gruppe-1310-JYmifQ {
+  background-color: transparent;
+  bottom: 375px;
+  cursor: pointer;
+  height: 58px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.65% - 116px);
+  transition: all 0.3s ease;
+  width: 238px;
+}
+
+.teammitglied-felix-1200 .gruppe-1310-JYmifQ:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-felix-1200 .gruppe-1249-ihcudp {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .gruppe-1249-ihcudp.bp3-animate-enter8 {
+  animation: bp3-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1200 .gruppe-1249-ihcudp:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-felix-1200 .rechteck-596-0uB9gQ {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 58px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 238px;
+}
+
+.teammitglied-felix-1200 .rechteck-596-0uB9gQ.bp3-animate-enter7 {
+  animation: bp3-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1200 .rechteck-596-0uB9gQ:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-felix-1200 .kontakt-aufnehmen-ihcudp {
+  -webkit-text-stroke: 0.6000000238418579px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  position: absolute;
+  right: calc(48.68% - 79px);
+  text-align: center;
+  top: calc(17.14% - 4px);
+  white-space: nowrap;
+  width: 162px;
+}
+
+.teammitglied-felix-1200 .gruppe-910-VgGTf3 {
+  background-color: transparent;
+  display: block;
+  height: 25px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .gruppe-910-VgGTf3.bp3-animate-enter9 {
+  animation: bp3-animate-enter9-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1200 .gruppe-164-2BNJxT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .rechteck-305-56xxRP {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .gruppe-226-2BNJxT {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 19px;
+  position: absolute;
+  top: 3px;
+  width: 25px;
+}
+
+.teammitglied-felix-1200 .rechteck-315-kLK8rK {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .rechteck-316-kLK8rK {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(46.15% - 3px);
+  width: 100%;
+}
+
+.teammitglied-felix-1200 .rechteck-317-kLK8rK {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - teammitglied-felix-1900 */
+
+.teammitglied-felix-1900 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3314px;
+  min-width: 1900px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.teammitglied-felix-1900 .felix-team-xGApPq {
+  background-color: transparent;
+  display: block;
+  height: 1267px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: -187px;
+  width: 100%;
+}
+
+.teammitglied-felix-1900 .felix-team-xGApPq.bp4-animate-enter {
+  animation: bp4-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1900 .logo-final-xGApPq {
+  background-color: transparent;
+  display: block;
+  height: 68px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 39px;
+  top: 69px;
+  width: 66px;
+}
+
+.teammitglied-felix-1900 .logo-final-xGApPq.bp4-animate-enter1 {
+  animation: bp4-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1900 .felix-steck-xGApPq {
+  -webkit-text-stroke: 4px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-book);
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 400;
+  height: 117px;
+  letter-spacing: 2.20px;
+  line-height: 88px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.01% - 213px);
+  text-align: left;
+  top: calc(19.25% - 23px);
+  white-space: nowrap;
+  width: 435px;
+}
+
+.teammitglied-felix-1900 .felix-steck-xGApPq.bp4-animate-enter2 {
+  animation: bp4-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1900 .gruppe-412-xGApPq {
+  background-color: transparent;
+  bottom: calc(21.17% - 33px);
+  display: block;
+  height: 154px;
+  opacity: 0;
+  position: absolute;
+  right: calc(47.95% - 374px);
+  width: 780px;
+}
+
+.teammitglied-felix-1900 .gruppe-412-xGApPq.bp4-animate-enter3 {
+  animation: bp4-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1900 .willst-du-mehr-ber-unseren-d7nwO7 {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 74px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.teammitglied-felix-1900 .service-d7nwO7 {
+  background-color: transparent;
+  bottom: -8px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 74px;
+  left: calc(28.45% - 61px);
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 216px;
+}
+
+.teammitglied-felix-1900 .erfahren-d7nwO7 {
+  background-color: transparent;
+  bottom: -8px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 74px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  right: 110px;
+  text-align: left;
+  white-space: nowrap;
+  width: 278px;
+}
+
+.teammitglied-felix-1900 .gruppe-1050-xGApPq {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 2249px);
+  left: 1031px;
+  opacity: 0;
+  position: absolute;
+  top: 1215px;
+  width: calc(100.00% - 1291px);
+}
+
+.teammitglied-felix-1900 .gruppe-1050-xGApPq.bp4-animate-enter4 {
+  animation: bp4-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1900 .gruppe-1048-W7sxkN {
+  background-color: transparent;
+  height: 1065px;
+  left: calc(50.00% - 304px);
+  position: relative;
+  top: calc(50.00% - 532px);
+  width: 609px;
+}
+
+.teammitglied-felix-1900 .linie-41-EfcMok {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 16.13%;
+  width: 279px;
+}
+
+.teammitglied-felix-1900 .felix-steck-EfcMok {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-magistral-medium);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 1.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 0.59%;
+  white-space: nowrap;
+  width: 210px;
+}
+
+.teammitglied-felix-1900 .strategie-design-EfcMok {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  letter-spacing: 0.70px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: calc(9.56% - 3px);
+  white-space: nowrap;
+  width: 222px;
+}
+
+.teammitglied-felix-1900 .meine-geschichte-EfcMok {
+  -webkit-text-stroke: 0.30000001192092896px var(--thunderbird);
+  background-color: transparent;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(24.81% - 6px);
+  white-space: nowrap;
+  width: 150px;
+}
+
+.teammitglied-felix-1900 .ich-hatte-schon-imme-EfcMok {
+  background-color: transparent;
+  bottom: calc(1.39% - 11px);
+  height: 778px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  width: 611px;
+}
+
+.teammitglied-felix-1900 .felixgeschichte-xGApPq {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: calc(100.00% - 2376px);
+  left: 129px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 1342px;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 1079px);
+}
+
+.teammitglied-felix-1900 .felixgeschichte-xGApPq.bp4-animate-enter5 {
+  animation: bp4-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1900 .felixgeschichte-xGApPq:hover {
+  transform: translate(0, -5px);
+}
+
+.teammitglied-felix-1900 .gruppe-1239-xGApPq {
+  background-color: transparent;
+  bottom: 0px;
+  height: 399px;
+  left: -10px;
+  position: absolute;
+  width: calc(100.00% + 20px);
+}
+
+.teammitglied-felix-1900 .rechteck-623-TnVGKJ {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 399px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.teammitglied-felix-1900 .x104501_twitter_bird_icon-TnVGKJ {
+  background-color: transparent;
+  bottom: 186px;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: absolute;
+  right: 339px;
+  width: 40px;
+}
+
+.teammitglied-felix-1900 .gruppe-1011-TnVGKJ {
+  background-color: transparent;
+  bottom: 136px;
+  height: 29px;
+  position: absolute;
+  right: 178px;
+  width: 223px;
+}
+
+.teammitglied-felix-1900 .gruppe-909-tE3gPW {
+  background-color: transparent;
+  bottom: 10px;
+  height: 19px;
+  opacity: 0.85;
+  position: absolute;
+  right: 209px;
+  width: 14px;
+}
+
+.teammitglied-felix-1900 .ellipse-59445-1rHpri {
+  background-color: transparent;
+  border: 1px solid var(--licorice);
+  border-radius: 7px;
+  bottom: 2px;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teammitglied-felix-1900 .c-1rHpri {
+  -webkit-text-stroke: 0.30000001192092896px var(--licorice);
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(25.00% - 2px);
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 10px;
+}
+
+.teammitglied-felix-1900 .x2018-all-rights-reserved-tE3gPW {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 206px;
+}
+
+.teammitglied-felix-1900 .gruppe-1025-TnVGKJ {
+  background-color: transparent;
+  bottom: 25px;
+  height: 297px;
+  left: 152px;
+  position: absolute;
+  width: 1131px;
+}
+
+.teammitglied-felix-1900 .gruppe-1008-G5Szyn {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  width: 203px;
+}
+
+.teammitglied-felix-1900 .beratung-krj9Jr {
+  background-color: transparent;
+  bottom: 7px;
+  height: 76px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 77px;
+}
+
+.teammitglied-felix-1900 .ssl-krj9Jr {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 90px;
+}
+
+.teammitglied-felix-1900 .jetzt-digitalisieren-G5Szyn {
+  background-color: transparent;
+  bottom: 252px;
+  height: 45px;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.teammitglied-felix-1900 .vereinbare-ein-strategiegesprch-G5Szyn {
+  background-color: transparent;
+  bottom: 100px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 353px;
+}
+
+.teammitglied-felix-1900 .zusammen-abheben-G5Szyn {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 139px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 45px;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.teammitglied-felix-1900 .gruppe-1009-G5Szyn {
+  background-color: transparent;
+  bottom: 37px;
+  height: 260px;
+  position: absolute;
+  right: calc(42.57% - 97px);
+  width: 229px;
+}
+
+.teammitglied-felix-1900 .agb-oEL9Cy {
+  background-color: transparent;
+  bottom: 128px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.teammitglied-felix-1900 .impressum-oEL9Cy {
+  background-color: transparent;
+  bottom: 63px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.teammitglied-felix-1900 .datenschutz-oEL9Cy {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 150px;
+}
+
+.teammitglied-felix-1900 .rechtliches-oEL9Cy {
+  background-color: transparent;
+  bottom: 215px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.teammitglied-felix-1900 .gruppe-1010-G5Szyn {
+  background-color: transparent;
+  bottom: 102px;
+  height: 195px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.teammitglied-felix-1900 .referenzen-bsppeK {
+  background-color: transparent;
+  bottom: 63px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 134px;
+}
+
+.teammitglied-felix-1900 .netzwerk-bsppeK {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.teammitglied-felix-1900 .get-your-bsppeK {
+  background-color: transparent;
+  bottom: 150px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.teammitglied-felix-1900 .gruppe-1302-xGApPq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.11%;
+  left: 43.00%;
+  pointer-events: auto;
+  position: absolute;
+  top: 81.23%;
+  transition: all 0.3s ease;
+  width: 16.42%;
+}
+
+.teammitglied-felix-1900 .gruppe-1302-xGApPq:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-felix-1900 .gruppe-1249-p1IPHc {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 70px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 312px;
+}
+
+.teammitglied-felix-1900 .gruppe-1249-p1IPHc.bp4-animate-enter7 {
+  animation: bp4-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1900 .gruppe-1249-p1IPHc:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-felix-1900 .rechteck-596-eq6Z5b {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 70px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 312px;
+}
+
+.teammitglied-felix-1900 .rechteck-596-eq6Z5b.bp4-animate-enter6 {
+  animation: bp4-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1900 .rechteck-596-eq6Z5b:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-felix-1900 .kontakt-aufnehmen-p1IPHc {
+  -webkit-text-stroke: 0.8999999761581421px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.teammitglied-felix-1900 .gruppe-910-xGApPq {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-1900 .gruppe-910-xGApPq.bp4-animate-enter8 {
+  animation: bp4-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-1900 .gruppe-164-bnAR9i {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-1900 .rechteck-305-q9oI07 {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-1900 .gruppe-226-bnAR9i {
+  background-color: transparent;
+  bottom: calc(46.15% - 11px);
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  width: 33px;
+}
+
+.teammitglied-felix-1900 .rechteck-315-43jKEE {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-1900 .rechteck-316-43jKEE {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 4px);
+  width: 100%;
+}
+
+.teammitglied-felix-1900 .rechteck-317-43jKEE {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - teammitglied-felix-375 */
+
+.teammitglied-felix-375 {
+  background-color: #161616;
+  height: 100vh;
+  margin: 0px;
+  min-height: 2146px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.teammitglied-felix-375 .gruppe-1052-ZCblzL {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 1460px);
+  left: -103px;
+  opacity: 0;
+  position: absolute;
+  top: 792px;
+  width: calc(100.00% + 225px);
+}
+
+.teammitglied-felix-375 .gruppe-1052-ZCblzL.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-375 .felixgeschichte-aaZO8q {
+  background-color: transparent;
+  bottom: 0px;
+  height: 686px;
+  left: calc(50.00% - 300px);
+  object-fit: cover;
+  position: absolute;
+  width: 600px;
+}
+
+.teammitglied-felix-375 .felix-team-ZCblzL {
+  background-color: transparent;
+  display: block;
+  height: 733px;
+  left: -336px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% + 725px);
+}
+
+.teammitglied-felix-375 .felix-team-ZCblzL.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-375 .logo-final-ZCblzL {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 25px;
+  top: 38px;
+  width: 36px;
+}
+
+.teammitglied-felix-375 .logo-final-ZCblzL.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-375 .linie-41-ZCblzL {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 26px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 39.10%;
+  width: 50px;
+}
+
+.teammitglied-felix-375 .linie-41-ZCblzL.bp1-animate-enter3 {
+  animation: bp1-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-375 .felix-steck-ZCblzL {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  display: block;
+  font-family: var(--font-family-magistral-medium);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  height: 27px;
+  left: 26px;
+  letter-spacing: 0.47px;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(36.90% - 10px);
+  white-space: nowrap;
+  width: 101px;
+}
+
+.teammitglied-felix-375 .felix-steck-ZCblzL.bp1-animate-enter4 {
+  animation: bp1-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-375 .strategie-design-ZCblzL {
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 26px;
+  letter-spacing: 0.30px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(38.16% - 6px);
+  white-space: nowrap;
+  width: 96px;
+}
+
+.teammitglied-felix-375 .strategie-design-ZCblzL.bp1-animate-enter5 {
+  animation: bp1-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-375 .meine-geschichte-ZCblzL {
+  -webkit-text-stroke: 0.5px var(--thunderbird);
+  background-color: transparent;
+  bottom: calc(37.65% - 6px);
+  color: var(--thunderbird);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 26px;
+  letter-spacing: 0.30px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.teammitglied-felix-375 .meine-geschichte-ZCblzL.bp1-animate-enter6 {
+  animation: bp1-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-375 .ich-hatte-schon-imme-ZCblzL {
+  background-color: transparent;
+  bottom: calc(20.72% - 92px);
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 445px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 59px);
+}
+
+.teammitglied-felix-375 .ich-hatte-schon-imme-ZCblzL.bp1-animate-enter7 {
+  animation: bp1-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-375 .gruppe-972-ZCblzL {
+  background-color: transparent;
+  bottom: calc(13.23% - 8px);
+  display: block;
+  height: 60px;
+  left: calc(46.07% - 132px);
+  opacity: 0;
+  position: absolute;
+  width: 286px;
+}
+
+.teammitglied-felix-375 .gruppe-972-ZCblzL.bp1-animate-enter8 {
+  animation: bp1-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-375 .willst-du-mehr-ber-unseren-m5lhLh {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.teammitglied-felix-375 .service-m5lhLh {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: calc(23.67% - 19px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.teammitglied-felix-375 .erfahren-m5lhLh {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  right: calc(23.78% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.teammitglied-felix-375 .felix-steck-9aT93x {
+  -webkit-text-stroke: 1px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-book);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: 67px;
+  letter-spacing: 1.25px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  right: calc(43.31% - 107px);
+  text-align: left;
+  top: calc(25.08% - 17px);
+  white-space: nowrap;
+  width: 248px;
+}
+
+.teammitglied-felix-375 .felix-steck-9aT93x.bp1-animate-enter9 {
+  animation: bp1-animate-enter9-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-375 .rechteck-623-ZCblzL {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 151px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.teammitglied-felix-375 .x104501_twitter_bird_icon-ZCblzL {
+  background-color: transparent;
+  bottom: 20px;
+  cursor: pointer;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 66px;
+  width: 18px;
+}
+
+.teammitglied-felix-375 .gruppe-1023-ZCblzL {
+  background-color: transparent;
+  bottom: 7px;
+  height: 9px;
+  position: absolute;
+  right: 4px;
+  width: 79px;
+}
+
+.teammitglied-felix-375 .gruppe-909-zckxr8 {
+  background-color: transparent;
+  bottom: 3px;
+  height: 6px;
+  opacity: 0.85;
+  position: absolute;
+  right: 75px;
+  width: 5px;
+}
+
+.teammitglied-felix-375 .ellipse-59445-xiXMtL {
+  background-color: transparent;
+  border-radius: 2.3px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teammitglied-felix-375 .c-xiXMtL {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.64% - 1px);
+  top: 0px;
+  width: 3px;
+}
+
+.teammitglied-felix-375 .x2018-all-rights-reserved-zckxr8 {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 5px;
+  font-style: normal;
+  font-weight: 400;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 5px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 75px;
+}
+
+.teammitglied-felix-375 .gruppe-1029-ZCblzL {
+  background-color: transparent;
+  bottom: calc(0.54% - 1px);
+  height: 122px;
+  left: 25px;
+  position: absolute;
+  width: calc(100.00% - 60px);
+}
+
+.teammitglied-felix-375 .gruppe-1027-YQIPz0 {
+  background-color: transparent;
+  height: 63.93%;
+  left: 246px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 246px);
+}
+
+.teammitglied-felix-375 .gruppe-1022-ff4pmI {
+  background-color: transparent;
+  bottom: 0px;
+  height: 78px;
+  left: calc(50.00% - 34px);
+  position: absolute;
+  width: 69px;
+}
+
+.teammitglied-felix-375 .get-your-Ou7Xxd {
+  background-color: transparent;
+  bottom: 64px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.teammitglied-felix-375 .referenzen-Ou7Xxd {
+  background-color: transparent;
+  bottom: 26px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 60px;
+}
+
+.teammitglied-felix-375 .netzwerk-Ou7Xxd {
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.teammitglied-felix-375 .gruppe-1021-YQIPz0 {
+  background-color: transparent;
+  height: 87.70%;
+  left: 135px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 231px);
+}
+
+.teammitglied-felix-375 .rechtliches-79qlOX {
+  background-color: transparent;
+  bottom: 93px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.teammitglied-felix-375 .agb-79qlOX {
+  background-color: transparent;
+  bottom: 54px;
+  height: 17px;
+  left: calc(3.57% - 2px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.teammitglied-felix-375 .impressum-79qlOX {
+  background-color: transparent;
+  bottom: 26px;
+  height: 17px;
+  left: calc(3.57% - 2px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.teammitglied-felix-375 .datenschutz-79qlOX {
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 1.19%;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 85px;
+}
+
+.teammitglied-felix-375 .gruppe-1028-YQIPz0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 194px);
+}
+
+.teammitglied-felix-375 .gruppe-1030-8DUoXw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-375 .gruppe-1020-VnBhU6 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  width: 82px;
+}
+
+.teammitglied-felix-375 .beratung-ZvAmgF {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 31px;
+}
+
+.teammitglied-felix-375 .ssl-ZvAmgF {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 36px;
+}
+
+.teammitglied-felix-375 .digitalisieren-VnBhU6 {
+  background-color: transparent;
+  bottom: 92px;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 123px;
+}
+
+.teammitglied-felix-375 .strategiegesprch-VnBhU6 {
+  background-color: transparent;
+  bottom: 41px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 96px;
+}
+
+.teammitglied-felix-375 .gruppe-1323-ZCblzL {
+  background-color: transparent;
+  bottom: 220px;
+  cursor: pointer;
+  height: 40px;
+  left: calc(48.13% - 64px);
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.3s ease;
+  width: 134px;
+}
+
+.teammitglied-felix-375 .gruppe-1323-ZCblzL:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-felix-375 .gruppe-1249-1MXQ9Y {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.teammitglied-felix-375 .gruppe-1249-1MXQ9Y.bp1-animate-enter11 {
+  animation: bp1-animate-enter11-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-375 .gruppe-1249-1MXQ9Y:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-felix-375 .rechteck-596-4kIZrD {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 40px;
+  left: calc(50.00% - 67px);
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: calc(50.00% - 20px);
+  transition: all 0.3s ease;
+  width: 134px;
+}
+
+.teammitglied-felix-375 .rechteck-596-4kIZrD.bp1-animate-enter10 {
+  animation: bp1-animate-enter10-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-375 .rechteck-596-4kIZrD:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-felix-375 .kontakt-aufnehmen-1MXQ9Y {
+  -webkit-text-stroke: 0.3499999940395355px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: center;
+  top: calc(13.04% - 2px);
+  white-space: nowrap;
+  width: calc(100.00% - 26px);
+}
+
+.teammitglied-felix-375 .gruppe-910-ZCblzL {
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-375 .gruppe-910-ZCblzL.bp1-animate-enter12 {
+  animation: bp1-animate-enter12-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter12-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-375 .gruppe-164-in2zWU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-375 .rechteck-305-DCCxrw {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-375 .gruppe-226-in2zWU {
+  background-color: transparent;
+  height: 13px;
+  left: 9px;
+  position: absolute;
+  top: calc(42.87% - 6px);
+  width: 16px;
+}
+
+.teammitglied-felix-375 .rechteck-315-BeTvxR {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-375 .rechteck-316-BeTvxR {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 100%;
+}
+
+.teammitglied-felix-375 .rechteck-317-BeTvxR {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - teammitglied-felix-767 */
+
+.teammitglied-felix-767 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2480px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.teammitglied-felix-767 .gruppe-1052-eFFb5X {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: calc(100.00% - 1794px);
+  left: 84px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 873px;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 167px);
+}
+
+.teammitglied-felix-767 .gruppe-1052-eFFb5X.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-767 .gruppe-1052-eFFb5X:hover {
+  transform: translate(0, -5px);
+}
+
+.teammitglied-felix-767 .felixgeschichte-NksaNM {
+  background-color: transparent;
+  bottom: 0px;
+  height: 686px;
+  left: calc(50.00% - 300px);
+  object-fit: cover;
+  position: absolute;
+  width: 600px;
+}
+
+.teammitglied-felix-767 .felix-team-eFFb5X {
+  background-color: transparent;
+  display: block;
+  height: 800px;
+  left: -193px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 433px);
+}
+
+.teammitglied-felix-767 .felix-team-eFFb5X.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-767 .logo-final-eFFb5X {
+  background-color: transparent;
+  display: block;
+  height: 58px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 35px;
+  top: 48px;
+  width: 56px;
+}
+
+.teammitglied-felix-767 .logo-final-eFFb5X.bp2-animate-enter2 {
+  animation: bp2-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-767 .felix-steck-eFFb5X {
+  -webkit-text-stroke: 3.299999952316284px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-light);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 300;
+  height: 67px;
+  letter-spacing: 1.25px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.81% - 116px);
+  text-align: left;
+  top: calc(23.02% - 15px);
+  white-space: nowrap;
+  width: 233px;
+}
+
+.teammitglied-felix-767 .felix-steck-eFFb5X.bp2-animate-enter3 {
+  animation: bp2-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-767 .meine-geschichte-eFFb5X {
+  -webkit-text-stroke: 0.5px var(--thunderbird);
+  background-color: transparent;
+  bottom: calc(35.16% - 7px);
+  color: var(--thunderbird);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 93px;
+  letter-spacing: 0.40px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.teammitglied-felix-767 .meine-geschichte-eFFb5X.bp2-animate-enter4 {
+  animation: bp2-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-767 .ich-hatte-schon-imme-eFFb5X {
+  background-color: transparent;
+  bottom: calc(25.13% - 80px);
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 319px;
+  left: 93px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 204px);
+}
+
+.teammitglied-felix-767 .ich-hatte-schon-imme-eFFb5X.bp2-animate-enter5 {
+  animation: bp2-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-767 .gruppe-972-eFFb5X {
+  background-color: transparent;
+  bottom: calc(18.02% - 13px);
+  display: block;
+  height: 71px;
+  left: calc(50.00% - 176px);
+  opacity: 0;
+  position: absolute;
+  width: 351px;
+}
+
+.teammitglied-felix-767 .gruppe-972-eFFb5X.bp2-animate-enter6 {
+  animation: bp2-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-767 .willst-du-mehr-ber-unseren-lqRSTj {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.teammitglied-felix-767 .service-lqRSTj {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: 34px;
+  left: calc(24.71% - 24px);
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.teammitglied-felix-767 .erfahren-lqRSTj {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: 34px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  right: calc(27.75% - 35px);
+  text-align: left;
+  white-space: nowrap;
+  width: 126px;
+}
+
+.teammitglied-felix-767 .felix-steck-NcFBzm {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  display: block;
+  font-family: var(--font-family-magistral-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 38px;
+  left: 75px;
+  letter-spacing: 0.70px;
+  line-height: 28px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(36.45% - 14px);
+  white-space: nowrap;
+  width: 147px;
+}
+
+.teammitglied-felix-767 .felix-steck-NcFBzm.bp2-animate-enter7 {
+  animation: bp2-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-767 .strategie-design-eFFb5X {
+  background-color: transparent;
+  display: block;
+  height: 26px;
+  left: 75px;
+  letter-spacing: 0.50px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(38.18% - 10px);
+  white-space: nowrap;
+  width: 159px;
+}
+
+.teammitglied-felix-767 .strategie-design-eFFb5X.bp2-animate-enter8 {
+  animation: bp2-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-767 .linie-41-eFFb5X {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 74px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 39.51%;
+  width: 50px;
+}
+
+.teammitglied-felix-767 .linie-41-eFFb5X.bp2-animate-enter9 {
+  animation: bp2-animate-enter9-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-767 .rechteck-623-eFFb5X {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.teammitglied-felix-767 .x104501_twitter_bird_icon-eFFb5X {
+  background-color: transparent;
+  bottom: 39px;
+  cursor: pointer;
+  height: 27px;
+  object-fit: cover;
+  position: absolute;
+  right: 136px;
+  width: 34px;
+}
+
+.teammitglied-felix-767 .gruppe-1019-eFFb5X {
+  background-color: transparent;
+  bottom: 12px;
+  height: 18px;
+  position: absolute;
+  right: 16px;
+  width: 154px;
+}
+
+.teammitglied-felix-767 .gruppe-909-AZqA1Z {
+  background-color: transparent;
+  bottom: 9px;
+  height: 9px;
+  opacity: 0.85;
+  position: absolute;
+  right: 145px;
+  width: 9px;
+}
+
+.teammitglied-felix-767 .ellipse-59445-ExJs5C {
+  background-color: transparent;
+  border-radius: 4.38px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-767 .c-ExJs5C {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.teammitglied-felix-767 .x2018-all-rights-reserved-AZqA1Z {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  width: calc(100.00% - 13px);
+}
+
+.teammitglied-felix-767 .gruppe-1026-eFFb5X {
+  background-color: transparent;
+  bottom: 22px;
+  height: 203px;
+  left: 52px;
+  position: absolute;
+  width: 72.10%;
+}
+
+.teammitglied-felix-767 .gruppe-1016-AZpWlc {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.teammitglied-felix-767 .beratung-my5wT0 {
+  background-color: transparent;
+  bottom: 6px;
+  height: 62px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.teammitglied-felix-767 .ssl-my5wT0 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.teammitglied-felix-767 .jetzt-digitalisieren-AZpWlc {
+  background-color: transparent;
+  bottom: 178px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 195px;
+}
+
+.teammitglied-felix-767 .vereinbare-ein-strategiegesprch-AZpWlc {
+  background-color: transparent;
+  bottom: 100px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 228px;
+}
+
+.teammitglied-felix-767 .gruppe-1017-AZpWlc {
+  background-color: transparent;
+  bottom: 14px;
+  height: 189px;
+  position: absolute;
+  right: calc(36.78% - 43px);
+  width: 118px;
+}
+
+.teammitglied-felix-767 .rechtliches-BJB34h {
+  background-color: transparent;
+  bottom: 164px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.teammitglied-felix-767 .agb-BJB34h {
+  background-color: transparent;
+  bottom: 86px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.teammitglied-felix-767 .impressum-BJB34h {
+  background-color: transparent;
+  bottom: 42px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 78px;
+}
+
+.teammitglied-felix-767 .datenschutz-BJB34h {
+  background-color: transparent;
+  bottom: -2px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 114px;
+}
+
+.teammitglied-felix-767 .gruppe-1018-AZpWlc {
+  background-color: transparent;
+  bottom: 58px;
+  height: 145px;
+  position: absolute;
+  right: 0px;
+  width: 118px;
+}
+
+.teammitglied-felix-767 .get-your-Efbgyj {
+  background-color: transparent;
+  bottom: 120px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.teammitglied-felix-767 .referenzen-Efbgyj {
+  background-color: transparent;
+  bottom: 42px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 80px;
+}
+
+.teammitglied-felix-767 .netzwerk-Efbgyj {
+  background-color: transparent;
+  bottom: -2px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 78px;
+}
+
+.teammitglied-felix-767 .zusammen-abheben-AZpWlc {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 124px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: 182px;
+}
+
+.teammitglied-felix-767 .gruppe-1312-eFFb5X {
+  background-color: transparent;
+  bottom: 354px;
+  cursor: pointer;
+  height: 46px;
+  left: calc(48.45% - 75px);
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.3s ease;
+  width: 154px;
+}
+
+.teammitglied-felix-767 .gruppe-1312-eFFb5X:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-felix-767 .gruppe-1250-xRLmtv {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.teammitglied-felix-767 .gruppe-1250-xRLmtv.bp2-animate-enter11 {
+  animation: bp2-animate-enter11-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-767 .gruppe-1250-xRLmtv:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-felix-767 .rechteck-1181-vEdhKy {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 46px;
+  left: calc(50.00% - 77px);
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: calc(50.00% - 23px);
+  transition: all 0.3s ease;
+  width: 154px;
+}
+
+.teammitglied-felix-767 .rechteck-1181-vEdhKy.bp2-animate-enter10 {
+  animation: bp2-animate-enter10-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-767 .rechteck-1181-vEdhKy:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-felix-767 .kontakt-aufnehmen-xRLmtv {
+  -webkit-text-stroke: 0.3499999940395355px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 19px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  text-align: center;
+  top: calc(14.81% - 3px);
+  white-space: nowrap;
+  width: calc(100.00% - 28px);
+}
+
+.teammitglied-felix-767 .gruppe-910-eFFb5X {
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-767 .gruppe-910-eFFb5X.bp2-animate-enter12 {
+  animation: bp2-animate-enter12-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter12-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-felix-767 .gruppe-164-HWgKcg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-767 .rechteck-305-QxFaj6 {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-767 .gruppe-226-HWgKcg {
+  background-color: transparent;
+  height: 13px;
+  left: 19px;
+  position: absolute;
+  top: calc(42.87% - 6px);
+  width: 18px;
+}
+
+.teammitglied-felix-767 .rechteck-315-BmsnKq {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-felix-767 .rechteck-316-BmsnKq {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 100%;
+}
+
+.teammitglied-felix-767 .rechteck-317-BmsnKq {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+@media screen and (max-width: 766px) {
+  .screen.teammitglied-felix-767 { 
+    display: none;
+   }
+  .screen.teammitglied-felix-1200 { 
+    display: none;
+   }
+  .screen.teammitglied-felix-1900 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.teammitglied-felix-375 { 
+    display: none;
+   }
+  .screen.teammitglied-felix-1200 { 
+    display: none;
+   }
+  .screen.teammitglied-felix-1900 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1899px) {
+  .screen.teammitglied-felix-375 { 
+    display: none;
+   }
+  .screen.teammitglied-felix-767 { 
+    display: none;
+   }
+  .screen.teammitglied-felix-1900 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1900px) {
+  .screen.teammitglied-felix-375 { 
+    display: none;
+   }
+  .screen.teammitglied-felix-767 { 
+    display: none;
+   }
+  .screen.teammitglied-felix-1200 { 
+    display: none;
+   }
+}

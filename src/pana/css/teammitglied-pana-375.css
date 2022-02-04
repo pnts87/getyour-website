@@ -1,0 +1,3277 @@
+/* screen - teammitglied-pana-1200 */
+
+.teammitglied-pana-1200 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2335px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .b7-b8-e135-955-d-491-pxTnHk {
+  background-color: transparent;
+  display: block;
+  height: 874px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% + 110px);
+}
+
+.teammitglied-pana-1200 .b7-b8-e135-955-d-491-pxTnHk.bp3-animate-enter {
+  animation: bp3-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1200 .logo-final-pxTnHk {
+  background-color: transparent;
+  display: block;
+  height: 58px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 58px;
+  top: 73px;
+  width: 56px;
+}
+
+.teammitglied-pana-1200 .logo-final-pxTnHk.bp3-animate-enter1 {
+  animation: bp3-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1200 .gruppe-910-pxTnHk {
+  background-color: transparent;
+  display: block;
+  height: 25px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .gruppe-910-pxTnHk.bp3-animate-enter2 {
+  animation: bp3-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1200 .gruppe-164-6nyURw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .rechteck-305-eNUIIG {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .gruppe-226-6nyURw {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 19px;
+  position: absolute;
+  top: 3px;
+  width: 25px;
+}
+
+.teammitglied-pana-1200 .rechteck-315-GXBRhz {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .rechteck-316-GXBRhz {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(46.15% - 3px);
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .rechteck-317-GXBRhz {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .panagiotis-tsivelekidis-pxTnHk {
+  -webkit-text-stroke: 2.5999999046325684px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-book);
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 400;
+  height: 74px;
+  letter-spacing: 1.38px;
+  line-height: 55px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.76% - 288px);
+  text-align: left;
+  top: calc(21.21% - 16px);
+  white-space: nowrap;
+  width: 579px;
+}
+
+.teammitglied-pana-1200 .panagiotis-tsivelekidis-pxTnHk.bp3-animate-enter3 {
+  animation: bp3-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1200 .gruppe-972-pxTnHk {
+  background-color: transparent;
+  bottom: calc(20.61% - 17px);
+  display: block;
+  height: 84px;
+  left: calc(50.00% - 214px);
+  opacity: 0;
+  position: absolute;
+  width: 429px;
+}
+
+.teammitglied-pana-1200 .gruppe-972-pxTnHk.bp3-animate-enter4 {
+  animation: bp3-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1200 .willst-du-mehr-ber-unseren-K4kdC1 {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.teammitglied-pana-1200 .service-K4kdC1 {
+  background-color: transparent;
+  bottom: -6px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  left: calc(27.33% - 33px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 120px;
+}
+
+.teammitglied-pana-1200 .erfahren-K4kdC1 {
+  background-color: transparent;
+  bottom: -6px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: 61px;
+  text-align: left;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.teammitglied-pana-1200 .gruppe-1051-pxTnHk {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 1568px);
+  left: 678px;
+  opacity: 0;
+  position: absolute;
+  top: 917px;
+  width: calc(100.00% - 770px);
+}
+
+.teammitglied-pana-1200 .gruppe-1051-pxTnHk.bp3-animate-enter5 {
+  animation: bp3-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1200 .gruppe-1049-0TpkU5 {
+  background-color: transparent;
+  height: 767px;
+  left: calc(50.00% - 215px);
+  position: relative;
+  top: calc(50.00% - 384px);
+  width: 430px;
+}
+
+.teammitglied-pana-1200 .linie-41-O4g107 {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 13.81%;
+  width: 78px;
+}
+
+.teammitglied-pana-1200 .panagiotis-tsivelekidis-O4g107 {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-magistral-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 38px;
+  left: 1px;
+  letter-spacing: 0.70px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0.55%;
+  white-space: nowrap;
+  width: 316px;
+}
+
+.teammitglied-pana-1200 .strategie-entwicklung-O4g107 {
+  background-color: transparent;
+  height: 26px;
+  left: 1px;
+  letter-spacing: 0.50px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(6.88% - 2px);
+  white-space: nowrap;
+  width: 205px;
+}
+
+.teammitglied-pana-1200 .meine-geschichte-O4g107 {
+  -webkit-text-stroke: 0.30000001192092896px var(--thunderbird);
+  background-color: transparent;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(17.41% - 4px);
+  white-space: nowrap;
+  width: 150px;
+}
+
+.teammitglied-pana-1200 .als-wir-vor-3-jahren-O4g107 {
+  background-color: transparent;
+  bottom: calc(1.66% - 10px);
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 616px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  width: 432px;
+}
+
+.teammitglied-pana-1200 .rechteck-623-pxTnHk {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .x104501_twitter_bird_icon-pxTnHk {
+  background-color: transparent;
+  bottom: 111px;
+  cursor: pointer;
+  height: 28px;
+  object-fit: cover;
+  position: absolute;
+  right: 212px;
+  width: 35px;
+}
+
+.teammitglied-pana-1200 .gruppe-1024-pxTnHk {
+  background-color: transparent;
+  bottom: 9px;
+  height: 216px;
+  left: 152px;
+  position: absolute;
+  width: 802px;
+}
+
+.teammitglied-pana-1200 .gruppe-1012-LNAEdS {
+  background-color: transparent;
+  bottom: 13px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.teammitglied-pana-1200 .beratung-7VyhxN {
+  background-color: transparent;
+  bottom: 6px;
+  height: 83.78%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.teammitglied-pana-1200 .ssl-7VyhxN {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.teammitglied-pana-1200 .jetzt-digitalisieren-LNAEdS {
+  background-color: transparent;
+  bottom: 171px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 259px;
+}
+
+.teammitglied-pana-1200 .zusammen-abheben-LNAEdS {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 139px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.teammitglied-pana-1200 .vereinbare-ein-strategiegesprch-LNAEdS {
+  background-color: transparent;
+  bottom: 104px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 256px;
+}
+
+.teammitglied-pana-1200 .gruppe-1013-LNAEdS {
+  background-color: transparent;
+  bottom: 0px;
+  height: 216px;
+  position: absolute;
+  right: calc(43.89% - 72px);
+  width: 164px;
+}
+
+.teammitglied-pana-1200 .rechtliches-4s3Ztb {
+  background-color: transparent;
+  bottom: 171px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 166px;
+}
+
+.teammitglied-pana-1200 .agb-4s3Ztb {
+  background-color: transparent;
+  bottom: 104px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.teammitglied-pana-1200 .impressum-4s3Ztb {
+  background-color: transparent;
+  bottom: 51px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.teammitglied-pana-1200 .datenschutz-4s3Ztb {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.teammitglied-pana-1200 .gruppe-1014-LNAEdS {
+  background-color: transparent;
+  bottom: 53px;
+  height: 163px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.teammitglied-pana-1200 .get-your-q22AKV {
+  background-color: transparent;
+  bottom: 118px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.teammitglied-pana-1200 .referenzen-q22AKV {
+  background-color: transparent;
+  bottom: 51px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 134px;
+}
+
+.teammitglied-pana-1200 .netzwerk-q22AKV {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.teammitglied-pana-1200 .gruppe-1015-pxTnHk {
+  background-color: transparent;
+  bottom: 75px;
+  height: 27px;
+  position: absolute;
+  right: 26px;
+  width: 226px;
+}
+
+.teammitglied-pana-1200 .gruppe-909-D5bJix {
+  background-color: transparent;
+  bottom: 13px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 217px;
+  width: 9px;
+}
+
+.teammitglied-pana-1200 .x2018-all-rights-reserved-D5bJix {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 13px);
+}
+
+.teammitglied-pana-1200 .gruppe-1244-pxTnHk {
+  background-color: transparent;
+  bottom: calc(43.70% - 229px);
+  height: 525px;
+  left: 0px;
+  position: absolute;
+  width: 652px;
+}
+
+.teammitglied-pana-1200 .pana-bewerbungsbild-min-sb9lv5 {
+  background-color: transparent;
+  height: calc(100.00% - 50px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .rechteck-1229-sb9lv5 {
+  background: linear-gradient(180deg, rgba(20, 20, 20, 0) 0%, #141414 100%);
+  background-color: transparent;
+  bottom: 0px;
+  height: 172px;
+  left: 24px;
+  position: absolute;
+  width: calc(100.00% - 24px);
+}
+
+.teammitglied-pana-1200 .gruppe-1310-pxTnHk {
+  background-color: transparent;
+  bottom: 378px;
+  cursor: pointer;
+  height: 58px;
+  left: calc(50.00% - 119px);
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.3s ease;
+  width: 238px;
+}
+
+.teammitglied-pana-1200 .gruppe-1310-pxTnHk:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-pana-1200 .gruppe-1249-B6w2eI {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .gruppe-1249-B6w2eI.bp3-animate-enter7 {
+  animation: bp3-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1200 .gruppe-1249-B6w2eI:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-pana-1200 .rechteck-596-7RSFEM {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 58px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 238px;
+}
+
+.teammitglied-pana-1200 .rechteck-596-7RSFEM.bp3-animate-enter6 {
+  animation: bp3-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1200 .rechteck-596-7RSFEM:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-pana-1200 .kontakt-aufnehmen-B6w2eI {
+  -webkit-text-stroke: 0.6000000238418579px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  position: absolute;
+  right: calc(48.68% - 79px);
+  text-align: center;
+  top: calc(17.14% - 4px);
+  white-space: nowrap;
+  width: 162px;
+}
+
+.teammitglied-pana-1200 .gruppe-910-ax9xnH {
+  background-color: transparent;
+  display: block;
+  height: 25px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .gruppe-910-ax9xnH.bp3-animate-enter8 {
+  animation: bp3-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1200 .gruppe-164-XR3ERI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .rechteck-305-hZKStW {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .gruppe-226-XR3ERI {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 19px;
+  position: absolute;
+  top: 3px;
+  width: 25px;
+}
+
+.teammitglied-pana-1200 .rechteck-315-xBjeiX {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .rechteck-316-xBjeiX {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(46.15% - 3px);
+  width: 100%;
+}
+
+.teammitglied-pana-1200 .rechteck-317-xBjeiX {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - teammitglied-pana-1900 */
+
+.teammitglied-pana-1900 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3314px;
+  min-width: 1900px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.teammitglied-pana-1900 .b7-b8-e135-955-d-491-Q1yfSu {
+  background-color: transparent;
+  display: block;
+  height: 1267px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: -187px;
+  width: 100%;
+}
+
+.teammitglied-pana-1900 .b7-b8-e135-955-d-491-Q1yfSu.bp4-animate-enter {
+  animation: bp4-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1900 .logo-final-Q1yfSu {
+  background-color: transparent;
+  display: block;
+  height: 68px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 38px;
+  top: 69px;
+  width: 66px;
+}
+
+.teammitglied-pana-1900 .logo-final-Q1yfSu.bp4-animate-enter1 {
+  animation: bp4-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1900 .panagiotis-tsivelekidis-Q1yfSu {
+  -webkit-text-stroke: 4px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-book);
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 400;
+  height: 117px;
+  letter-spacing: 2.20px;
+  line-height: 88px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.90% - 461px);
+  text-align: left;
+  top: calc(19.25% - 23px);
+  white-space: nowrap;
+  width: 924px;
+}
+
+.teammitglied-pana-1900 .panagiotis-tsivelekidis-Q1yfSu.bp4-animate-enter2 {
+  animation: bp4-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1900 .gruppe-412-Q1yfSu {
+  background-color: transparent;
+  bottom: calc(21.17% - 33px);
+  display: block;
+  height: 154px;
+  opacity: 0;
+  position: absolute;
+  right: calc(47.95% - 374px);
+  width: 780px;
+}
+
+.teammitglied-pana-1900 .gruppe-412-Q1yfSu.bp4-animate-enter3 {
+  animation: bp4-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1900 .willst-du-mehr-ber-unseren-mkhOq8 {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 74px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.teammitglied-pana-1900 .service-mkhOq8 {
+  background-color: transparent;
+  bottom: -8px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 74px;
+  left: calc(28.45% - 61px);
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 216px;
+}
+
+.teammitglied-pana-1900 .erfahren-mkhOq8 {
+  background-color: transparent;
+  bottom: -8px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 74px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  right: 110px;
+  text-align: left;
+  white-space: nowrap;
+  width: 278px;
+}
+
+.teammitglied-pana-1900 .gruppe-1050-Q1yfSu {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 2249px);
+  left: 1031px;
+  opacity: 0;
+  position: absolute;
+  top: 1215px;
+  width: calc(100.00% - 1291px);
+}
+
+.teammitglied-pana-1900 .gruppe-1050-Q1yfSu.bp4-animate-enter4 {
+  animation: bp4-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1900 .gruppe-1048-y0u3wx {
+  background-color: transparent;
+  height: 1065px;
+  left: calc(50.00% - 304px);
+  position: relative;
+  top: calc(50.00% - 532px);
+  width: 609px;
+}
+
+.teammitglied-pana-1900 .linie-41-GmIk8b {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 16.13%;
+  width: 279px;
+}
+
+.teammitglied-pana-1900 .panagiotis-tsivelekidis-GmIk8b {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-magistral-medium);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 1.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 0.59%;
+  white-space: nowrap;
+  width: 451px;
+}
+
+.teammitglied-pana-1900 .strategie-entwicklung-GmIk8b {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  letter-spacing: 0.70px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: calc(9.56% - 3px);
+  white-space: nowrap;
+  width: 286px;
+}
+
+.teammitglied-pana-1900 .meine-geschichte-GmIk8b {
+  -webkit-text-stroke: 0.30000001192092896px var(--thunderbird);
+  background-color: transparent;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(24.81% - 6px);
+  white-space: nowrap;
+  width: 150px;
+}
+
+.teammitglied-pana-1900 .als-wir-vor-3-jahren-GmIk8b {
+  background-color: transparent;
+  bottom: calc(1.39% - 11px);
+  height: 778px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  width: 611px;
+}
+
+.teammitglied-pana-1900 .gruppe-1239-Q1yfSu {
+  background-color: transparent;
+  bottom: 0px;
+  height: 399px;
+  left: -10px;
+  position: absolute;
+  width: calc(100.00% + 20px);
+}
+
+.teammitglied-pana-1900 .rechteck-623-AMh4tq {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 399px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.teammitglied-pana-1900 .x104501_twitter_bird_icon-AMh4tq {
+  background-color: transparent;
+  bottom: 186px;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: absolute;
+  right: 339px;
+  width: 40px;
+}
+
+.teammitglied-pana-1900 .gruppe-1011-AMh4tq {
+  background-color: transparent;
+  bottom: 136px;
+  height: 29px;
+  position: absolute;
+  right: 178px;
+  width: 223px;
+}
+
+.teammitglied-pana-1900 .gruppe-909-04xFOo {
+  background-color: transparent;
+  bottom: 10px;
+  height: 19px;
+  opacity: 0.85;
+  position: absolute;
+  right: 209px;
+  width: 14px;
+}
+
+.teammitglied-pana-1900 .ellipse-59445-l9gU6X {
+  background-color: transparent;
+  border: 1px solid var(--licorice);
+  border-radius: 7px;
+  bottom: 2px;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.teammitglied-pana-1900 .c-l9gU6X {
+  -webkit-text-stroke: 0.30000001192092896px var(--licorice);
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(25.00% - 2px);
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 10px;
+}
+
+.teammitglied-pana-1900 .x2018-all-rights-reserved-04xFOo {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 206px;
+}
+
+.teammitglied-pana-1900 .gruppe-1025-AMh4tq {
+  background-color: transparent;
+  bottom: 25px;
+  height: 297px;
+  left: 152px;
+  position: absolute;
+  width: 1131px;
+}
+
+.teammitglied-pana-1900 .gruppe-1008-kgrROc {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  width: 203px;
+}
+
+.teammitglied-pana-1900 .beratung-l84qx3 {
+  background-color: transparent;
+  bottom: 7px;
+  height: 76px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 77px;
+}
+
+.teammitglied-pana-1900 .ssl-l84qx3 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 90px;
+}
+
+.teammitglied-pana-1900 .jetzt-digitalisieren-kgrROc {
+  background-color: transparent;
+  bottom: 252px;
+  height: 45px;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.teammitglied-pana-1900 .vereinbare-ein-strategiegesprch-kgrROc {
+  background-color: transparent;
+  bottom: 100px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 353px;
+}
+
+.teammitglied-pana-1900 .zusammen-abheben-kgrROc {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 139px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 45px;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  width: 388px;
+}
+
+.teammitglied-pana-1900 .gruppe-1009-kgrROc {
+  background-color: transparent;
+  bottom: 37px;
+  height: 260px;
+  position: absolute;
+  right: calc(42.57% - 97px);
+  width: 229px;
+}
+
+.teammitglied-pana-1900 .agb-5mu5cp {
+  background-color: transparent;
+  bottom: 128px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.teammitglied-pana-1900 .impressum-5mu5cp {
+  background-color: transparent;
+  bottom: 63px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.teammitglied-pana-1900 .datenschutz-5mu5cp {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 150px;
+}
+
+.teammitglied-pana-1900 .rechtliches-5mu5cp {
+  background-color: transparent;
+  bottom: 215px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.teammitglied-pana-1900 .gruppe-1010-kgrROc {
+  background-color: transparent;
+  bottom: 102px;
+  height: 195px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.teammitglied-pana-1900 .referenzen-1RjTMD {
+  background-color: transparent;
+  bottom: 63px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 134px;
+}
+
+.teammitglied-pana-1900 .netzwerk-1RjTMD {
+  background-color: transparent;
+  bottom: -2px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.teammitglied-pana-1900 .get-your-1RjTMD {
+  background-color: transparent;
+  bottom: 150px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.teammitglied-pana-1900 .gruppe-1243-Q1yfSu {
+  background-color: transparent;
+  bottom: 1121px;
+  height: 24.53%;
+  left: -37px;
+  position: absolute;
+  width: calc(100.00% - 890px);
+}
+
+.teammitglied-pana-1900 .pana-bewerbungsbild-min-r4jb4Z {
+  background-color: transparent;
+  height: calc(100.00% - 78px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1900 .rechteck-1229-r4jb4Z {
+  background: linear-gradient(180deg, rgba(20, 20, 20, 0) 0%, #141414 100%);
+  background-color: transparent;
+  bottom: 0px;
+  height: 266px;
+  left: 37px;
+  position: absolute;
+  width: calc(100.00% - 37px);
+}
+
+.teammitglied-pana-1900 .gruppe-1302-Q1yfSu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.11%;
+  left: 43.00%;
+  pointer-events: auto;
+  position: absolute;
+  top: 81.23%;
+  transition: all 0.3s ease;
+  width: 16.42%;
+}
+
+.teammitglied-pana-1900 .gruppe-1302-Q1yfSu:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-pana-1900 .gruppe-1249-zAnFva {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 70px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 312px;
+}
+
+.teammitglied-pana-1900 .gruppe-1249-zAnFva.bp4-animate-enter6 {
+  animation: bp4-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1900 .gruppe-1249-zAnFva:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-pana-1900 .rechteck-596-5vkQh2 {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 70px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 312px;
+}
+
+.teammitglied-pana-1900 .rechteck-596-5vkQh2.bp4-animate-enter5 {
+  animation: bp4-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1900 .rechteck-596-5vkQh2:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-pana-1900 .kontakt-aufnehmen-zAnFva {
+  -webkit-text-stroke: 0.8999999761581421px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.teammitglied-pana-1900 .gruppe-910-Q1yfSu {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1900 .gruppe-910-Q1yfSu.bp4-animate-enter7 {
+  animation: bp4-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-1900 .gruppe-164-mb2mGa {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1900 .rechteck-305-PWji5x {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1900 .gruppe-226-mb2mGa {
+  background-color: transparent;
+  bottom: calc(46.15% - 11px);
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  width: 33px;
+}
+
+.teammitglied-pana-1900 .rechteck-315-rxngJ6 {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-1900 .rechteck-316-rxngJ6 {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 4px);
+  width: 100%;
+}
+
+.teammitglied-pana-1900 .rechteck-317-rxngJ6 {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - teammitglied-pana-375 */
+
+.teammitglied-pana-375 {
+  background-color: #161616;
+  height: 100vh;
+  margin: 0px;
+  min-height: 2146px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.teammitglied-pana-375 .gruppe-1243-diAyA7 {
+  background-color: transparent;
+  bottom: calc(49.97% - 158px);
+  height: 317px;
+  left: calc(50.00% - 188px);
+  position: absolute;
+  width: 375px;
+}
+
+.teammitglied-pana-375 .pana-bewerbungsbild-min-xertGK {
+  background-color: transparent;
+  height: calc(100.00% - 44px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-375 .rechteck-1229-xertGK {
+  background: linear-gradient(180deg, rgba(20, 20, 20, 0) 0%, #141414 100%);
+  background-color: transparent;
+  bottom: 0px;
+  height: 79px;
+  left: 42px;
+  position: absolute;
+  width: calc(100.00% - 57px);
+}
+
+.teammitglied-pana-375 .b7-b8-e135-955-d-491-diAyA7 {
+  background-color: transparent;
+  display: block;
+  height: 733px;
+  left: -213px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% + 724px);
+}
+
+.teammitglied-pana-375 .b7-b8-e135-955-d-491-diAyA7.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-375 .logo-final-diAyA7 {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 25px;
+  top: 38px;
+  width: 36px;
+}
+
+.teammitglied-pana-375 .logo-final-diAyA7.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-375 .linie-41-diAyA7 {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 26px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 39.10%;
+  width: 50px;
+}
+
+.teammitglied-pana-375 .linie-41-diAyA7.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-375 .gruppe-1284-diAyA7 {
+  background-color: transparent;
+  bottom: 216px;
+  cursor: pointer;
+  display: block;
+  height: 46px;
+  left: calc(48.42% - 75px);
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.3s ease;
+  width: 154px;
+}
+
+.teammitglied-pana-375 .gruppe-1284-diAyA7.bp1-animate-enter5 {
+  animation: bp1-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-375 .gruppe-1284-diAyA7:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-pana-375 .rechteck-1207-LJx5ef {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 46px;
+  left: calc(50.00% - 77px);
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: calc(50.00% - 23px);
+  transition: all 0.3s ease;
+  width: 154px;
+}
+
+.teammitglied-pana-375 .rechteck-1207-LJx5ef.bp1-animate-enter3 {
+  animation: bp1-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-375 .rechteck-1207-LJx5ef:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-pana-375 .pfad-3382-LJx5ef {
+  background-color: transparent;
+  bottom: calc(49.77% - 6px);
+  display: block;
+  height: 11px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: calc(48.32% - 58px);
+  width: 120px;
+}
+
+.teammitglied-pana-375 .pfad-3382-LJx5ef.bp1-animate-enter4 {
+  animation: bp1-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-375 .panagiotis-tsivelekidis-diAyA7 {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  display: block;
+  font-family: var(--font-family-magistral-medium);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  height: 27px;
+  left: 26px;
+  letter-spacing: 0.47px;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(36.90% - 10px);
+  white-space: nowrap;
+  width: 215px;
+}
+
+.teammitglied-pana-375 .panagiotis-tsivelekidis-diAyA7.bp1-animate-enter6 {
+  animation: bp1-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-375 .strategie-entwicklung-diAyA7 {
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 26px;
+  letter-spacing: 0.30px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(38.16% - 6px);
+  white-space: nowrap;
+  width: 124px;
+}
+
+.teammitglied-pana-375 .strategie-entwicklung-diAyA7.bp1-animate-enter7 {
+  animation: bp1-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-375 .meine-geschichte-diAyA7 {
+  -webkit-text-stroke: 0.5px var(--thunderbird);
+  background-color: transparent;
+  bottom: calc(37.65% - 6px);
+  color: var(--thunderbird);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 26px;
+  letter-spacing: 0.30px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.teammitglied-pana-375 .meine-geschichte-diAyA7.bp1-animate-enter8 {
+  animation: bp1-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-375 .als-wir-vor-3-jahren-diAyA7 {
+  background-color: transparent;
+  bottom: calc(22.50% - 92px);
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 407px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 68px);
+}
+
+.teammitglied-pana-375 .als-wir-vor-3-jahren-diAyA7.bp1-animate-enter9 {
+  animation: bp1-animate-enter9-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-375 .gruppe-972-diAyA7 {
+  background-color: transparent;
+  bottom: calc(13.23% - 8px);
+  display: block;
+  height: 60px;
+  left: calc(46.07% - 132px);
+  opacity: 0;
+  position: absolute;
+  width: 286px;
+}
+
+.teammitglied-pana-375 .gruppe-972-diAyA7.bp1-animate-enter10 {
+  animation: bp1-animate-enter10-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-375 .willst-du-mehr-ber-unseren-pK1uln {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.teammitglied-pana-375 .service-pK1uln {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: calc(23.67% - 19px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.teammitglied-pana-375 .erfahren-pK1uln {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  right: calc(23.78% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.teammitglied-pana-375 .panagiotistsivelekidis-diAyA7 {
+  -webkit-text-stroke: 1px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-book);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: 132px;
+  letter-spacing: 1.25px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  right: calc(38.95% - 109px);
+  text-align: center;
+  top: calc(26.27% - 35px);
+  white-space: nowrap;
+  width: 280px;
+}
+
+.teammitglied-pana-375 .panagiotistsivelekidis-diAyA7.bp1-animate-enter11 {
+  animation: bp1-animate-enter11-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-375 .rechteck-623-diAyA7 {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 151px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.teammitglied-pana-375 .x104501_twitter_bird_icon-diAyA7 {
+  background-color: transparent;
+  bottom: 20px;
+  cursor: pointer;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 66px;
+  width: 18px;
+}
+
+.teammitglied-pana-375 .gruppe-1023-diAyA7 {
+  background-color: transparent;
+  bottom: 7px;
+  height: 9px;
+  position: absolute;
+  right: 4px;
+  width: 79px;
+}
+
+.teammitglied-pana-375 .gruppe-909-gxkM65 {
+  background-color: transparent;
+  bottom: 3px;
+  height: 6px;
+  opacity: 0.85;
+  position: absolute;
+  right: 75px;
+  width: 5px;
+}
+
+.teammitglied-pana-375 .ellipse-59445-sWwFlL {
+  background-color: transparent;
+  border-radius: 2.3px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.teammitglied-pana-375 .c-sWwFlL {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.64% - 1px);
+  top: 0px;
+  width: 3px;
+}
+
+.teammitglied-pana-375 .x2018-all-rights-reserved-gxkM65 {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 5px;
+  font-style: normal;
+  font-weight: 400;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 5px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 75px;
+}
+
+.teammitglied-pana-375 .gruppe-1029-diAyA7 {
+  background-color: transparent;
+  bottom: calc(0.54% - 1px);
+  height: 122px;
+  left: 25px;
+  position: absolute;
+  width: calc(100.00% - 60px);
+}
+
+.teammitglied-pana-375 .gruppe-1027-R4oVjg {
+  background-color: transparent;
+  height: 63.93%;
+  left: 246px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 246px);
+}
+
+.teammitglied-pana-375 .gruppe-1022-axBG5g {
+  background-color: transparent;
+  bottom: 0px;
+  height: 78px;
+  left: calc(50.00% - 34px);
+  position: absolute;
+  width: 69px;
+}
+
+.teammitglied-pana-375 .get-your-1SjmEw {
+  background-color: transparent;
+  bottom: 64px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.teammitglied-pana-375 .referenzen-1SjmEw {
+  background-color: transparent;
+  bottom: 26px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 60px;
+}
+
+.teammitglied-pana-375 .netzwerk-1SjmEw {
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.teammitglied-pana-375 .gruppe-1021-R4oVjg {
+  background-color: transparent;
+  height: 87.70%;
+  left: 135px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 231px);
+}
+
+.teammitglied-pana-375 .rechtliches-ewMuhH {
+  background-color: transparent;
+  bottom: 93px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.teammitglied-pana-375 .agb-ewMuhH {
+  background-color: transparent;
+  bottom: 54px;
+  height: 17px;
+  left: calc(3.57% - 2px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.teammitglied-pana-375 .impressum-ewMuhH {
+  background-color: transparent;
+  bottom: 26px;
+  height: 17px;
+  left: calc(3.57% - 2px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.teammitglied-pana-375 .datenschutz-ewMuhH {
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 1.19%;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 85px;
+}
+
+.teammitglied-pana-375 .gruppe-1028-R4oVjg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 194px);
+}
+
+.teammitglied-pana-375 .gruppe-1030-lYVBub {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-375 .gruppe-1020-g6E6DA {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  width: 82px;
+}
+
+.teammitglied-pana-375 .beratung-bOMxYv {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 31px;
+}
+
+.teammitglied-pana-375 .ssl-bOMxYv {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 36px;
+}
+
+.teammitglied-pana-375 .digitalisieren-g6E6DA {
+  background-color: transparent;
+  bottom: 92px;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 123px;
+}
+
+.teammitglied-pana-375 .strategiegesprch-g6E6DA {
+  background-color: transparent;
+  bottom: 41px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 96px;
+}
+
+.teammitglied-pana-375 .gruppe-910-diAyA7 {
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-375 .gruppe-910-diAyA7.bp1-animate-enter12 {
+  animation: bp1-animate-enter12-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter12-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-375 .gruppe-164-xxmJMt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-375 .rechteck-305-v9vfKD {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-375 .gruppe-226-xxmJMt {
+  background-color: transparent;
+  height: 13px;
+  left: 9px;
+  position: absolute;
+  top: calc(42.87% - 6px);
+  width: 16px;
+}
+
+.teammitglied-pana-375 .rechteck-315-kKWNym {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-375 .rechteck-316-kKWNym {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 100%;
+}
+
+.teammitglied-pana-375 .rechteck-317-kKWNym {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+/* screen - teammitglied-pana-767 */
+
+.teammitglied-pana-767 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2480px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.teammitglied-pana-767 .b7-b8-e135-955-d-491-jBTd0f {
+  background-color: transparent;
+  display: block;
+  height: 802px;
+  left: -201px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% + 436px);
+}
+
+.teammitglied-pana-767 .b7-b8-e135-955-d-491-jBTd0f.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-767 .logo-final-jBTd0f {
+  background-color: transparent;
+  display: block;
+  height: 58px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 35px;
+  top: 48px;
+  width: 56px;
+}
+
+.teammitglied-pana-767 .logo-final-jBTd0f.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-767 .panagiotis-tsivelekidis-jBTd0f {
+  -webkit-text-stroke: 3.299999952316284px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-light);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 300;
+  height: 67px;
+  letter-spacing: 1.25px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.63% - 248px);
+  text-align: left;
+  top: calc(23.02% - 15px);
+  white-space: nowrap;
+  width: 499px;
+}
+
+.teammitglied-pana-767 .panagiotis-tsivelekidis-jBTd0f.bp2-animate-enter2 {
+  animation: bp2-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-767 .meine-geschichte-jBTd0f {
+  -webkit-text-stroke: 0.5px var(--thunderbird);
+  background-color: transparent;
+  bottom: calc(38.29% - 8px);
+  color: var(--thunderbird);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 93px;
+  letter-spacing: 0.40px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.teammitglied-pana-767 .meine-geschichte-jBTd0f.bp2-animate-enter3 {
+  animation: bp2-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-767 .als-wir-vor-3-jahren-jBTd0f {
+  background-color: transparent;
+  bottom: calc(28.82% - 92px);
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 318px;
+  left: 93px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 204px);
+}
+
+.teammitglied-pana-767 .als-wir-vor-3-jahren-jBTd0f.bp2-animate-enter4 {
+  animation: bp2-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-767 .gruppe-972-jBTd0f {
+  background-color: transparent;
+  bottom: calc(18.02% - 13px);
+  display: block;
+  height: 71px;
+  left: calc(50.00% - 176px);
+  opacity: 0;
+  position: absolute;
+  width: 351px;
+}
+
+.teammitglied-pana-767 .gruppe-972-jBTd0f.bp2-animate-enter5 {
+  animation: bp2-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-767 .willst-du-mehr-ber-unseren-XhxMA7 {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.teammitglied-pana-767 .service-XhxMA7 {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: 34px;
+  left: calc(24.71% - 24px);
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.teammitglied-pana-767 .erfahren-XhxMA7 {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: 34px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  right: calc(27.75% - 35px);
+  text-align: left;
+  white-space: nowrap;
+  width: 126px;
+}
+
+.teammitglied-pana-767 .panagiotis-tsivelekidis-3Oi2w9 {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  display: block;
+  font-family: var(--font-family-magistral-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 38px;
+  left: 75px;
+  letter-spacing: 0.70px;
+  line-height: 28px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(36.45% - 14px);
+  white-space: nowrap;
+  width: 316px;
+}
+
+.teammitglied-pana-767 .panagiotis-tsivelekidis-3Oi2w9.bp2-animate-enter6 {
+  animation: bp2-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-767 .strategie-entwicklung-jBTd0f {
+  background-color: transparent;
+  display: block;
+  height: 26px;
+  left: 75px;
+  letter-spacing: 0.50px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(38.18% - 10px);
+  white-space: nowrap;
+  width: 205px;
+}
+
+.teammitglied-pana-767 .strategie-entwicklung-jBTd0f.bp2-animate-enter7 {
+  animation: bp2-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-767 .linie-41-jBTd0f {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 74px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 39.51%;
+  width: 50px;
+}
+
+.teammitglied-pana-767 .linie-41-jBTd0f.bp2-animate-enter8 {
+  animation: bp2-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-767 .rechteck-623-jBTd0f {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.teammitglied-pana-767 .x104501_twitter_bird_icon-jBTd0f {
+  background-color: transparent;
+  bottom: 39px;
+  cursor: pointer;
+  height: 27px;
+  object-fit: cover;
+  position: absolute;
+  right: 136px;
+  width: 34px;
+}
+
+.teammitglied-pana-767 .gruppe-1019-jBTd0f {
+  background-color: transparent;
+  bottom: 12px;
+  height: 18px;
+  position: absolute;
+  right: 16px;
+  width: 154px;
+}
+
+.teammitglied-pana-767 .gruppe-909-puft6F {
+  background-color: transparent;
+  bottom: 9px;
+  height: 9px;
+  opacity: 0.85;
+  position: absolute;
+  right: 145px;
+  width: 9px;
+}
+
+.teammitglied-pana-767 .ellipse-59445-Ojx6xt {
+  background-color: transparent;
+  border-radius: 4.38px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-767 .c-Ojx6xt {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.teammitglied-pana-767 .x2018-all-rights-reserved-puft6F {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  width: calc(100.00% - 13px);
+}
+
+.teammitglied-pana-767 .gruppe-1026-jBTd0f {
+  background-color: transparent;
+  bottom: 22px;
+  height: 203px;
+  left: 52px;
+  position: absolute;
+  width: 72.10%;
+}
+
+.teammitglied-pana-767 .gruppe-1016-aoWsMp {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.teammitglied-pana-767 .beratung-bh625o {
+  background-color: transparent;
+  bottom: 6px;
+  height: 62px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.teammitglied-pana-767 .ssl-bh625o {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.teammitglied-pana-767 .jetzt-digitalisieren-aoWsMp {
+  background-color: transparent;
+  bottom: 178px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 195px;
+}
+
+.teammitglied-pana-767 .vereinbare-ein-strategiegesprch-aoWsMp {
+  background-color: transparent;
+  bottom: 100px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 228px;
+}
+
+.teammitglied-pana-767 .gruppe-1017-aoWsMp {
+  background-color: transparent;
+  bottom: 14px;
+  height: 189px;
+  position: absolute;
+  right: calc(36.78% - 43px);
+  width: 118px;
+}
+
+.teammitglied-pana-767 .rechtliches-Bbd4Oz {
+  background-color: transparent;
+  bottom: 164px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.teammitglied-pana-767 .agb-Bbd4Oz {
+  background-color: transparent;
+  bottom: 86px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 56px;
+}
+
+.teammitglied-pana-767 .impressum-Bbd4Oz {
+  background-color: transparent;
+  bottom: 42px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 78px;
+}
+
+.teammitglied-pana-767 .datenschutz-Bbd4Oz {
+  background-color: transparent;
+  bottom: -2px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 114px;
+}
+
+.teammitglied-pana-767 .gruppe-1018-aoWsMp {
+  background-color: transparent;
+  bottom: 58px;
+  height: 145px;
+  position: absolute;
+  right: 0px;
+  width: 118px;
+}
+
+.teammitglied-pana-767 .get-your-SbGin8 {
+  background-color: transparent;
+  bottom: 120px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.teammitglied-pana-767 .referenzen-SbGin8 {
+  background-color: transparent;
+  bottom: 42px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 80px;
+}
+
+.teammitglied-pana-767 .netzwerk-SbGin8 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  width: 78px;
+}
+
+.teammitglied-pana-767 .zusammen-abheben-aoWsMp {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 124px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: 182px;
+}
+
+.teammitglied-pana-767 .gruppe-1243-jBTd0f {
+  background-color: transparent;
+  height: 556px;
+  left: calc(50.00% - 346px);
+  position: absolute;
+  top: calc(49.90% - 277px);
+  width: 691px;
+}
+
+.teammitglied-pana-767 .pana-bewerbungsbild-min-vSsN8c {
+  background-color: transparent;
+  height: calc(100.00% - 53px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-767 .rechteck-1229-vSsN8c {
+  background: linear-gradient(180deg, rgba(20, 20, 20, 0) 0%, #141414 100%);
+  background-color: transparent;
+  bottom: 0px;
+  height: 182px;
+  left: 25px;
+  position: absolute;
+  width: calc(100.00% - 25px);
+}
+
+.teammitglied-pana-767 .gruppe-1312-jBTd0f {
+  background-color: transparent;
+  bottom: 354px;
+  cursor: pointer;
+  height: 46px;
+  left: calc(48.45% - 75px);
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.3s ease;
+  width: 154px;
+}
+
+.teammitglied-pana-767 .gruppe-1312-jBTd0f:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-pana-767 .gruppe-1250-CMz6px {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.teammitglied-pana-767 .gruppe-1250-CMz6px.bp2-animate-enter10 {
+  animation: bp2-animate-enter10-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-767 .gruppe-1250-CMz6px:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-pana-767 .rechteck-1181-SNpzIj {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 46px;
+  left: calc(50.00% - 77px);
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: calc(50.00% - 23px);
+  transition: all 0.3s ease;
+  width: 154px;
+}
+
+.teammitglied-pana-767 .rechteck-1181-SNpzIj.bp2-animate-enter9 {
+  animation: bp2-animate-enter9-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-767 .rechteck-1181-SNpzIj:hover {
+  transform: scale(1.1);
+}
+
+.teammitglied-pana-767 .kontakt-aufnehmen-CMz6px {
+  -webkit-text-stroke: 0.3499999940395355px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 19px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  text-align: center;
+  top: calc(14.81% - 3px);
+  white-space: nowrap;
+  width: calc(100.00% - 28px);
+}
+
+.teammitglied-pana-767 .gruppe-910-jBTd0f {
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-767 .gruppe-910-jBTd0f.bp2-animate-enter11 {
+  animation: bp2-animate-enter11-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.teammitglied-pana-767 .gruppe-164-Vzdm9W {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-767 .rechteck-305-zmuF5V {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-767 .gruppe-226-Vzdm9W {
+  background-color: transparent;
+  height: 13px;
+  left: 19px;
+  position: absolute;
+  top: calc(42.87% - 6px);
+  width: 18px;
+}
+
+.teammitglied-pana-767 .rechteck-315-NzJDG3 {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.teammitglied-pana-767 .rechteck-316-NzJDG3 {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 100%;
+}
+
+.teammitglied-pana-767 .rechteck-317-NzJDG3 {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+@media screen and (max-width: 766px) {
+  .screen.teammitglied-pana-1900 { 
+    display: none;
+   }
+  .screen.teammitglied-pana-767 { 
+    display: none;
+   }
+  .screen.teammitglied-pana-1200 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.teammitglied-pana-1900 { 
+    display: none;
+   }
+  .screen.teammitglied-pana-375 { 
+    display: none;
+   }
+  .screen.teammitglied-pana-1200 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1899px) {
+  .screen.teammitglied-pana-1900 { 
+    display: none;
+   }
+  .screen.teammitglied-pana-375 { 
+    display: none;
+   }
+  .screen.teammitglied-pana-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1900px) {
+  .screen.teammitglied-pana-375 { 
+    display: none;
+   }
+  .screen.teammitglied-pana-767 { 
+    display: none;
+   }
+  .screen.teammitglied-pana-1200 { 
+    display: none;
+   }
+}

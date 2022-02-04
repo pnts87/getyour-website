@@ -1,0 +1,104 @@
+:root { 
+  --black: #000000;
+  --blue-jeans: #6db2f2;
+  --danube: #63a1db;
+  --endeavour: #075baa;
+  --gallery: #ededed;
+  --licorice: #141414;
+  --red: #ff0000;
+  --supernova: #ffcc00;
+  --thunderbird: #ba1919;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 22px;
+  --font-size-s: 20px;
+  --font-size-xl: 35px;
+  --font-size-xs: 17px;
+  --font-size-xxs: 16px;
+  --font-size-xxxs: 15px;
+ 
+  --font-family-formadjr_micro-bold: "FormaDJR Micro-Bold", Helvetica;
+  --font-family-formadjr_micro-light: "FormaDJR Micro-Light", Helvetica;
+  --font-family-formadjr_micro-medium: "FormaDJR Micro-Medium", Helvetica;
+  --font-family-formadjr_micro-regular: "FormaDJR Micro-Regular", Helvetica;
+  --font-family-magistral-book: "Magistral-Book", Helvetica;
+}
+.formadjrmicro-regular-normal-gallery-22px {
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-regular-normal-licorice-22px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-regular-normal-licorice-11px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-regular-normal-licorice-15px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-regular-normal-licorice-17px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.magistral-book-normal-danube-25px {
+  color: var(--danube);
+  font-family: var(--font-family-magistral-book);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-medium-licorice-34px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.formadjrmicro-medium-licorice-10px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.formadjrmicro-medium-licorice-18px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.formadjrmicro-medium-licorice-24px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
