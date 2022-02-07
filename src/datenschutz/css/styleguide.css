@@ -28,10 +28,10 @@
   font-weight: 400;
 }
 
-.formadjrmicro-regular-normal-licorice-11px {
+.formadjrmicro-regular-normal-licorice-17px {
   color: var(--licorice);
   font-family: var(--font-family-formadjr_micro-regular);
-  font-size: 11px;
+  font-size: var(--font-size-xxs);
   font-style: normal;
   font-weight: 400;
 }
@@ -44,10 +44,10 @@
   font-weight: 400;
 }
 
-.formadjrmicro-regular-normal-licorice-17px {
+.formadjrmicro-regular-normal-licorice-11px {
   color: var(--licorice);
   font-family: var(--font-family-formadjr_micro-regular);
-  font-size: var(--font-size-xxs);
+  font-size: 11px;
   font-style: normal;
   font-weight: 400;
 }
@@ -60,10 +60,10 @@
   font-weight: 500;
 }
 
-.formadjrmicro-medium-licorice-10px {
+.formadjrmicro-medium-licorice-24px {
   color: var(--licorice);
   font-family: var(--font-family-formadjr_micro-medium);
-  font-size: var(--font-size-xxxxxs);
+  font-size: 24px;
   font-style: normal;
   font-weight: 500;
 }
@@ -76,10 +76,10 @@
   font-weight: 500;
 }
 
-.formadjrmicro-medium-licorice-24px {
+.formadjrmicro-medium-licorice-10px {
   color: var(--licorice);
   font-family: var(--font-family-formadjr_micro-medium);
-  font-size: 24px;
+  font-size: var(--font-size-xxxxxs);
   font-style: normal;
   font-weight: 500;
 }

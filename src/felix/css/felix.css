@@ -1,0 +1,3387 @@
+/* screen - felix */
+
+.felix {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3314px;
+  min-width: 1900px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.felix .felix-team-5bmp42 {
+  background-color: transparent;
+  display: block;
+  height: 1267px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: -187px;
+  width: 100%;
+}
+
+.felix .felix-team-5bmp42.bp4-animate-enter {
+  animation: bp4-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix .logo-final-5bmp42 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 68px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 39px;
+  top: 69px;
+  width: 66px;
+}
+
+.felix .logo-final-5bmp42.bp4-animate-enter1 {
+  animation: bp4-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix .felix-steck-5bmp42 {
+  -webkit-text-stroke: 4px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-book);
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 400;
+  height: 117px;
+  letter-spacing: 2.20px;
+  line-height: 88px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.01% - 213px);
+  text-align: left;
+  top: calc(19.25% - 23px);
+  white-space: nowrap;
+  width: 435px;
+}
+
+.felix .felix-steck-5bmp42.bp4-animate-enter2 {
+  animation: bp4-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix .gruppe-412-5bmp42 {
+  background-color: transparent;
+  bottom: calc(21.17% - 33px);
+  display: block;
+  height: 154px;
+  opacity: 0;
+  position: absolute;
+  right: calc(47.95% - 374px);
+  width: 780px;
+}
+
+.felix .gruppe-412-5bmp42.bp4-animate-enter3 {
+  animation: bp4-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix .willst-du-mehr-ber-unseren-4D0Obp {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 74px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.felix .service-4D0Obp {
+  background-color: transparent;
+  bottom: -8px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 74px;
+  left: calc(28.45% - 61px);
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 216px;
+}
+
+.felix .erfahren-4D0Obp {
+  background-color: transparent;
+  bottom: -8px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 74px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  right: 110px;
+  text-align: left;
+  white-space: nowrap;
+  width: 278px;
+}
+
+.felix .gruppe-1050-5bmp42 {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 2249px);
+  left: 1031px;
+  opacity: 0;
+  position: absolute;
+  top: 1215px;
+  width: calc(100.00% - 1291px);
+}
+
+.felix .gruppe-1050-5bmp42.bp4-animate-enter4 {
+  animation: bp4-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix .gruppe-1048-DDu4Cs {
+  background-color: transparent;
+  height: 1065px;
+  left: calc(50.00% - 304px);
+  position: relative;
+  top: calc(50.00% - 532px);
+  width: 609px;
+}
+
+.felix .linie-41-Mh1lXx {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 16.13%;
+  width: 279px;
+}
+
+.felix .felix-steck-Mh1lXx {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-magistral-medium);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 1.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 0.59%;
+  white-space: nowrap;
+  width: 210px;
+}
+
+.felix .strategie-design-Mh1lXx {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  letter-spacing: 0.70px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: calc(9.56% - 3px);
+  white-space: nowrap;
+  width: 222px;
+}
+
+.felix .meine-geschichte-Mh1lXx {
+  -webkit-text-stroke: 0.30000001192092896px var(--thunderbird);
+  background-color: transparent;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(24.81% - 6px);
+  white-space: nowrap;
+  width: 150px;
+}
+
+.felix .ich-hatte-schon-imme-Mh1lXx {
+  background-color: transparent;
+  bottom: calc(1.39% - 11px);
+  height: 778px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  width: 611px;
+}
+
+.felix .felixgeschichte-5bmp42 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: calc(100.00% - 2376px);
+  left: 129px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 1342px;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 1079px);
+}
+
+.felix .felixgeschichte-5bmp42.bp4-animate-enter5 {
+  animation: bp4-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix .felixgeschichte-5bmp42:hover {
+  transform: translate(0, -5px);
+}
+
+.felix .gruppe-1302-5bmp42 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.11%;
+  left: 43.00%;
+  pointer-events: auto;
+  position: absolute;
+  top: 81.23%;
+  transition: all 0.3s ease;
+  width: 16.42%;
+}
+
+.felix .gruppe-1302-5bmp42:hover {
+  transform: scale(1.1);
+}
+
+.felix .gruppe-1249-mSERyh {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 70px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 312px;
+}
+
+.felix .gruppe-1249-mSERyh.bp4-animate-enter7 {
+  animation: bp4-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix .gruppe-1249-mSERyh:hover {
+  transform: scale(1.1);
+}
+
+.felix .rechteck-596-5ardc3 {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 70px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 312px;
+}
+
+.felix .rechteck-596-5ardc3.bp4-animate-enter6 {
+  animation: bp4-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix .rechteck-596-5ardc3:hover {
+  transform: scale(1.1);
+}
+
+.felix .kontakt-aufnehmen-mSERyh {
+  -webkit-text-stroke: 0.8999999761581421px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.felix .gruppe-910-5bmp42 {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.felix .gruppe-910-5bmp42.bp4-animate-enter8 {
+  animation: bp4-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix .gruppe-164-cvzsUH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.felix .rechteck-305-oojR0b {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.felix .gruppe-226-cvzsUH {
+  background-color: transparent;
+  bottom: calc(46.15% - 11px);
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  width: 33px;
+}
+
+.felix .rechteck-315-ULghq1 {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.felix .rechteck-316-ULghq1 {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 4px);
+  width: 100%;
+}
+
+.felix .rechteck-317-ULghq1 {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.felix .gruppe-1239-5bmp42 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 399px;
+  left: -10px;
+  position: absolute;
+  width: calc(100.00% + 20px);
+}
+
+.felix .rechteck-623-JRkHHg {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 399px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.felix .x104501_twitter_bird_icon-JRkHHg {
+  background-color: transparent;
+  bottom: 186px;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: absolute;
+  right: 339px;
+  width: 40px;
+}
+
+.felix .gruppe-1011-JRkHHg {
+  background-color: transparent;
+  bottom: 136px;
+  height: 29px;
+  position: absolute;
+  right: 155px;
+  width: 246px;
+}
+
+.felix .gruppe-909-EnbvHN {
+  background-color: transparent;
+  bottom: 10px;
+  height: 19px;
+  opacity: 0.85;
+  position: absolute;
+  right: 232px;
+  width: 14px;
+}
+
+.felix .ellipse-59445-7NX23o {
+  background-color: transparent;
+  border: 1px solid var(--licorice);
+  border-radius: 7px;
+  bottom: 2px;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.felix .c-7NX23o {
+  -webkit-text-stroke: 0.30000001192092896px var(--licorice);
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(25.00% - 2px);
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 10px;
+}
+
+.felix .x2018-all-rights-reserved-EnbvHN {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 229px;
+}
+
+.felix .gruppe-1025-JRkHHg {
+  background-color: transparent;
+  bottom: 25px;
+  height: 297px;
+  left: 152px;
+  position: absolute;
+  width: 1131px;
+}
+
+.felix .gruppe-1008-y8ZH4x {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  width: 203px;
+}
+
+.felix .beratung-ydof0O {
+  background-color: transparent;
+  bottom: 7px;
+  height: 76px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 77px;
+}
+
+.felix .ssl-ydof0O {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 90px;
+}
+
+.felix .jetzt-digitalisieren-y8ZH4x {
+  background-color: transparent;
+  bottom: 250px;
+  height: 43px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 354px;
+}
+
+.felix .vereinbare-ein-strategiegesprch-y8ZH4x {
+  background-color: transparent;
+  bottom: 98px;
+  color: var(--blue-jeans);
+  cursor: pointer;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 324px;
+}
+
+.felix .zusammen-abheben-y8ZH4x {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 146px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 35px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 286px;
+}
+
+.felix .gruppe-1009-y8ZH4x {
+  background-color: transparent;
+  bottom: 37px;
+  height: 260px;
+  position: absolute;
+  right: calc(42.57% - 97px);
+  width: 229px;
+}
+
+.felix .agb-Xdxskz {
+  background-color: transparent;
+  bottom: 126px;
+  cursor: pointer;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.felix .impressum-Xdxskz {
+  background-color: transparent;
+  bottom: 60px;
+  cursor: pointer;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.felix .datenschutz-Xdxskz {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 125px;
+}
+
+.felix .rechtliches-Xdxskz {
+  background-color: transparent;
+  bottom: 215px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.felix .gruppe-1010-y8ZH4x {
+  background-color: transparent;
+  bottom: 102px;
+  height: 195px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.felix .referenzen-2qfxbP {
+  background-color: transparent;
+  bottom: 60px;
+  cursor: pointer;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.felix .netzwerk-2qfxbP {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.felix .get-your-2qfxbP {
+  background-color: transparent;
+  bottom: 150px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+/* screen - felix-1200 */
+
+.felix-1200 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2335px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.felix-1200 .gruppe-1052-ebBgLS {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: calc(100.00% - 1649px);
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 998px;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 600px);
+}
+
+.felix-1200 .gruppe-1052-ebBgLS.bp3-animate-enter {
+  animation: bp3-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-1200 .gruppe-1052-ebBgLS:hover {
+  transform: translate(0, -5px);
+}
+
+.felix-1200 .felixgeschichte-FpHLcM {
+  background-color: transparent;
+  bottom: 0px;
+  height: 686px;
+  left: calc(50.00% - 300px);
+  object-fit: cover;
+  position: absolute;
+  width: 600px;
+}
+
+.felix-1200 .felix-team-ebBgLS {
+  background-color: transparent;
+  display: block;
+  height: 1004px;
+  left: -153px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: -133px;
+  width: calc(100.00% + 306px);
+}
+
+.felix-1200 .felix-team-ebBgLS.bp3-animate-enter1 {
+  animation: bp3-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-1200 .logo-final-ebBgLS {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 58px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 58px;
+  top: 73px;
+  width: 56px;
+}
+
+.felix-1200 .logo-final-ebBgLS.bp3-animate-enter2 {
+  animation: bp3-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-1200 .gruppe-910-ebBgLS {
+  background-color: transparent;
+  display: block;
+  height: 25px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-1200 .gruppe-910-ebBgLS.bp3-animate-enter3 {
+  animation: bp3-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-1200 .gruppe-164-USOzVw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-1200 .rechteck-305-WV1oH8 {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-1200 .gruppe-226-USOzVw {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 19px;
+  position: absolute;
+  top: 3px;
+  width: 25px;
+}
+
+.felix-1200 .rechteck-315-GLjxde {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-1200 .rechteck-316-GLjxde {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(46.15% - 3px);
+  width: 100%;
+}
+
+.felix-1200 .rechteck-317-GLjxde {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.felix-1200 .felix-steck-ebBgLS {
+  -webkit-text-stroke: 2.5999999046325684px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-book);
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 400;
+  height: 74px;
+  letter-spacing: 1.38px;
+  line-height: 55px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.84% - 136px);
+  text-align: left;
+  top: calc(21.21% - 16px);
+  white-space: nowrap;
+  width: 273px;
+}
+
+.felix-1200 .felix-steck-ebBgLS.bp3-animate-enter4 {
+  animation: bp3-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-1200 .gruppe-972-ebBgLS {
+  background-color: transparent;
+  bottom: calc(20.61% - 17px);
+  display: block;
+  height: 84px;
+  left: calc(50.00% - 214px);
+  opacity: 0;
+  position: absolute;
+  width: 429px;
+}
+
+.felix-1200 .gruppe-972-ebBgLS.bp3-animate-enter5 {
+  animation: bp3-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-1200 .willst-du-mehr-ber-unseren-6TDf1x {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.felix-1200 .service-6TDf1x {
+  background-color: transparent;
+  bottom: -6px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  left: calc(27.33% - 33px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 120px;
+}
+
+.felix-1200 .erfahren-6TDf1x {
+  background-color: transparent;
+  bottom: -6px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: 61px;
+  text-align: left;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.felix-1200 .gruppe-1051-ebBgLS {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 1568px);
+  left: 678px;
+  opacity: 0;
+  position: absolute;
+  top: 917px;
+  width: calc(100.00% - 770px);
+}
+
+.felix-1200 .gruppe-1051-ebBgLS.bp3-animate-enter6 {
+  animation: bp3-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-1200 .gruppe-1049-z2bpj0 {
+  background-color: transparent;
+  height: 767px;
+  left: calc(50.00% - 215px);
+  position: relative;
+  top: calc(50.00% - 384px);
+  width: 430px;
+}
+
+.felix-1200 .linie-41-2abADh {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 13.81%;
+  width: 78px;
+}
+
+.felix-1200 .felix-steck-2abADh {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-magistral-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 38px;
+  left: 1px;
+  letter-spacing: 0.70px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0.55%;
+  white-space: nowrap;
+  width: 147px;
+}
+
+.felix-1200 .strategie-design-2abADh {
+  background-color: transparent;
+  height: 26px;
+  left: 1px;
+  letter-spacing: 0.50px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(6.88% - 2px);
+  white-space: nowrap;
+  width: 159px;
+}
+
+.felix-1200 .meine-geschichte-2abADh {
+  -webkit-text-stroke: 0.30000001192092896px var(--thunderbird);
+  background-color: transparent;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(17.41% - 4px);
+  white-space: nowrap;
+  width: 150px;
+}
+
+.felix-1200 .ich-hatte-schon-imme-2abADh {
+  background-color: transparent;
+  bottom: calc(1.66% - 10px);
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 616px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  width: 432px;
+}
+
+.felix-1200 .gruppe-1310-ebBgLS {
+  background-color: transparent;
+  bottom: 375px;
+  cursor: pointer;
+  height: 58px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.65% - 116px);
+  transition: all 0.3s ease;
+  width: 238px;
+}
+
+.felix-1200 .gruppe-1310-ebBgLS:hover {
+  transform: scale(1.1);
+}
+
+.felix-1200 .gruppe-1249-XxopYP {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.felix-1200 .gruppe-1249-XxopYP.bp3-animate-enter8 {
+  animation: bp3-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-1200 .gruppe-1249-XxopYP:hover {
+  transform: scale(1.1);
+}
+
+.felix-1200 .rechteck-596-wKfBHJ {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 58px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 238px;
+}
+
+.felix-1200 .rechteck-596-wKfBHJ.bp3-animate-enter7 {
+  animation: bp3-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-1200 .rechteck-596-wKfBHJ:hover {
+  transform: scale(1.1);
+}
+
+.felix-1200 .kontakt-aufnehmen-XxopYP {
+  -webkit-text-stroke: 0.6000000238418579px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  position: absolute;
+  right: calc(48.68% - 79px);
+  text-align: center;
+  top: calc(17.14% - 4px);
+  white-space: nowrap;
+  width: 162px;
+}
+
+.felix-1200 .gruppe-910-YdrMFb {
+  background-color: transparent;
+  display: block;
+  height: 25px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-1200 .gruppe-910-YdrMFb.bp3-animate-enter9 {
+  animation: bp3-animate-enter9-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-1200 .gruppe-164-M93ytp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-1200 .rechteck-305-pTuARP {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-1200 .gruppe-226-M93ytp {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 19px;
+  position: absolute;
+  top: 3px;
+  width: 25px;
+}
+
+.felix-1200 .rechteck-315-Q6Dh3g {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-1200 .rechteck-316-Q6Dh3g {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(46.15% - 3px);
+  width: 100%;
+}
+
+.felix-1200 .rechteck-317-Q6Dh3g {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.felix-1200 .rechteck-623-ebBgLS {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.felix-1200 .x104501_twitter_bird_icon-ebBgLS {
+  background-color: transparent;
+  bottom: 111px;
+  cursor: pointer;
+  height: 28px;
+  object-fit: cover;
+  position: absolute;
+  right: 212px;
+  width: 35px;
+}
+
+.felix-1200 .gruppe-1024-ebBgLS {
+  background-color: transparent;
+  bottom: 16px;
+  height: 209px;
+  left: 152px;
+  position: absolute;
+  width: 802px;
+}
+
+.felix-1200 .gruppe-1012-xMD2RY {
+  background-color: transparent;
+  bottom: 6px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.felix-1200 .beratung-UQ8fS7 {
+  background-color: transparent;
+  bottom: 6px;
+  height: 83.78%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.felix-1200 .ssl-UQ8fS7 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.felix-1200 .jetzt-digitalisieren-xMD2RY {
+  background-color: transparent;
+  bottom: 176px;
+  height: 31px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 250px;
+}
+
+.felix-1200 .zusammen-abheben-xMD2RY {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 134px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.felix-1200 .vereinbare-ein-strategiegesprch-xMD2RY {
+  background-color: transparent;
+  bottom: 102px;
+  color: var(--blue-jeans);
+  cursor: pointer;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 251px;
+}
+
+.felix-1200 .gruppe-1013-xMD2RY {
+  background-color: transparent;
+  bottom: 0px;
+  height: 209px;
+  position: absolute;
+  right: calc(43.89% - 72px);
+  width: 164px;
+}
+
+.felix-1200 .rechtliches-W0VUlt {
+  background-color: transparent;
+  bottom: 164px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 166px;
+}
+
+.felix-1200 .agb-W0VUlt {
+  background-color: transparent;
+  bottom: 102px;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.felix-1200 .impressum-W0VUlt {
+  background-color: transparent;
+  bottom: 50px;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.felix-1200 .datenschutz-W0VUlt {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.felix-1200 .gruppe-1014-xMD2RY {
+  background-color: transparent;
+  bottom: 53px;
+  height: 156px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.felix-1200 .get-your-4mCxA4 {
+  background-color: transparent;
+  bottom: 111px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.felix-1200 .referenzen-4mCxA4 {
+  background-color: transparent;
+  bottom: 50px;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.felix-1200 .netzwerk-4mCxA4 {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.felix-1200 .gruppe-1015-ebBgLS {
+  background-color: transparent;
+  bottom: 75px;
+  height: 27px;
+  position: absolute;
+  right: 26px;
+  width: 226px;
+}
+
+.felix-1200 .gruppe-909-3qJPw1 {
+  background-color: transparent;
+  bottom: 13px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 217px;
+  width: 9px;
+}
+
+.felix-1200 .x2018-all-rights-reserved-3qJPw1 {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 13px);
+}
+/* screen - felix-375 */
+
+.felix-375 {
+  background-color: #161616;
+  height: 100vh;
+  margin: 0px;
+  min-height: 2146px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.felix-375 .gruppe-1052-7Uxas0 {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 1460px);
+  left: -103px;
+  opacity: 0;
+  position: absolute;
+  top: 792px;
+  width: calc(100.00% + 225px);
+}
+
+.felix-375 .gruppe-1052-7Uxas0.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-375 .felixgeschichte-JRnkzw {
+  background-color: transparent;
+  bottom: 0px;
+  height: 686px;
+  left: calc(50.00% - 300px);
+  object-fit: cover;
+  position: absolute;
+  width: 600px;
+}
+
+.felix-375 .felix-team-7Uxas0 {
+  background-color: transparent;
+  display: block;
+  height: 733px;
+  left: -336px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% + 725px);
+}
+
+.felix-375 .felix-team-7Uxas0.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-375 .logo-final-7Uxas0 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 37px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 25px;
+  top: 38px;
+  width: 36px;
+}
+
+.felix-375 .logo-final-7Uxas0.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-375 .linie-41-7Uxas0 {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 26px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 39.10%;
+  width: 50px;
+}
+
+.felix-375 .linie-41-7Uxas0.bp1-animate-enter3 {
+  animation: bp1-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-375 .felix-steck-7Uxas0 {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  display: block;
+  font-family: var(--font-family-magistral-medium);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  height: 27px;
+  left: 26px;
+  letter-spacing: 0.47px;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(36.90% - 10px);
+  white-space: nowrap;
+  width: 101px;
+}
+
+.felix-375 .felix-steck-7Uxas0.bp1-animate-enter4 {
+  animation: bp1-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-375 .strategie-design-7Uxas0 {
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 26px;
+  letter-spacing: 0.30px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(38.16% - 6px);
+  white-space: nowrap;
+  width: 96px;
+}
+
+.felix-375 .strategie-design-7Uxas0.bp1-animate-enter5 {
+  animation: bp1-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-375 .meine-geschichte-7Uxas0 {
+  -webkit-text-stroke: 0.5px var(--thunderbird);
+  background-color: transparent;
+  bottom: calc(37.65% - 6px);
+  color: var(--thunderbird);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 26px;
+  letter-spacing: 0.30px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.felix-375 .meine-geschichte-7Uxas0.bp1-animate-enter6 {
+  animation: bp1-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-375 .ich-hatte-schon-imme-7Uxas0 {
+  background-color: transparent;
+  bottom: calc(20.72% - 92px);
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 445px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 59px);
+}
+
+.felix-375 .ich-hatte-schon-imme-7Uxas0.bp1-animate-enter7 {
+  animation: bp1-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-375 .gruppe-972-7Uxas0 {
+  background-color: transparent;
+  bottom: calc(13.23% - 8px);
+  display: block;
+  height: 60px;
+  left: calc(46.07% - 132px);
+  opacity: 0;
+  position: absolute;
+  width: 286px;
+}
+
+.felix-375 .gruppe-972-7Uxas0.bp1-animate-enter8 {
+  animation: bp1-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-375 .willst-du-mehr-ber-unseren-QhhFGJ {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.felix-375 .service-QhhFGJ {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: calc(23.67% - 19px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.felix-375 .erfahren-QhhFGJ {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  right: calc(23.78% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.felix-375 .felix-steck-b6uKbs {
+  -webkit-text-stroke: 1px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-book);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: 67px;
+  letter-spacing: 1.25px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  right: calc(43.31% - 107px);
+  text-align: left;
+  top: calc(25.08% - 17px);
+  white-space: nowrap;
+  width: 248px;
+}
+
+.felix-375 .felix-steck-b6uKbs.bp1-animate-enter9 {
+  animation: bp1-animate-enter9-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-375 .gruppe-1323-7Uxas0 {
+  background-color: transparent;
+  bottom: 220px;
+  cursor: pointer;
+  height: 40px;
+  left: calc(48.13% - 64px);
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.3s ease;
+  width: 134px;
+}
+
+.felix-375 .gruppe-1323-7Uxas0:hover {
+  transform: scale(1.1);
+}
+
+.felix-375 .gruppe-1249-HthBYC {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.felix-375 .gruppe-1249-HthBYC.bp1-animate-enter11 {
+  animation: bp1-animate-enter11-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-375 .gruppe-1249-HthBYC:hover {
+  transform: scale(1.1);
+}
+
+.felix-375 .rechteck-596-eAPy4h {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 40px;
+  left: calc(50.00% - 67px);
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: calc(50.00% - 20px);
+  transition: all 0.3s ease;
+  width: 134px;
+}
+
+.felix-375 .rechteck-596-eAPy4h.bp1-animate-enter10 {
+  animation: bp1-animate-enter10-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-375 .rechteck-596-eAPy4h:hover {
+  transform: scale(1.1);
+}
+
+.felix-375 .kontakt-aufnehmen-HthBYC {
+  -webkit-text-stroke: 0.3499999940395355px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: center;
+  top: calc(13.04% - 2px);
+  white-space: nowrap;
+  width: calc(100.00% - 26px);
+}
+
+.felix-375 .gruppe-910-7Uxas0 {
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-375 .gruppe-910-7Uxas0.bp1-animate-enter12 {
+  animation: bp1-animate-enter12-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter12-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-375 .gruppe-164-rwPwWD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-375 .rechteck-305-FfMWqM {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-375 .gruppe-226-rwPwWD {
+  background-color: transparent;
+  height: 13px;
+  left: 9px;
+  position: absolute;
+  top: calc(42.87% - 6px);
+  width: 16px;
+}
+
+.felix-375 .rechteck-315-NYWs1C {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-375 .rechteck-316-NYWs1C {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 100%;
+}
+
+.felix-375 .rechteck-317-NYWs1C {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.felix-375 .gruppe-1355-7Uxas0 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 151px;
+  left: -1px;
+  position: absolute;
+  width: calc(100.00% + 3px);
+}
+
+.felix-375 .rechteck-623-vQz9h0 {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 151px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.felix-375 .x104501_twitter_bird_icon-vQz9h0 {
+  background-color: transparent;
+  bottom: 20px;
+  cursor: pointer;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 69px;
+  width: 18px;
+}
+
+.felix-375 .gruppe-1023-vQz9h0 {
+  background-color: transparent;
+  bottom: 7px;
+  height: 9px;
+  position: absolute;
+  right: 0px;
+  width: 86px;
+}
+
+.felix-375 .gruppe-909-ZKUSQn {
+  background-color: transparent;
+  bottom: 3px;
+  height: 6px;
+  opacity: 0.85;
+  position: absolute;
+  right: 82px;
+  width: 5px;
+}
+
+.felix-375 .ellipse-59445-3CCdB0 {
+  background-color: transparent;
+  border-radius: 2.3px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.felix-375 .c-3CCdB0 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.64% - 1px);
+  top: 0px;
+  width: 3px;
+}
+
+.felix-375 .x2018-all-rights-reserved-ZKUSQn {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 5px;
+  font-style: normal;
+  font-weight: 400;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 5px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 82px;
+}
+
+.felix-375 .gruppe-1029-vQz9h0 {
+  background-color: transparent;
+  bottom: calc(37.93% - 46px);
+  height: 122px;
+  left: 25px;
+  position: absolute;
+  width: calc(100.00% - 63px);
+}
+
+.felix-375 .gruppe-1027-9TNzoF {
+  background-color: transparent;
+  height: 62.30%;
+  left: 246px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 246px);
+}
+
+.felix-375 .gruppe-1022-mO55Pe {
+  background-color: transparent;
+  bottom: 0px;
+  height: 76px;
+  left: calc(50.00% - 34px);
+  position: absolute;
+  width: 69px;
+}
+
+.felix-375 .get-your-SrxJxn {
+  background-color: transparent;
+  bottom: 62px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.felix-375 .referenzen-SrxJxn {
+  background-color: transparent;
+  bottom: 25px;
+  cursor: pointer;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 57px;
+}
+
+.felix-375 .netzwerk-SrxJxn {
+  background-color: transparent;
+  bottom: -3px;
+  cursor: pointer;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.felix-375 .gruppe-1021-9TNzoF {
+  background-color: transparent;
+  height: 86.07%;
+  left: 135px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 246px);
+}
+
+.felix-375 .rechtliches-f6yuJ4 {
+  background-color: transparent;
+  bottom: 91px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.felix-375 .agb-f6yuJ4 {
+  background-color: transparent;
+  bottom: 53px;
+  cursor: pointer;
+  height: 15px;
+  left: calc(2.13% - 1px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.felix-375 .impressum-f6yuJ4 {
+  background-color: transparent;
+  bottom: 25px;
+  cursor: pointer;
+  height: 15px;
+  left: calc(6.67% - 4px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.felix-375 .datenschutz-f6yuJ4 {
+  background-color: transparent;
+  bottom: -3px;
+  cursor: pointer;
+  height: 15px;
+  left: calc(14.29% - 9px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.felix-375 .gruppe-1028-9TNzoF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 225px);
+}
+
+.felix-375 .gruppe-1030-Q33xuM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-375 .gruppe-1020-0flO8c {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  width: 82px;
+}
+
+.felix-375 .beratung-6mXxW9 {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 31px;
+}
+
+.felix-375 .ssl-6mXxW9 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 36px;
+}
+
+.felix-375 .digitalisieren-0flO8c {
+  background-color: transparent;
+  bottom: 107px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.felix-375 .strategiegesprch-0flO8c {
+  background-color: transparent;
+  bottom: 42px;
+  color: var(--blue-jeans);
+  cursor: pointer;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 92px;
+}
+/* screen - felix-767 */
+
+.felix-767 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2480px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.felix-767 .gruppe-1052-vazQOT {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: calc(100.00% - 1794px);
+  left: 84px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 873px;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 167px);
+}
+
+.felix-767 .gruppe-1052-vazQOT.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-767 .gruppe-1052-vazQOT:hover {
+  transform: translate(0, -5px);
+}
+
+.felix-767 .felixgeschichte-KHfArK {
+  background-color: transparent;
+  bottom: 0px;
+  height: 686px;
+  left: calc(50.00% - 300px);
+  object-fit: cover;
+  position: absolute;
+  width: 600px;
+}
+
+.felix-767 .felix-team-vazQOT {
+  background-color: transparent;
+  display: block;
+  height: 800px;
+  left: -193px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 433px);
+}
+
+.felix-767 .felix-team-vazQOT.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-767 .logo-final-vazQOT {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 58px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 35px;
+  top: 48px;
+  width: 56px;
+}
+
+.felix-767 .logo-final-vazQOT.bp2-animate-enter2 {
+  animation: bp2-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-767 .felix-steck-vazQOT {
+  -webkit-text-stroke: 3.299999952316284px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-light);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 300;
+  height: 67px;
+  letter-spacing: 1.25px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.81% - 116px);
+  text-align: left;
+  top: calc(23.02% - 15px);
+  white-space: nowrap;
+  width: 233px;
+}
+
+.felix-767 .felix-steck-vazQOT.bp2-animate-enter3 {
+  animation: bp2-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-767 .meine-geschichte-vazQOT {
+  -webkit-text-stroke: 0.5px var(--thunderbird);
+  background-color: transparent;
+  bottom: calc(35.16% - 7px);
+  color: var(--thunderbird);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 93px;
+  letter-spacing: 0.40px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.felix-767 .meine-geschichte-vazQOT.bp2-animate-enter4 {
+  animation: bp2-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-767 .ich-hatte-schon-imme-vazQOT {
+  background-color: transparent;
+  bottom: calc(25.13% - 80px);
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 319px;
+  left: 93px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 204px);
+}
+
+.felix-767 .ich-hatte-schon-imme-vazQOT.bp2-animate-enter5 {
+  animation: bp2-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-767 .gruppe-972-vazQOT {
+  background-color: transparent;
+  bottom: calc(18.02% - 13px);
+  display: block;
+  height: 71px;
+  left: calc(50.00% - 176px);
+  opacity: 0;
+  position: absolute;
+  width: 351px;
+}
+
+.felix-767 .gruppe-972-vazQOT.bp2-animate-enter6 {
+  animation: bp2-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-767 .willst-du-mehr-ber-unseren-v4zmns {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.felix-767 .service-v4zmns {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: 34px;
+  left: calc(24.71% - 24px);
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.felix-767 .erfahren-v4zmns {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: 34px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  right: calc(27.75% - 35px);
+  text-align: left;
+  white-space: nowrap;
+  width: 126px;
+}
+
+.felix-767 .felix-steck-147wCA {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  display: block;
+  font-family: var(--font-family-magistral-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 38px;
+  left: 75px;
+  letter-spacing: 0.70px;
+  line-height: 28px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(36.45% - 14px);
+  white-space: nowrap;
+  width: 147px;
+}
+
+.felix-767 .felix-steck-147wCA.bp2-animate-enter7 {
+  animation: bp2-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-767 .strategie-design-vazQOT {
+  background-color: transparent;
+  display: block;
+  height: 26px;
+  left: 75px;
+  letter-spacing: 0.50px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(38.18% - 10px);
+  white-space: nowrap;
+  width: 159px;
+}
+
+.felix-767 .strategie-design-vazQOT.bp2-animate-enter8 {
+  animation: bp2-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-767 .linie-41-vazQOT {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 74px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 39.51%;
+  width: 50px;
+}
+
+.felix-767 .linie-41-vazQOT.bp2-animate-enter9 {
+  animation: bp2-animate-enter9-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-767 .gruppe-1312-vazQOT {
+  background-color: transparent;
+  bottom: 354px;
+  cursor: pointer;
+  height: 46px;
+  left: calc(48.45% - 75px);
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.3s ease;
+  width: 154px;
+}
+
+.felix-767 .gruppe-1312-vazQOT:hover {
+  transform: scale(1.1);
+}
+
+.felix-767 .gruppe-1250-xzz1Uf {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.felix-767 .gruppe-1250-xzz1Uf.bp2-animate-enter11 {
+  animation: bp2-animate-enter11-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-767 .gruppe-1250-xzz1Uf:hover {
+  transform: scale(1.1);
+}
+
+.felix-767 .rechteck-1181-rYPyi7 {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 46px;
+  left: calc(50.00% - 77px);
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: calc(50.00% - 23px);
+  transition: all 0.3s ease;
+  width: 154px;
+}
+
+.felix-767 .rechteck-1181-rYPyi7.bp2-animate-enter10 {
+  animation: bp2-animate-enter10-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-767 .rechteck-1181-rYPyi7:hover {
+  transform: scale(1.1);
+}
+
+.felix-767 .kontakt-aufnehmen-xzz1Uf {
+  -webkit-text-stroke: 0.3499999940395355px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 19px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  text-align: center;
+  top: calc(14.81% - 3px);
+  white-space: nowrap;
+  width: calc(100.00% - 28px);
+}
+
+.felix-767 .gruppe-910-vazQOT {
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-767 .gruppe-910-vazQOT.bp2-animate-enter12 {
+  animation: bp2-animate-enter12-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter12-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.felix-767 .gruppe-164-qYxTgs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-767 .rechteck-305-qA5PxO {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-767 .gruppe-226-qYxTgs {
+  background-color: transparent;
+  height: 13px;
+  left: 19px;
+  position: absolute;
+  top: calc(42.87% - 6px);
+  width: 18px;
+}
+
+.felix-767 .rechteck-315-cg0P1K {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-767 .rechteck-316-cg0P1K {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 100%;
+}
+
+.felix-767 .rechteck-317-cg0P1K {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.felix-767 .rechteck-623-vazQOT {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.felix-767 .x104501_twitter_bird_icon-vazQOT {
+  background-color: transparent;
+  bottom: 39px;
+  cursor: pointer;
+  height: 27px;
+  object-fit: cover;
+  position: absolute;
+  right: 136px;
+  width: 34px;
+}
+
+.felix-767 .gruppe-1019-vazQOT {
+  background-color: transparent;
+  bottom: 12px;
+  height: 18px;
+  position: absolute;
+  right: 27px;
+  width: 143px;
+}
+
+.felix-767 .gruppe-909-oBNgVS {
+  background-color: transparent;
+  bottom: 9px;
+  height: 9px;
+  opacity: 0.85;
+  position: absolute;
+  right: 134px;
+  width: 9px;
+}
+
+.felix-767 .ellipse-59445-SX79fP {
+  background-color: transparent;
+  border-radius: 4.38px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.felix-767 .c-SX79fP {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.felix-767 .x2018-all-rights-reserved-oBNgVS {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  width: calc(100.00% - 13px);
+}
+
+.felix-767 .gruppe-1026-vazQOT {
+  background-color: transparent;
+  bottom: 22px;
+  height: 203px;
+  left: 52px;
+  position: absolute;
+  width: 72.10%;
+}
+
+.felix-767 .gruppe-1016-MG0MnO {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.felix-767 .beratung-AGBczp {
+  background-color: transparent;
+  bottom: 6px;
+  height: 62px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.felix-767 .ssl-AGBczp {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.felix-767 .jetzt-digitalisieren-MG0MnO {
+  background-color: transparent;
+  bottom: 178px;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 188px;
+}
+
+.felix-767 .vereinbare-ein-strategiegesprch-MG0MnO {
+  background-color: transparent;
+  bottom: 99px;
+  color: var(--blue-jeans);
+  cursor: pointer;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 222px;
+}
+
+.felix-767 .gruppe-1017-MG0MnO {
+  background-color: transparent;
+  bottom: 15px;
+  height: 188px;
+  position: absolute;
+  right: calc(36.78% - 43px);
+  width: 118px;
+}
+
+.felix-767 .rechtliches-jfZ0c7 {
+  background-color: transparent;
+  bottom: 163px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.felix-767 .agb-jfZ0c7 {
+  background-color: transparent;
+  bottom: 84px;
+  cursor: pointer;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.felix-767 .impressum-jfZ0c7 {
+  background-color: transparent;
+  bottom: 40px;
+  cursor: pointer;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.felix-767 .datenschutz-jfZ0c7 {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.felix-767 .gruppe-1018-MG0MnO {
+  background-color: transparent;
+  bottom: 59px;
+  height: 144px;
+  position: absolute;
+  right: 0px;
+  width: 118px;
+}
+
+.felix-767 .get-your-Um6VxQ {
+  background-color: transparent;
+  bottom: 119px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.felix-767 .referenzen-Um6VxQ {
+  background-color: transparent;
+  bottom: 40px;
+  cursor: pointer;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.felix-767 .netzwerk-Um6VxQ {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.felix-767 .zusammen-abheben-MG0MnO {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 128px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 164px;
+}
+@media screen and (max-width: 766px) {
+  .screen.felix { 
+    display: none;
+   }
+  .screen.felix-1200 { 
+    display: none;
+   }
+  .screen.felix-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.felix { 
+    display: none;
+   }
+  .screen.felix-1200 { 
+    display: none;
+   }
+  .screen.felix-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1899px) {
+  .screen.felix { 
+    display: none;
+   }
+  .screen.felix-767 { 
+    display: none;
+   }
+  .screen.felix-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1900px) {
+  .screen.felix-1200 { 
+    display: none;
+   }
+  .screen.felix-767 { 
+    display: none;
+   }
+  .screen.felix-375 { 
+    display: none;
+   }
+}

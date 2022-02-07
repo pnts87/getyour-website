@@ -1,4 +1,10 @@
 @font-face {
+  font-family: "FormaDJR Micro-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/Forma DJR Micro Medium.otf") format("opentype");
+}
+@font-face {
   font-family: "Magistral-Book";
   font-style: normal;
   font-weight: 400;
@@ -9,12 +15,6 @@
   font-style: normal;
   font-weight: 400;
   src: url("../fonts/Forma DJR Micro Regular.otf") format("opentype");
-}
-@font-face {
-  font-family: "FormaDJR Micro-Medium";
-  font-style: normal;
-  font-weight: 500;
-  src: url("../fonts/Forma DJR Micro Medium.otf") format("opentype");
 }
 @font-face {
   font-family: "FormaDJR Micro-Light";
