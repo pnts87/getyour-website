@@ -1,0 +1,3345 @@
+/* screen - pana */
+
+.pana {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3314px;
+  min-width: 1900px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.pana .b7-b8-e135-955-d-491-zzdR6Q {
+  background-color: transparent;
+  display: block;
+  height: 1267px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: -187px;
+  width: 100%;
+}
+
+.pana .b7-b8-e135-955-d-491-zzdR6Q.bp4-animate-enter {
+  animation: bp4-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana .logo-final-zzdR6Q {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 68px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 38px;
+  top: 69px;
+  width: 66px;
+}
+
+.pana .logo-final-zzdR6Q.bp4-animate-enter1 {
+  animation: bp4-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana .panagiotis-tsivelekidis-zzdR6Q {
+  -webkit-text-stroke: 4px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-book);
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 400;
+  height: 117px;
+  letter-spacing: 2.20px;
+  line-height: 88px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.90% - 461px);
+  text-align: left;
+  top: calc(19.25% - 23px);
+  white-space: nowrap;
+  width: 924px;
+}
+
+.pana .panagiotis-tsivelekidis-zzdR6Q.bp4-animate-enter2 {
+  animation: bp4-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana .gruppe-412-zzdR6Q {
+  background-color: transparent;
+  bottom: calc(21.17% - 33px);
+  display: block;
+  height: 154px;
+  opacity: 0;
+  position: absolute;
+  right: calc(47.95% - 374px);
+  width: 780px;
+}
+
+.pana .gruppe-412-zzdR6Q.bp4-animate-enter3 {
+  animation: bp4-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana .willst-du-mehr-ber-unseren-x5KIs1 {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 74px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.pana .service-x5KIs1 {
+  background-color: transparent;
+  bottom: -8px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 74px;
+  left: calc(28.45% - 61px);
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 216px;
+}
+
+.pana .erfahren-x5KIs1 {
+  background-color: transparent;
+  bottom: -8px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 74px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  right: 110px;
+  text-align: left;
+  white-space: nowrap;
+  width: 278px;
+}
+
+.pana .gruppe-1050-zzdR6Q {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 2249px);
+  left: 1031px;
+  opacity: 0;
+  position: absolute;
+  top: 1215px;
+  width: calc(100.00% - 1291px);
+}
+
+.pana .gruppe-1050-zzdR6Q.bp4-animate-enter4 {
+  animation: bp4-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana .gruppe-1048-XWALsf {
+  background-color: transparent;
+  height: 1065px;
+  left: calc(50.00% - 304px);
+  position: relative;
+  top: calc(50.00% - 532px);
+  width: 609px;
+}
+
+.pana .linie-41-Z8eEBC {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 16.13%;
+  width: 279px;
+}
+
+.pana .panagiotis-tsivelekidis-Z8eEBC {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-magistral-medium);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 1.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 0.59%;
+  white-space: nowrap;
+  width: 451px;
+}
+
+.pana .strategie-entwicklung-Z8eEBC {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  letter-spacing: 0.70px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: calc(9.56% - 3px);
+  white-space: nowrap;
+  width: 286px;
+}
+
+.pana .meine-geschichte-Z8eEBC {
+  -webkit-text-stroke: 0.30000001192092896px var(--thunderbird);
+  background-color: transparent;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(24.81% - 6px);
+  white-space: nowrap;
+  width: 150px;
+}
+
+.pana .als-wir-vor-3-jahren-Z8eEBC {
+  background-color: transparent;
+  bottom: calc(1.39% - 11px);
+  height: 778px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  width: 611px;
+}
+
+.pana .gruppe-1243-zzdR6Q {
+  background-color: transparent;
+  bottom: 1121px;
+  height: 24.53%;
+  left: -37px;
+  position: absolute;
+  width: calc(100.00% - 890px);
+}
+
+.pana .pana-bewerbungsbild-min-mDnynY {
+  background-color: transparent;
+  height: calc(100.00% - 78px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana .rechteck-1229-mDnynY {
+  background: linear-gradient(180deg, rgba(20, 20, 20, 0) 0%, #141414 100%);
+  background-color: transparent;
+  bottom: 0px;
+  height: 266px;
+  left: 37px;
+  position: absolute;
+  width: calc(100.00% - 37px);
+}
+
+.pana .gruppe-1302-zzdR6Q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2.11%;
+  left: 43.00%;
+  pointer-events: auto;
+  position: absolute;
+  top: 81.23%;
+  transition: all 0.3s ease;
+  width: 16.42%;
+}
+
+.pana .gruppe-1302-zzdR6Q:hover {
+  transform: scale(1.1);
+}
+
+.pana .gruppe-1249-irxYn7 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 70px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 312px;
+}
+
+.pana .gruppe-1249-irxYn7.bp4-animate-enter6 {
+  animation: bp4-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana .gruppe-1249-irxYn7:hover {
+  transform: scale(1.1);
+}
+
+.pana .rechteck-596-9nBPVl {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 70px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 312px;
+}
+
+.pana .rechteck-596-9nBPVl.bp4-animate-enter5 {
+  animation: bp4-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana .rechteck-596-9nBPVl:hover {
+  transform: scale(1.1);
+}
+
+.pana .kontakt-aufnehmen-irxYn7 {
+  -webkit-text-stroke: 0.8999999761581421px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pana .gruppe-910-zzdR6Q {
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.pana .gruppe-910-zzdR6Q.bp4-animate-enter7 {
+  animation: bp4-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana .gruppe-164-xCkcWO {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana .rechteck-305-Qgip1p {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pana .gruppe-226-xCkcWO {
+  background-color: transparent;
+  bottom: calc(46.15% - 11px);
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  width: 33px;
+}
+
+.pana .rechteck-315-H08Kc7 {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana .rechteck-316-H08Kc7 {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 4px);
+  width: 100%;
+}
+
+.pana .rechteck-317-H08Kc7 {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.pana .gruppe-1239-zzdR6Q {
+  background-color: transparent;
+  bottom: 0px;
+  height: 399px;
+  left: -10px;
+  position: absolute;
+  width: calc(100.00% + 20px);
+}
+
+.pana .rechteck-623-H1MigH {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 399px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.pana .x104501_twitter_bird_icon-H1MigH {
+  background-color: transparent;
+  bottom: 186px;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: absolute;
+  right: 339px;
+  width: 40px;
+}
+
+.pana .gruppe-1011-H1MigH {
+  background-color: transparent;
+  bottom: 136px;
+  height: 29px;
+  position: absolute;
+  right: 155px;
+  width: 246px;
+}
+
+.pana .gruppe-909-2QRJyN {
+  background-color: transparent;
+  bottom: 10px;
+  height: 19px;
+  opacity: 0.85;
+  position: absolute;
+  right: 232px;
+  width: 14px;
+}
+
+.pana .ellipse-59445-0tWpQA {
+  background-color: transparent;
+  border: 1px solid var(--licorice);
+  border-radius: 7px;
+  bottom: 2px;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.pana .c-0tWpQA {
+  -webkit-text-stroke: 0.30000001192092896px var(--licorice);
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(25.00% - 2px);
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 10px;
+}
+
+.pana .x2018-all-rights-reserved-2QRJyN {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 229px;
+}
+
+.pana .gruppe-1025-H1MigH {
+  background-color: transparent;
+  bottom: 25px;
+  height: 297px;
+  left: 152px;
+  position: absolute;
+  width: 1131px;
+}
+
+.pana .gruppe-1008-1kjnjh {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  width: 203px;
+}
+
+.pana .beratung-xx5J3r {
+  background-color: transparent;
+  bottom: 7px;
+  height: 76px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 77px;
+}
+
+.pana .ssl-xx5J3r {
+  background-color: transparent;
+  bottom: 0px;
+  height: 90px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 90px;
+}
+
+.pana .jetzt-digitalisieren-1kjnjh {
+  background-color: transparent;
+  bottom: 250px;
+  height: 43px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 354px;
+}
+
+.pana .vereinbare-ein-strategiegesprch-1kjnjh {
+  background-color: transparent;
+  bottom: 98px;
+  color: var(--blue-jeans);
+  cursor: pointer;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 324px;
+}
+
+.pana .zusammen-abheben-1kjnjh {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 146px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 35px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 286px;
+}
+
+.pana .gruppe-1009-1kjnjh {
+  background-color: transparent;
+  bottom: 37px;
+  height: 260px;
+  position: absolute;
+  right: calc(42.57% - 97px);
+  width: 229px;
+}
+
+.pana .agb-E9YZk3 {
+  background-color: transparent;
+  bottom: 126px;
+  cursor: pointer;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.pana .impressum-E9YZk3 {
+  background-color: transparent;
+  bottom: 60px;
+  cursor: pointer;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.pana .datenschutz-E9YZk3 {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 125px;
+}
+
+.pana .rechtliches-E9YZk3 {
+  background-color: transparent;
+  bottom: 215px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.pana .gruppe-1010-1kjnjh {
+  background-color: transparent;
+  bottom: 102px;
+  height: 195px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.pana .referenzen-hIVdBB {
+  background-color: transparent;
+  bottom: 60px;
+  cursor: pointer;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.pana .netzwerk-hIVdBB {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.pana .get-your-hIVdBB {
+  background-color: transparent;
+  bottom: 150px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+/* screen - pana-1200 */
+
+.pana-1200 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2335px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.pana-1200 .b7-b8-e135-955-d-491-UXpNtY {
+  background-color: transparent;
+  display: block;
+  height: 874px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% + 110px);
+}
+
+.pana-1200 .b7-b8-e135-955-d-491-UXpNtY.bp3-animate-enter {
+  animation: bp3-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-1200 .logo-final-UXpNtY {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 58px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 58px;
+  top: 73px;
+  width: 56px;
+}
+
+.pana-1200 .logo-final-UXpNtY.bp3-animate-enter1 {
+  animation: bp3-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-1200 .gruppe-910-UXpNtY {
+  background-color: transparent;
+  display: block;
+  height: 25px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-1200 .gruppe-910-UXpNtY.bp3-animate-enter2 {
+  animation: bp3-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-1200 .gruppe-164-9SFUOD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-1200 .rechteck-305-6IQbCx {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-1200 .gruppe-226-9SFUOD {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 19px;
+  position: absolute;
+  top: 3px;
+  width: 25px;
+}
+
+.pana-1200 .rechteck-315-clR7Tp {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-1200 .rechteck-316-clR7Tp {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(46.15% - 3px);
+  width: 100%;
+}
+
+.pana-1200 .rechteck-317-clR7Tp {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.pana-1200 .panagiotis-tsivelekidis-UXpNtY {
+  -webkit-text-stroke: 2.5999999046325684px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-book);
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 400;
+  height: 74px;
+  letter-spacing: 1.38px;
+  line-height: 55px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.76% - 288px);
+  text-align: left;
+  top: calc(21.21% - 16px);
+  white-space: nowrap;
+  width: 579px;
+}
+
+.pana-1200 .panagiotis-tsivelekidis-UXpNtY.bp3-animate-enter3 {
+  animation: bp3-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-1200 .gruppe-972-UXpNtY {
+  background-color: transparent;
+  bottom: calc(20.61% - 17px);
+  display: block;
+  height: 84px;
+  left: calc(50.00% - 214px);
+  opacity: 0;
+  position: absolute;
+  width: 429px;
+}
+
+.pana-1200 .gruppe-972-UXpNtY.bp3-animate-enter4 {
+  animation: bp3-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-1200 .willst-du-mehr-ber-unseren-FiBAnX {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.pana-1200 .service-FiBAnX {
+  background-color: transparent;
+  bottom: -6px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  left: calc(27.33% - 33px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 120px;
+}
+
+.pana-1200 .erfahren-FiBAnX {
+  background-color: transparent;
+  bottom: -6px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: 61px;
+  text-align: left;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.pana-1200 .gruppe-1051-UXpNtY {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 1568px);
+  left: 678px;
+  opacity: 0;
+  position: absolute;
+  top: 917px;
+  width: calc(100.00% - 770px);
+}
+
+.pana-1200 .gruppe-1051-UXpNtY.bp3-animate-enter5 {
+  animation: bp3-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-1200 .gruppe-1049-JqeYKQ {
+  background-color: transparent;
+  height: 767px;
+  left: calc(50.00% - 215px);
+  position: relative;
+  top: calc(50.00% - 384px);
+  width: 430px;
+}
+
+.pana-1200 .linie-41-e9EUBV {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 13.81%;
+  width: 78px;
+}
+
+.pana-1200 .panagiotis-tsivelekidis-e9EUBV {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-magistral-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 38px;
+  left: 1px;
+  letter-spacing: 0.70px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0.55%;
+  white-space: nowrap;
+  width: 316px;
+}
+
+.pana-1200 .strategie-entwicklung-e9EUBV {
+  background-color: transparent;
+  height: 26px;
+  left: 1px;
+  letter-spacing: 0.50px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(6.88% - 2px);
+  white-space: nowrap;
+  width: 205px;
+}
+
+.pana-1200 .meine-geschichte-e9EUBV {
+  -webkit-text-stroke: 0.30000001192092896px var(--thunderbird);
+  background-color: transparent;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(17.41% - 4px);
+  white-space: nowrap;
+  width: 150px;
+}
+
+.pana-1200 .als-wir-vor-3-jahren-e9EUBV {
+  background-color: transparent;
+  bottom: calc(1.66% - 10px);
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 616px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0.86;
+  position: absolute;
+  text-align: left;
+  width: 432px;
+}
+
+.pana-1200 .gruppe-1244-UXpNtY {
+  background-color: transparent;
+  bottom: calc(43.70% - 229px);
+  height: 525px;
+  left: 0px;
+  position: absolute;
+  width: 652px;
+}
+
+.pana-1200 .pana-bewerbungsbild-min-YcUxkU {
+  background-color: transparent;
+  height: calc(100.00% - 50px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-1200 .rechteck-1229-YcUxkU {
+  background: linear-gradient(180deg, rgba(20, 20, 20, 0) 0%, #141414 100%);
+  background-color: transparent;
+  bottom: 0px;
+  height: 172px;
+  left: 24px;
+  position: absolute;
+  width: calc(100.00% - 24px);
+}
+
+.pana-1200 .gruppe-1310-UXpNtY {
+  background-color: transparent;
+  bottom: 378px;
+  cursor: pointer;
+  height: 58px;
+  left: calc(50.00% - 119px);
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.3s ease;
+  width: 238px;
+}
+
+.pana-1200 .gruppe-1310-UXpNtY:hover {
+  transform: scale(1.1);
+}
+
+.pana-1200 .gruppe-1249-EvpLu3 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.pana-1200 .gruppe-1249-EvpLu3.bp3-animate-enter7 {
+  animation: bp3-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-1200 .gruppe-1249-EvpLu3:hover {
+  transform: scale(1.1);
+}
+
+.pana-1200 .rechteck-596-t2SU6Q {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 58px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 238px;
+}
+
+.pana-1200 .rechteck-596-t2SU6Q.bp3-animate-enter6 {
+  animation: bp3-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-1200 .rechteck-596-t2SU6Q:hover {
+  transform: scale(1.1);
+}
+
+.pana-1200 .kontakt-aufnehmen-EvpLu3 {
+  -webkit-text-stroke: 0.6000000238418579px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  position: absolute;
+  right: calc(48.68% - 79px);
+  text-align: center;
+  top: calc(17.14% - 4px);
+  white-space: nowrap;
+  width: 162px;
+}
+
+.pana-1200 .gruppe-910-uBPEh1 {
+  background-color: transparent;
+  display: block;
+  height: 25px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-1200 .gruppe-910-uBPEh1.bp3-animate-enter8 {
+  animation: bp3-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-1200 .gruppe-164-Zpwi5V {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-1200 .rechteck-305-xLQ2LR {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-1200 .gruppe-226-Zpwi5V {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 19px;
+  position: absolute;
+  top: 3px;
+  width: 25px;
+}
+
+.pana-1200 .rechteck-315-o2gLnz {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-1200 .rechteck-316-o2gLnz {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(46.15% - 3px);
+  width: 100%;
+}
+
+.pana-1200 .rechteck-317-o2gLnz {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.pana-1200 .rechteck-623-UXpNtY {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.pana-1200 .x104501_twitter_bird_icon-UXpNtY {
+  background-color: transparent;
+  bottom: 111px;
+  cursor: pointer;
+  height: 28px;
+  object-fit: cover;
+  position: absolute;
+  right: 212px;
+  width: 35px;
+}
+
+.pana-1200 .gruppe-1024-UXpNtY {
+  background-color: transparent;
+  bottom: 16px;
+  height: 209px;
+  left: 152px;
+  position: absolute;
+  width: 802px;
+}
+
+.pana-1200 .gruppe-1012-cXLVLj {
+  background-color: transparent;
+  bottom: 6px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.pana-1200 .beratung-B9I9Ck {
+  background-color: transparent;
+  bottom: 6px;
+  height: 83.78%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.pana-1200 .ssl-B9I9Ck {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.pana-1200 .jetzt-digitalisieren-cXLVLj {
+  background-color: transparent;
+  bottom: 176px;
+  height: 31px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 250px;
+}
+
+.pana-1200 .zusammen-abheben-cXLVLj {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 134px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.pana-1200 .vereinbare-ein-strategiegesprch-cXLVLj {
+  background-color: transparent;
+  bottom: 102px;
+  color: var(--blue-jeans);
+  cursor: pointer;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 251px;
+}
+
+.pana-1200 .gruppe-1013-cXLVLj {
+  background-color: transparent;
+  bottom: 0px;
+  height: 209px;
+  position: absolute;
+  right: calc(43.89% - 72px);
+  width: 164px;
+}
+
+.pana-1200 .rechtliches-QhkJVu {
+  background-color: transparent;
+  bottom: 164px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 166px;
+}
+
+.pana-1200 .agb-QhkJVu {
+  background-color: transparent;
+  bottom: 102px;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.pana-1200 .impressum-QhkJVu {
+  background-color: transparent;
+  bottom: 50px;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.pana-1200 .datenschutz-QhkJVu {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.pana-1200 .gruppe-1014-cXLVLj {
+  background-color: transparent;
+  bottom: 53px;
+  height: 156px;
+  position: absolute;
+  right: 0px;
+  width: 229px;
+}
+
+.pana-1200 .get-your-GIp7sg {
+  background-color: transparent;
+  bottom: 111px;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 231px;
+}
+
+.pana-1200 .referenzen-GIp7sg {
+  background-color: transparent;
+  bottom: 50px;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.pana-1200 .netzwerk-GIp7sg {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.pana-1200 .gruppe-1015-UXpNtY {
+  background-color: transparent;
+  bottom: 75px;
+  height: 27px;
+  position: absolute;
+  right: 26px;
+  width: 226px;
+}
+
+.pana-1200 .gruppe-909-Cy6k3l {
+  background-color: transparent;
+  bottom: 13px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 217px;
+  width: 9px;
+}
+
+.pana-1200 .x2018-all-rights-reserved-Cy6k3l {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 13px);
+}
+/* screen - pana-375 */
+
+.pana-375 {
+  background-color: #161616;
+  height: 100vh;
+  margin: 0px;
+  min-height: 2146px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.pana-375 .gruppe-1243-e8Jaz8 {
+  background-color: transparent;
+  bottom: calc(49.97% - 158px);
+  height: 317px;
+  left: calc(50.00% - 188px);
+  position: absolute;
+  width: 375px;
+}
+
+.pana-375 .pana-bewerbungsbild-min-h4DjQG {
+  background-color: transparent;
+  height: calc(100.00% - 44px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-375 .rechteck-1229-h4DjQG {
+  background: linear-gradient(180deg, rgba(20, 20, 20, 0) 0%, #141414 100%);
+  background-color: transparent;
+  bottom: 0px;
+  height: 79px;
+  left: 42px;
+  position: absolute;
+  width: calc(100.00% - 57px);
+}
+
+.pana-375 .b7-b8-e135-955-d-491-e8Jaz8 {
+  background-color: transparent;
+  display: block;
+  height: 733px;
+  left: -213px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% + 724px);
+}
+
+.pana-375 .b7-b8-e135-955-d-491-e8Jaz8.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-375 .logo-final-e8Jaz8 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 37px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 25px;
+  top: 38px;
+  width: 36px;
+}
+
+.pana-375 .logo-final-e8Jaz8.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-375 .linie-41-e8Jaz8 {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 26px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 39.10%;
+  width: 50px;
+}
+
+.pana-375 .linie-41-e8Jaz8.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-375 .gruppe-1284-e8Jaz8 {
+  background-color: transparent;
+  bottom: 216px;
+  cursor: pointer;
+  display: block;
+  height: 46px;
+  left: calc(48.42% - 75px);
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.3s ease;
+  width: 154px;
+}
+
+.pana-375 .gruppe-1284-e8Jaz8.bp1-animate-enter5 {
+  animation: bp1-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-375 .gruppe-1284-e8Jaz8:hover {
+  transform: scale(1.1);
+}
+
+.pana-375 .rechteck-1207-5xwQ3D {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 46px;
+  left: calc(50.00% - 77px);
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: calc(50.00% - 23px);
+  transition: all 0.3s ease;
+  width: 154px;
+}
+
+.pana-375 .rechteck-1207-5xwQ3D.bp1-animate-enter3 {
+  animation: bp1-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-375 .rechteck-1207-5xwQ3D:hover {
+  transform: scale(1.1);
+}
+
+.pana-375 .pfad-3382-5xwQ3D {
+  background-color: transparent;
+  bottom: calc(49.77% - 6px);
+  display: block;
+  height: 11px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: calc(48.32% - 58px);
+  width: 120px;
+}
+
+.pana-375 .pfad-3382-5xwQ3D.bp1-animate-enter4 {
+  animation: bp1-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-375 .panagiotis-tsivelekidis-e8Jaz8 {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  display: block;
+  font-family: var(--font-family-magistral-medium);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  height: 27px;
+  left: 26px;
+  letter-spacing: 0.47px;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(36.90% - 10px);
+  white-space: nowrap;
+  width: 215px;
+}
+
+.pana-375 .panagiotis-tsivelekidis-e8Jaz8.bp1-animate-enter6 {
+  animation: bp1-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-375 .strategie-entwicklung-e8Jaz8 {
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 26px;
+  letter-spacing: 0.30px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(38.16% - 6px);
+  white-space: nowrap;
+  width: 124px;
+}
+
+.pana-375 .strategie-entwicklung-e8Jaz8.bp1-animate-enter7 {
+  animation: bp1-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-375 .meine-geschichte-e8Jaz8 {
+  -webkit-text-stroke: 0.5px var(--thunderbird);
+  background-color: transparent;
+  bottom: calc(37.65% - 6px);
+  color: var(--thunderbird);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 26px;
+  letter-spacing: 0.30px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.pana-375 .meine-geschichte-e8Jaz8.bp1-animate-enter8 {
+  animation: bp1-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-375 .als-wir-vor-3-jahren-e8Jaz8 {
+  background-color: transparent;
+  bottom: calc(22.50% - 92px);
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: 407px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 68px);
+}
+
+.pana-375 .als-wir-vor-3-jahren-e8Jaz8.bp1-animate-enter9 {
+  animation: bp1-animate-enter9-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-375 .gruppe-972-e8Jaz8 {
+  background-color: transparent;
+  bottom: calc(13.23% - 8px);
+  display: block;
+  height: 60px;
+  left: calc(46.07% - 132px);
+  opacity: 0;
+  position: absolute;
+  width: 286px;
+}
+
+.pana-375 .gruppe-972-e8Jaz8.bp1-animate-enter10 {
+  animation: bp1-animate-enter10-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-375 .willst-du-mehr-ber-unseren-zcOMXA {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.pana-375 .service-zcOMXA {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: calc(23.67% - 19px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.pana-375 .erfahren-zcOMXA {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  right: calc(23.78% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.pana-375 .panagiotistsivelekidis-e8Jaz8 {
+  -webkit-text-stroke: 1px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-book);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: 132px;
+  letter-spacing: 1.25px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  right: calc(38.95% - 109px);
+  text-align: center;
+  top: calc(26.27% - 35px);
+  white-space: nowrap;
+  width: 280px;
+}
+
+.pana-375 .panagiotistsivelekidis-e8Jaz8.bp1-animate-enter11 {
+  animation: bp1-animate-enter11-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-375 .gruppe-910-e8Jaz8 {
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-375 .gruppe-910-e8Jaz8.bp1-animate-enter12 {
+  animation: bp1-animate-enter12-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter12-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-375 .gruppe-164-WnjNpI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-375 .rechteck-305-xxPIaY {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-375 .gruppe-226-WnjNpI {
+  background-color: transparent;
+  height: 13px;
+  left: 9px;
+  position: absolute;
+  top: calc(42.87% - 6px);
+  width: 16px;
+}
+
+.pana-375 .rechteck-315-DM8ISz {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-375 .rechteck-316-DM8ISz {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 100%;
+}
+
+.pana-375 .rechteck-317-DM8ISz {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.pana-375 .gruppe-1356-e8Jaz8 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 151px;
+  left: -1px;
+  position: absolute;
+  width: calc(100.00% + 3px);
+}
+
+.pana-375 .rechteck-623-UR2qAP {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 151px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.pana-375 .x104501_twitter_bird_icon-UR2qAP {
+  background-color: transparent;
+  bottom: 20px;
+  cursor: pointer;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 69px;
+  width: 18px;
+}
+
+.pana-375 .gruppe-1023-UR2qAP {
+  background-color: transparent;
+  bottom: 7px;
+  height: 9px;
+  position: absolute;
+  right: 0px;
+  width: 86px;
+}
+
+.pana-375 .gruppe-909-Jx6Dsl {
+  background-color: transparent;
+  bottom: 3px;
+  height: 6px;
+  opacity: 0.85;
+  position: absolute;
+  right: 82px;
+  width: 5px;
+}
+
+.pana-375 .ellipse-59445-9va0fz {
+  background-color: transparent;
+  border-radius: 2.3px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.pana-375 .c-9va0fz {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(17.64% - 1px);
+  top: 0px;
+  width: 3px;
+}
+
+.pana-375 .x2018-all-rights-reserved-Jx6Dsl {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 5px;
+  font-style: normal;
+  font-weight: 400;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 5px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 82px;
+}
+
+.pana-375 .gruppe-1029-UR2qAP {
+  background-color: transparent;
+  bottom: calc(37.93% - 46px);
+  height: 122px;
+  left: 25px;
+  position: absolute;
+  width: calc(100.00% - 63px);
+}
+
+.pana-375 .gruppe-1027-Oyk036 {
+  background-color: transparent;
+  height: 62.30%;
+  left: 246px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 246px);
+}
+
+.pana-375 .gruppe-1022-tLjB0u {
+  background-color: transparent;
+  bottom: 0px;
+  height: 76px;
+  left: calc(50.00% - 34px);
+  position: absolute;
+  width: 69px;
+}
+
+.pana-375 .get-your-wWmJz8 {
+  background-color: transparent;
+  bottom: 62px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.pana-375 .referenzen-wWmJz8 {
+  background-color: transparent;
+  bottom: 25px;
+  cursor: pointer;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 57px;
+}
+
+.pana-375 .netzwerk-wWmJz8 {
+  background-color: transparent;
+  bottom: -3px;
+  cursor: pointer;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.pana-375 .gruppe-1021-Oyk036 {
+  background-color: transparent;
+  height: 86.07%;
+  left: 135px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 246px);
+}
+
+.pana-375 .rechtliches-yKXJ0u {
+  background-color: transparent;
+  bottom: 91px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 71px;
+}
+
+.pana-375 .agb-yKXJ0u {
+  background-color: transparent;
+  bottom: 53px;
+  cursor: pointer;
+  height: 15px;
+  left: calc(2.13% - 1px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.pana-375 .impressum-yKXJ0u {
+  background-color: transparent;
+  bottom: 25px;
+  cursor: pointer;
+  height: 15px;
+  left: calc(6.67% - 4px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.pana-375 .datenschutz-yKXJ0u {
+  background-color: transparent;
+  bottom: -3px;
+  cursor: pointer;
+  height: 15px;
+  left: calc(14.29% - 9px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.pana-375 .gruppe-1028-Oyk036 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 225px);
+}
+
+.pana-375 .gruppe-1030-QUyMd4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-375 .gruppe-1020-fBOga7 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  width: 82px;
+}
+
+.pana-375 .beratung-g9RkQI {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 31px;
+}
+
+.pana-375 .ssl-g9RkQI {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 36px;
+}
+
+.pana-375 .digitalisieren-fBOga7 {
+  background-color: transparent;
+  bottom: 107px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.pana-375 .strategiegesprch-fBOga7 {
+  background-color: transparent;
+  bottom: 42px;
+  color: var(--blue-jeans);
+  cursor: pointer;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 92px;
+}
+/* screen - pana-767 */
+
+.pana-767 {
+  background-color: var(--licorice);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2480px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.pana-767 .b7-b8-e135-955-d-491-Wd1Fs6 {
+  background-color: transparent;
+  display: block;
+  height: 802px;
+  left: -201px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% + 436px);
+}
+
+.pana-767 .b7-b8-e135-955-d-491-Wd1Fs6.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-767 .logo-final-Wd1Fs6 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 58px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 35px;
+  top: 48px;
+  width: 56px;
+}
+
+.pana-767 .logo-final-Wd1Fs6.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-767 .panagiotis-tsivelekidis-Wd1Fs6 {
+  -webkit-text-stroke: 3.299999952316284px var(--gallery);
+  background-color: transparent;
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-magistral-light);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 300;
+  height: 67px;
+  letter-spacing: 1.25px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.63% - 248px);
+  text-align: left;
+  top: calc(23.02% - 15px);
+  white-space: nowrap;
+  width: 499px;
+}
+
+.pana-767 .panagiotis-tsivelekidis-Wd1Fs6.bp2-animate-enter2 {
+  animation: bp2-animate-enter2-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-767 .meine-geschichte-Wd1Fs6 {
+  -webkit-text-stroke: 0.5px var(--thunderbird);
+  background-color: transparent;
+  bottom: calc(38.29% - 8px);
+  color: var(--thunderbird);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 93px;
+  letter-spacing: 0.40px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.pana-767 .meine-geschichte-Wd1Fs6.bp2-animate-enter3 {
+  animation: bp2-animate-enter3-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-767 .als-wir-vor-3-jahren-Wd1Fs6 {
+  background-color: transparent;
+  bottom: calc(28.82% - 92px);
+  color: var(--gallery);
+  display: block;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 318px;
+  left: 93px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 204px);
+}
+
+.pana-767 .als-wir-vor-3-jahren-Wd1Fs6.bp2-animate-enter4 {
+  animation: bp2-animate-enter4-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-767 .gruppe-972-Wd1Fs6 {
+  background-color: transparent;
+  bottom: calc(18.02% - 13px);
+  display: block;
+  height: 71px;
+  left: calc(50.00% - 176px);
+  opacity: 0;
+  position: absolute;
+  width: 351px;
+}
+
+.pana-767 .gruppe-972-Wd1Fs6.bp2-animate-enter5 {
+  animation: bp2-animate-enter5-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-767 .willst-du-mehr-ber-unseren-dVhMua {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.pana-767 .service-dVhMua {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--blue-jeans);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: 34px;
+  left: calc(24.71% - 24px);
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.pana-767 .erfahren-dVhMua {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--thunderbird);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: 34px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  right: calc(27.75% - 35px);
+  text-align: left;
+  white-space: nowrap;
+  width: 126px;
+}
+
+.pana-767 .panagiotis-tsivelekidis-RwVHzf {
+  background-color: transparent;
+  color: var(--blue-jeans);
+  display: block;
+  font-family: var(--font-family-magistral-medium);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 38px;
+  left: 75px;
+  letter-spacing: 0.70px;
+  line-height: 28px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(36.45% - 14px);
+  white-space: nowrap;
+  width: 316px;
+}
+
+.pana-767 .panagiotis-tsivelekidis-RwVHzf.bp2-animate-enter6 {
+  animation: bp2-animate-enter6-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-767 .strategie-entwicklung-Wd1Fs6 {
+  background-color: transparent;
+  display: block;
+  height: 26px;
+  left: 75px;
+  letter-spacing: 0.50px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(38.18% - 10px);
+  white-space: nowrap;
+  width: 205px;
+}
+
+.pana-767 .strategie-entwicklung-Wd1Fs6.bp2-animate-enter7 {
+  animation: bp2-animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-767 .linie-41-Wd1Fs6 {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 74px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 39.51%;
+  width: 50px;
+}
+
+.pana-767 .linie-41-Wd1Fs6.bp2-animate-enter8 {
+  animation: bp2-animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-767 .gruppe-1243-Wd1Fs6 {
+  background-color: transparent;
+  height: 556px;
+  left: calc(50.00% - 346px);
+  position: absolute;
+  top: calc(49.90% - 277px);
+  width: 691px;
+}
+
+.pana-767 .pana-bewerbungsbild-min-kdCxiJ {
+  background-color: transparent;
+  height: calc(100.00% - 53px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-767 .rechteck-1229-kdCxiJ {
+  background: linear-gradient(180deg, rgba(20, 20, 20, 0) 0%, #141414 100%);
+  background-color: transparent;
+  bottom: 0px;
+  height: 182px;
+  left: 25px;
+  position: absolute;
+  width: calc(100.00% - 25px);
+}
+
+.pana-767 .gruppe-1312-Wd1Fs6 {
+  background-color: transparent;
+  bottom: 354px;
+  cursor: pointer;
+  height: 46px;
+  left: calc(48.45% - 75px);
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.3s ease;
+  width: 154px;
+}
+
+.pana-767 .gruppe-1312-Wd1Fs6:hover {
+  transform: scale(1.1);
+}
+
+.pana-767 .gruppe-1250-yKuZY8 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.pana-767 .gruppe-1250-yKuZY8.bp2-animate-enter10 {
+  animation: bp2-animate-enter10-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-767 .gruppe-1250-yKuZY8:hover {
+  transform: scale(1.1);
+}
+
+.pana-767 .rechteck-1181-NtUFoJ {
+  background-color: var(--blue-jeans-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #00000029;
+  cursor: pointer;
+  display: block;
+  height: 46px;
+  left: calc(50.00% - 77px);
+  opacity: 0;
+  pointer-events: auto;
+  position: relative;
+  top: calc(50.00% - 23px);
+  transition: all 0.3s ease;
+  width: 154px;
+}
+
+.pana-767 .rechteck-1181-NtUFoJ.bp2-animate-enter9 {
+  animation: bp2-animate-enter9-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-767 .rechteck-1181-NtUFoJ:hover {
+  transform: scale(1.1);
+}
+
+.pana-767 .kontakt-aufnehmen-yKuZY8 {
+  -webkit-text-stroke: 0.3499999940395355px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 19px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  text-align: center;
+  top: calc(14.81% - 3px);
+  white-space: nowrap;
+  width: calc(100.00% - 28px);
+}
+
+.pana-767 .gruppe-910-Wd1Fs6 {
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: 0px;
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-767 .gruppe-910-Wd1Fs6.bp2-animate-enter11 {
+  animation: bp2-animate-enter11-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.pana-767 .gruppe-164-lS4sid {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-767 .rechteck-305-EhUH7Q {
+  background-color: var(--gallery);
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-767 .gruppe-226-lS4sid {
+  background-color: transparent;
+  height: 13px;
+  left: 19px;
+  position: absolute;
+  top: calc(42.87% - 6px);
+  width: 18px;
+}
+
+.pana-767 .rechteck-315-tj0JwD {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-767 .rechteck-316-tj0JwD {
+  background-color: var(--red);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 100%;
+}
+
+.pana-767 .rechteck-317-tj0JwD {
+  background-color: var(--supernova);
+  bottom: 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.pana-767 .rechteck-623-Wd1Fs6 {
+  background-color: var(--endeavour);
+  bottom: 0px;
+  height: 249px;
+  left: 0px;
+  opacity: 0.85;
+  position: absolute;
+  width: 100%;
+}
+
+.pana-767 .x104501_twitter_bird_icon-Wd1Fs6 {
+  background-color: transparent;
+  bottom: 39px;
+  cursor: pointer;
+  height: 27px;
+  object-fit: cover;
+  position: absolute;
+  right: 136px;
+  width: 34px;
+}
+
+.pana-767 .gruppe-1019-Wd1Fs6 {
+  background-color: transparent;
+  bottom: 12px;
+  height: 18px;
+  position: absolute;
+  right: 27px;
+  width: 143px;
+}
+
+.pana-767 .gruppe-909-K5MCTj {
+  background-color: transparent;
+  bottom: 9px;
+  height: 9px;
+  opacity: 0.85;
+  position: absolute;
+  right: 134px;
+  width: 9px;
+}
+
+.pana-767 .ellipse-59445-QuMCcw {
+  background-color: transparent;
+  border-radius: 4.38px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pana-767 .c-QuMCcw {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.pana-767 .x2018-all-rights-reserved-K5MCTj {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  width: calc(100.00% - 13px);
+}
+
+.pana-767 .gruppe-1026-Wd1Fs6 {
+  background-color: transparent;
+  bottom: 22px;
+  height: 203px;
+  left: 52px;
+  position: absolute;
+  width: 72.10%;
+}
+
+.pana-767 .gruppe-1016-MpnJlb {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  width: 167px;
+}
+
+.pana-767 .beratung-pfvAsf {
+  background-color: transparent;
+  bottom: 6px;
+  height: 62px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 63px;
+}
+
+.pana-767 .ssl-pfvAsf {
+  background-color: transparent;
+  bottom: 0px;
+  height: 74px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 74px;
+}
+
+.pana-767 .jetzt-digitalisieren-MpnJlb {
+  background-color: transparent;
+  bottom: 178px;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 188px;
+}
+
+.pana-767 .vereinbare-ein-strategiegesprch-MpnJlb {
+  background-color: transparent;
+  bottom: 99px;
+  color: var(--blue-jeans);
+  cursor: pointer;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 222px;
+}
+
+.pana-767 .gruppe-1017-MpnJlb {
+  background-color: transparent;
+  bottom: 15px;
+  height: 188px;
+  position: absolute;
+  right: calc(36.78% - 43px);
+  width: 118px;
+}
+
+.pana-767 .rechtliches-tWyfF4 {
+  background-color: transparent;
+  bottom: 163px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.pana-767 .agb-tWyfF4 {
+  background-color: transparent;
+  bottom: 84px;
+  cursor: pointer;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.pana-767 .impressum-tWyfF4 {
+  background-color: transparent;
+  bottom: 40px;
+  cursor: pointer;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.pana-767 .datenschutz-tWyfF4 {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.pana-767 .gruppe-1018-MpnJlb {
+  background-color: transparent;
+  bottom: 59px;
+  height: 144px;
+  position: absolute;
+  right: 0px;
+  width: 118px;
+}
+
+.pana-767 .get-your-YiM59I {
+  background-color: transparent;
+  bottom: 119px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  width: 120px;
+}
+
+.pana-767 .referenzen-YiM59I {
+  background-color: transparent;
+  bottom: 40px;
+  cursor: pointer;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.pana-767 .netzwerk-YiM59I {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.pana-767 .zusammen-abheben-MpnJlb {
+  -webkit-text-stroke: 0.4000000059604645px var(--gallery);
+  background-color: transparent;
+  bottom: 128px;
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 164px;
+}
+@media screen and (max-width: 766px) {
+  .screen.pana { 
+    display: none;
+   }
+  .screen.pana-1200 { 
+    display: none;
+   }
+  .screen.pana-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.pana { 
+    display: none;
+   }
+  .screen.pana-1200 { 
+    display: none;
+   }
+  .screen.pana-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1899px) {
+  .screen.pana { 
+    display: none;
+   }
+  .screen.pana-767 { 
+    display: none;
+   }
+  .screen.pana-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1900px) {
+  .screen.pana-1200 { 
+    display: none;
+   }
+  .screen.pana-767 { 
+    display: none;
+   }
+  .screen.pana-375 { 
+    display: none;
+   }
+}

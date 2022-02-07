@@ -26,18 +26,10 @@
   --font-family-magistral-light: "Magistral-Light", Helvetica;
   --font-family-magistral-medium: "Magistral-Medium", Helvetica;
 }
-.formadjrmicro-regular-normal-licorice-11px {
+.formadjrmicro-regular-normal-licorice-22px {
   color: var(--licorice);
   font-family: var(--font-family-formadjr_micro-regular);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.formadjrmicro-regular-normal-licorice-15px {
-  color: var(--licorice);
-  font-family: var(--font-family-formadjr_micro-regular);
-  font-size: var(--font-size-m);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -50,20 +42,20 @@
   font-weight: 400;
 }
 
-.formadjrmicro-regular-normal-licorice-22px {
+.formadjrmicro-regular-normal-licorice-15px {
   color: var(--licorice);
   font-family: var(--font-family-formadjr_micro-regular);
-  font-size: var(--font-size-xxxl);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
 
-.formadjrmicro-medium-licorice-10px {
+.formadjrmicro-regular-normal-licorice-11px {
   color: var(--licorice);
-  font-family: var(--font-family-formadjr_micro-medium);
-  font-size: 10px;
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-xs);
   font-style: normal;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .formadjrmicro-regular-normal-gallery-20px {
@@ -74,10 +66,10 @@
   font-weight: 400;
 }
 
-.formadjrmicro-medium-licorice-18px {
+.formadjrmicro-medium-licorice-34px {
   color: var(--licorice);
   font-family: var(--font-family-formadjr_micro-medium);
-  font-size: var(--font-size-xl);
+  font-size: 34px;
   font-style: normal;
   font-weight: 500;
 }
@@ -90,10 +82,18 @@
   font-weight: 500;
 }
 
-.formadjrmicro-medium-licorice-34px {
+.formadjrmicro-medium-licorice-18px {
   color: var(--licorice);
   font-family: var(--font-family-formadjr_micro-medium);
-  font-size: 34px;
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.formadjrmicro-medium-licorice-10px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 10px;
   font-style: normal;
   font-weight: 500;
 }
