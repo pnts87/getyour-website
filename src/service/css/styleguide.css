@@ -3,8 +3,7 @@
   --blue-jeans: #6db2f2;
   --blue-jeans-2: #6db2f2e6;
   --bright-red: #a50000;
-  --celeste: #cecece;
-  --celeste-2: #cbcbcb;
+  --celeste: #cbcbcb;
   --daintree: #07253a;
   --danube: #64a2dc;
   --danube-2: #63a1db;
@@ -25,12 +24,9 @@
   --red-2: #fe0000;
   --sangria: #a40808;
   --sangria-2: #8f0a0a;
-  --steel-blue: #5487b6;
   --supernova: #ffcc00;
-  --tamarillo: #a21717;
   --tart-orange: #f74949;
   --thunderbird: #ba1919;
-  --venice-blue: #0c5291;
   --white: #ffffff;
  
   --font-size-l: 20px;
@@ -116,14 +112,6 @@
   font-weight: 500;
 }
 
-.formadjrmicro-regular-normal-gallery-20px {
-  color: var(--gallery);
-  font-family: var(--font-family-formadjr_micro-regular);
-  font-size: var(--font-size-l);
-  font-style: normal;
-  font-weight: 400;
-}
-
 .formadjrmicro-medium-denim-28px {
   color: var(--denim);
   font-family: var(--font-family-formadjr_micro-medium);
@@ -164,20 +152,20 @@
   font-weight: 500;
 }
 
+.formadjrmicro-regular-normal-gallery-20px {
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
 .magistral-book-normal-gallery-40px {
   color: var(--gallery);
   font-family: var(--font-family-magistral-book);
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
-}
-
-.formadjrmicro-medium-gallery-40px {
-  color: var(--gallery);
-  font-family: var(--font-family-formadjr_micro-medium);
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 500;
 }
 
 .formadjrmicro-medium-black-29px {
@@ -218,14 +206,6 @@
   font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 700;
-}
-
-.formadjrmicro-medium-gallery-32px {
-  color: var(--gallery);
-  font-family: var(--font-family-formadjr_micro-medium);
-  font-size: 32px;
-  font-style: normal;
-  font-weight: 500;
 }
 
 .formadjrmicro-medium-white-22px {
@@ -340,14 +320,6 @@
   font-weight: 400;
 }
 
-.formadjrmicro-regular-normal-gallery-27px {
-  color: var(--gallery);
-  font-family: var(--font-family-formadjr_micro-regular);
-  font-size: 27px;
-  font-style: normal;
-  font-weight: 400;
-}
-
 .magistral-book-normal-blue-jeans-60px {
   color: var(--blue-jeans);
   font-family: var(--font-family-magistral-book);
@@ -356,20 +328,20 @@
   font-weight: 400;
 }
 
+.formadjrmicro-medium-gallery-40px {
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-medium);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+}
+
 .magistral-book-normal-thunderbird-42px {
   color: var(--thunderbird);
   font-family: var(--font-family-magistral-book);
   font-size: 42px;
   font-style: normal;
   font-weight: 400;
-}
-
-.formadjrmicro-medium-celeste-32px {
-  color: var(--celeste);
-  font-family: var(--font-family-formadjr_micro-medium);
-  font-size: 32px;
-  font-style: normal;
-  font-weight: 500;
 }
 
 .magistral-book-normal-blue-jeans-40px {
@@ -392,14 +364,6 @@
   color: var(--thunderbird);
   font-family: var(--font-family-magistral-book);
   font-size: 24px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.magistral-book-normal-blue-jeans-53px {
-  color: var(--blue-jeans);
-  font-family: var(--font-family-magistral-book);
-  font-size: 53px;
   font-style: normal;
   font-weight: 400;
 }
@@ -431,14 +395,6 @@
 .helveticaneue-medium-midnight-blue-25px {
   color: var(--midnight-blue);
   font-family: var(--font-family-helveticaneue-medium);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.formadjrmicro-medium-gallery-25px {
-  color: var(--gallery);
-  font-family: var(--font-family-formadjr_micro-medium);
   font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 500;
