@@ -7,5 +7,8 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0"
+  },
+  "dependencies": {
+    "@getyour/getyour-fireflies": "github:pnts87/getyour-fireflies"
   }
 }
