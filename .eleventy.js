@@ -12,6 +12,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({"./src/service": "service"})
   eleventyConfig.addPassthroughCopy({"./src/team": "team"})
 
+  eleventyConfig.addPassthroughCopy({
+    "node_modules/@getyour/getyour-fireflies/getyour-fireflies.js":
+    "js/getyour-fireflies.js"
+  })
+
   return {
     dir: {
       input: "./src",
