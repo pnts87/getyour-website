@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start": "npm run dev",
-    "dev": "eleventy --serve",
+    "dev": "netlify dev",
+    "start": "npm run clean && eleventy --serve",
     "build": "npm run clean && eleventy",
     "clean": "rm -rf ./public"
   },
