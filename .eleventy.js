@@ -17,7 +17,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addTransform("add-app-script", (content) => {
     const scriptTag =
 `
-    <script type="module" src="../js/app.js"></script>
+    <script type="module" src="../js/global.js"></script>
   </body>
 `
     const result = content.replace(/<\/body>/, scriptTag)
@@ -35,23 +35,19 @@ module.exports = function(eleventyConfig) {
     "js/getyour-fireflies.js"
   })
 
-  eleventyConfig.addTransform("add-google-analytics-tag", (content, outputPath) => {
-    console.log(outputPath);
-    if (outputPath && outputPath.endsWith("/pana/index.html")) {
-      const result = content.replace(/<\/head>/, `<!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5X6N6W8YQ3"></script>
+  eleventyConfig.addTransform("add-google-analytics-tag", (content) => {
+    const result = content.replace(/<\/head>/, `<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5W2YKBV4NZ"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'G-5X6N6W8YQ3');
+      gtag('config', 'G-5W2YKBV4NZ');
     </script>
   </head>
-      `)
-      return result
-    }
-    return content
+    `)
+    return result
   })
 
 
