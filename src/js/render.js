@@ -55,9 +55,9 @@ function _renderGetyourPrivatekeyInputField() {
     const input = document.createElement("input")
 
     input.setAttribute("type", "password")
-    input.setAttribute("name", "privateKey")
+    input.setAttribute("name", "privatekey")
     input.setAttribute("required", "true")
-    input.setAttribute("title", "Bitte geben Sie Ihren Hedera Private Key an.")
+    input.setAttribute("title", "Bitte geben Sie Ihren Private Key an.")
     input.setAttribute("style", `
       background-color: transparent;
       width: 100%;
